@@ -5,18 +5,17 @@
 <!-- 原文定位：🕒 五、常见问题合集/8、【报表】板块常见问题/如何导出员工多次考核的明细数据？.md -->
 # 如何导出员工多次考核的明细数据？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLv5ByV6zbX04v?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何导出员工多次考核的明细数据？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLv5ByV6zbX04v?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/8、【报表】板块常见问题
 
-**背景：**<span style="color: rgb(37, 39, 42);">希望可以一次性将员工多次考核的内容明细全部导出来，年底进行归档汇总</span>
+**背景：**希望可以一次性将员工多次考核的内容明细全部导出来，年底进行归档汇总
 
-**解决方案：**<span style="color: rgba(0, 0, 0, 0.85);">自定义导出报表选择相应的周期和被考核人导出</span>
+**解决方案：**自定义导出报表选择相应的周期和被考核人导出
 
-<span style="color: rgba(0, 0, 0, 0.85);">操作步骤：点击【自定义导出报表】—【新建报表】/编辑 — 选择需要导出的字段并调整好顺序，如下图</span>
+操作步骤：点击【自定义导出报表】—【新建报表】/编辑 — 选择需要导出的字段并调整好顺序，如下图
 
 ![image.png](assets/81f95fa5a9ece2e59206152d0d09c5e5.jpg)
 
@@ -36,11 +35,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/8、【报表】板块常见问题/如何计算员工一整年的考核平均分？.md -->
 # 如何计算员工一整年的考核平均分？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YQBnd5ExVEwmG2reH7LdAGgG8yeZqMmz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何计算员工一整年的考核平均分？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YQBnd5ExVEwmG2reH7LdAGgG8yeZqMmz?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/8、【报表】板块常见问题
 
 点击【数据中心】—结果汇总表—选择考核周期—选择考评表—选择被考核人员—点击设置—汇总计算逻辑选择“取平均值”
@@ -59,14 +57,13 @@
 <!-- 原文定位：🕒 五、常见问题合集/8、【报表】板块常见问题/请问怎么导出数据？.md -->
 # 请问怎么导出数据？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEGpLMWyMoPYe1?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 请问怎么导出数据？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEGpLMWyMoPYe1?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/8、【报表】板块常见问题
 
-<span style="background-color: #FADB14;">**1.考核管理中导出：**</span>
+**1.考核管理中导出：**
 
 点击【考核】-【已发起考核】-“查看”-【更多】-“导出明细/导出结果/自定义导出/导出PDF”，即可导出考核数据
 
@@ -74,22 +71,22 @@
 
 ![image.png](assets/8dd6508ddc67d4f9caec4f18e7498d3b.jpg)
 
-<u>**1.1导出明细**</u>：可以导出考核中每一项指标和指标的打分情况，也可以导出当前节点的处理人，如下表所示：
+**1.1导出明细**：可以导出考核中每一项指标和指标的打分情况，也可以导出当前节点的处理人，如下表所示：
 
 ![](assets/579704a8cd4f3db550320db375489724.jpg)
 
-<u>**1.2**</u><u>**导出结果**</u>：只是导出这个考核的最后总分和等级，不包含指标细节情况，如下表所示
+**1.2****导出结果**：只是导出这个考核的最后总分和等级，不包含指标细节情况，如下表所示
 
 ![](assets/13697f151b21ad2c04374a66d9946957.jpg)
 
-<u>**1.3自定义报表**</u>：可以按照考评表需求设置需要导出的字段以及字段排序。
+**1.3自定义报表**：可以按照考评表需求设置需要导出的字段以及字段排序。
 
 ![image.png](assets/7abcf9dd6eca0151771eded948c06921.jpg)
 
 ![image.png](assets/d4603ffadc560453991655f8c11d9aea.jpg)
 
 
-<u>**1.4导出PDF**</u>：可以给每个员工的考核分别导出一个pdf文件，并且支持添加自定义信息，方便进行存档，还可以直接打印出来，进行线下签字存档。
+**1.4导出PDF**：可以给每个员工的考核分别导出一个pdf文件，并且支持添加自定义信息，方便进行存档，还可以直接打印出来，进行线下签字存档。
 
 ![image.png](assets/6f6bdbaf3f8e62164354cef12eb14690.jpg)
 
@@ -97,7 +94,7 @@
 
 ![image.png](assets/16bb2161349a25bbdb8f2ce37e0ec8a5.jpg)
 
-<span style="background-color: #FADB14;">**2.数据中心中导出：**</span>
+**2.数据中心中导出：**
 
 2.1【数据中心】-自定义导出报表
 
@@ -106,32 +103,32 @@
 与【已发起考核】中的自定义报表功能相同，可以通过新建报表选择需要的导出字段，在导出时可以选择多个考核周期和多名被考核人。
 
 
-<u>**2.2多次考核结果对比表**</u>
+**2.2多次考核结果对比表**
 
-<span style="color: #1890FF;">问题：</span>多数企业的考核形式是每月考核一次或者每个季度考核一次，年底进行汇总。之前系统仅支持每次考核
+问题：多数企业的考核形式是每月考核一次或者每个季度考核一次，年底进行汇总。之前系统仅支持每次考核
 
 单独导出，这样的缺点是无法对单个员工的全年绩效进行汇总对比分析。
 
-<span style="color: #1890FF;">解决方案：</span>因此系统提供按考核人员为单位，导出该人员多次考核的结果，放到一张表中分析汇总
+解决方案：因此系统提供按考核人员为单位，导出该人员多次考核的结果，放到一张表中分析汇总
 
 ![image.png](assets/b1736438664be900b61c030b7f682855.jpg)
 
-<span style="color: #1890FF;">**操作步骤：**</span>
+**操作步骤：**
 1. 选择考核周期（多选）：选择需要导出考核结果的考核名称
 2. 选择考评表：选择带出考核结果的考评表名称
 3. 考评员工（多选）：第一步设置好导出的考核名称后，第二步选择需要导出的考核人员名单
 
-<span style="color: #1890FF;">**页面展示**</span>：每行为每个人的所有考核结果，每次考核包含两列数据：1.考核总分  2.绩效等级
+**页面展示**：每行为每个人的所有考核结果，每次考核包含两列数据：1.考核总分  2.绩效等级
 
 ![](assets/337f05d647aff80eb17001417a35d4ba.jpg)
 
- <u>**2.3单次考核对比表**</u>
+ **2.3单次考核对比表**
 
-<span style="color: #1890FF;">问题：</span>在一次考核中，考核多是按照考评组分类发起的，因此同事之间的考核内容是大同小异的，直接对比总分很难判断考核人员对公司的贡献，因此需要对大家相同的考核内容放到一起进行对比，方便找出某项工作最出色的员工。
+问题：在一次考核中，考核多是按照考评组分类发起的，因此同事之间的考核内容是大同小异的，直接对比总分很难判断考核人员对公司的贡献，因此需要对大家相同的考核内容放到一起进行对比，方便找出某项工作最出色的员工。
 
-<span style="color: #1890FF;">解决方案：</span>因此系统提供将相同分类（一个考评组）的被考核人放到一起，将相同的考核内容放到一起，方便主管分析对比，某项工作中完成最好的员工
+解决方案：因此系统提供将相同分类（一个考评组）的被考核人放到一起，将相同的考核内容放到一起，方便主管分析对比，某项工作中完成最好的员工
 
-<span style="color: #1890FF;">**操作步骤：**</span>
+**操作步骤：**
 
  1.第一步：【数据中心】— 【自定义导出报表】—【新建报表】，选择需要导出的字段，调整好字段排序并保存
 
@@ -143,7 +140,7 @@
 
 （备注：可以根据考评表和部门筛选出需要导出的人员名单）
 
-<span style="color: #1890FF;">**页面展示：**</span>主管可以直观的看到相同指标每项的分数与完成结果与目标值，达到对比成绩的效果
+**页面展示：**主管可以直观的看到相同指标每项的分数与完成结果与目标值，达到对比成绩的效果
 
 ![image.png](assets/3b0ce0acd449a11bc0d1a071fefa6289.jpg)
 
@@ -153,11 +150,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/8、【报表】板块常见问题/需要导出某些特定员工的明细表，而不是全部的明细表，怎么导出？.md -->
 # 需要导出某些特定员工的明细表，而不是全部的明细表，怎么导出？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/XPwkYGxZV3RXMx67TlkGy1XaWAgozOKL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 需要导出某些特定员工的明细表，而不是全部的明细表，怎么导出？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/XPwkYGxZV3RXMx67TlkGy1XaWAgozOKL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/8、【报表】板块常见问题
 
 在已发起考核中，点击部门旁的按钮进行筛选，可按照人员或者部门筛选
@@ -180,11 +176,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/修改了指标，如何同步到考评表？.md -->
 # 修改了指标，如何同步到考评表？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgkbarc327qo10WZd1wyK0?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 修改了指标，如何同步到考评表？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgkbarc327qo10WZd1wyK0?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 指标库中找到修改过的指标，点击【同步】按钮，选择需要同步的考评表，勾选需要同步的字段，保存即可
@@ -203,11 +198,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/在考评表添加指标时，如何快速筛选指标？.md -->
 # 在考评表添加指标时，如何快速筛选指标？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodygYZJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 在考评表添加指标时，如何快速筛选指标？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodygYZJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 首先在指标库新增指标时，给指标设置好分类，或添加标签（指标比较多的情况下，可以选择批量导入），那么在考评表设置模板时可以通过筛选指标分类或者标签，快速找到想要的指标。
@@ -230,11 +224,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/如何新增指标库分类？.md -->
 # 如何新增指标库分类？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg600oOW47Z3je9?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何新增指标库分类？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg600oOW47Z3je9?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 指标库支持新增分类，企业可根据岗位或者部门，新增对应的指标分类，同时可以设置可见范围。
@@ -258,11 +251,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/如何设置子管理员只能看到部分指标？.md -->
 # 如何设置子管理员只能看到部分指标？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4zn97JxkXOEP2?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何设置子管理员只能看到部分指标？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4zn97JxkXOEP2?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 仅能看到自己管理权限内的分组，且不再有新建分组的权限
@@ -287,11 +279,10 @@
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/如何设置指标评分公式？.md -->
 # 如何设置指标评分公式？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLbA9AV6zbX04v?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何设置指标评分公式？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLbA9AV6zbX04v?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 在智能绩效的指标设置中，支持**直接输入评分**和**评分公式计算**两种评分方式。
@@ -339,24 +330,24 @@
 
 该项指标完整的计算公式如下：**（可将下方公式复制粘贴在智能计算的评分公示模板上快速预览效果）**
 
-if ( itemResult   \<=  itemBarrier  ) \{  scoreValue  =  - 2\}
+if ( itemResult \<= itemBarrier ) \{ scoreValue = - 2\}
 
-if ( itemResult  \>  itemBarrier  &&  itemResult  \<=  itemTarget  ) \{  scoreValue  =  - 1\}
+if ( itemResult \> itemBarrier && itemResult \<= itemTarget ) \{ scoreValue = - 1\}
 
-if ( itemResult  \>  itemTarget  &&  itemResult  \<=  itemChallenge  ) \{ scoreValue  = 2 \}
+if ( itemResult \> itemTarget && itemResult \<= itemChallenge ) \{ scoreValue = 2 \}
 
-if (  itemResult  \>  itemChallenge  ) \{  scoreValue  = 3\}
+if ( itemResult \> itemChallenge ) \{ scoreValue = 3\}
 
 
 **注意事项：**
 
 1.设置公式时，要注意书写英文版字符，中文版会报错【（）为中文字符，()为英文字符】
 
-2.如果有\>  也有\<   出现以下形式的时候10\>X\>5，公式设计时应为  X\>5 and X\<10  
+2.如果有\> 也有\< 出现以下形式的时候10\>X\>5，公式设计时应为 X\>5 and X\<10
 
-3.第一个条件要用if，后面的分条件要用else if()\{\}  当后面没有其他条件时，可以有else，用else判断时，注意不要加条件，可以理解为除了上述条件外的其他条件  
+3.第一个条件要用if，后面的分条件要用else if()\{\} 当后面没有其他条件时，可以有else，用else判断时，注意不要加条件，可以理解为除了上述条件外的其他条件
 
-4.判断是否相等的时候不要用1个‘=’ 例if（A==B）需要用两个“=”判断“==”，一个=是赋值  
+4.判断是否相等的时候不要用1个‘=’ 例if（A==B）需要用两个“=”判断“==”，一个=是赋值
 
 5.每次设置好公式都要点击**“校验”**按钮对公式进行检验。
 
@@ -365,7 +356,7 @@ if (  itemResult  \>  itemChallenge  ) \{  scoreValue  = 3\}
 
 对于大部分指标来说，如果没有特殊计算要求是不需要用到逻辑判断语句的（if 、else、 and、or） 只需要把得分放在前面，后面放置需要计算的公式即可。
 
- scoreValue  ==itemResult  / itemTarget  \* scoreWeight \* 100
+ scoreValue ==itemResult / itemTarget \* scoreWeight \* 100
 
 解释含义为：目标完成率（结果/目标）\*该指标所具有的的权重\*100
 
@@ -377,11 +368,10 @@ if (  itemResult  \>  itemChallenge  ) \{  scoreValue  = 3\}
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/批量导入指标，显示上传失败？.md -->
 # 批量导入指标，显示上传失败？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekKYmJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 批量导入指标，显示上传失败？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekKYmJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 上传失败的可查看错误原因，根据提示的原因，再去修改导入的表格，修改后重新上传导入即可，如下图：
@@ -402,11 +392,10 @@ if (  itemResult  \>  itemChallenge  ) \{  scoreValue  = 3\}
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/指标如何设置可见范围？.md -->
 # 指标如何设置可见范围？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEGjD5WyMoPYe1?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 指标如何设置可见范围？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEGjD5WyMoPYe1?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 **指标可见范围应用场景：**考核发起之后，需要员工来制定指标，并且员工可以从指标库导入指标，但在从指标库导入指标的时候，希望员工只能看到跟他岗位有关的指标，看不到其他岗位的指标内容。
@@ -433,11 +422,10 @@ if (  itemResult  \>  itemChallenge  ) \{  scoreValue  = 3\}
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/指标库一定要设置吗？.md -->
 # 指标库一定要设置吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZgpG2NdyVXrOLk9mTq1Dy5l78MwvDqPk?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 指标库一定要设置吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZgpG2NdyVXrOLk9mTq1Dy5l78MwvDqPk?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 ---
@@ -461,11 +449,10 @@ if (  itemResult  \>  itemChallenge  ) \{  scoreValue  = 3\}
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/指标还没确定，绩效能否提供可参考指标？.md -->
 # 指标还没确定，绩效能否提供可参考指标？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTRjb9zdOVB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 指标还没确定，绩效能否提供可参考指标？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTRjb9zdOVB5r9YAn?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 #### **绩效学院**
@@ -504,11 +491,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/4、【指标库】板块常见问题/目标值、结果值可以输入文本吗.md -->
 # 目标值、结果值可以输入文本吗
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdM5BaWgN7R35y?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 目标值、结果值可以输入文本吗
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdM5BaWgN7R35y?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/4、【指标库】板块常见问题
 
 如果该量化指标开启了评分公式计算，并且公式中用到了该字段，那么这个字段就只能填写数字，如果没有用到，是可以填写文字的。
@@ -523,16 +509,15 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/付款后如何申请开票.md -->
 # 付款后如何申请开票
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw219PNV9dEq3XD?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 付款后如何申请开票
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw219PNV9dEq3XD?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
 本教程适用于所有叮当系产品的开票申请
 
-🔹【开票税点】：6% 
+🔹【开票税点】：6%
 
 🔹【发票类型】：仅支持数电普票/数电专票
 
@@ -581,7 +566,7 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 ![0ecb891251ed712b0db68a5ea97250a9.png](assets/b91137b54072b1ad87864d38eccc7728.jpg)![](assets/dbe1b85651ab2d459356fd94202adcba.jpg)
 
 
-#### <span style="color: #F5222D;">**【温馨提示】**</span>：如果您有其他开票特殊需求，请联系客服进行处理。
+#### **【温馨提示】**：如果您有其他开票特殊需求，请联系客服进行处理。
 
 
 ---
@@ -589,28 +574,27 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/如何付费订购智能绩效？.md -->
 # 如何付费订购智能绩效？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/a9E05BDRVQ6LrvbkcqK3pLG0J63zgkYA?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何付费订购智能绩效？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/a9E05BDRVQ6LrvbkcqK3pLG0J63zgkYA?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
 您可以用【手机钉钉】扫码下方二维码——选择对应的企业名称，进行在线订购。
 
-**目前，智能绩效支持PC电脑和安卓手机两种付费方式，**<span style="color: #F5222D;">**暂不支持苹果手机在线订购**</span>**。操作如下：**
+**目前，智能绩效支持PC电脑和安卓手机两种付费方式，****暂不支持苹果手机在线订购****。操作如下：**
 
 
 #### \- 移动端订购流程 -
 
 
-- 钉钉管理员<span style="color: #F5222D;">**用安卓手机**</span>登录钉钉移动版，找到【扫描下方二维码<span style="color: #191F25;">】——【智能绩效】——选择【套餐规格】——完成【付费订购】</span>
+- 钉钉管理员**用安卓手机**登录钉钉移动版，找到【扫描下方二维码】——【智能绩效】——选择【套餐规格】——完成【付费订购】
 
 
 ![](assets/5ef5ae5e9261e2f57ef52ca9ff5778ac.jpg)
 
 
-- <span style="color: #191F25;">成功开通应用后，可选择【全员可用】</span><span style="color: #191F25;">（系统默认全员可用）</span><span style="color: #191F25;">。</span>
+- 成功开通应用后，可选择【全员可用】（系统默认全员可用）。
 
 
 ![](assets/f844285cde10ffc8faa9c1fedbd91f6b.jpg)![](assets/5f7922a2508eefdc205aabf236123ee9.jpg)
@@ -643,16 +627,16 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 ![image.png](assets/4be258b6e2d77892a11f6d562159e75f.jpg)
 
 
-⚠️注意：如果付款选择<span style="color: #F5222D;">**“支付宝”**</span>，付款时间是60分钟，超过60分钟，需要重新下订单。
+⚠️注意：如果付款选择**“支付宝”**，付款时间是60分钟，超过60分钟，需要重新下订单。
 
 
-如果付款选择<span style="color: #F5222D;">**“银行汇款”**</span>，<span style="color: #F5222D;">**订单收款账户**</span>有效时间为7天，超过7天，需重新下订单
+如果付款选择**“银行汇款”**，**订单收款账户**有效时间为7天，超过7天，需重新下订单
 
 
 #### \- 如何申请开票-
 
 
-点击链接：[https://www.yuque.com/jixiaohelp/jixiaofaq/lc1gez](https://alidocs.dingtalk.com/i/team/lPDmrJ7vZrx06mxd/docs/lPDmrNYZq07AJmxd)
+点击链接：
 
 
 ---
@@ -660,11 +644,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/如何开通「智能绩效」免费试用？.md -->
 # 如何开通「智能绩效」免费试用？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodygnNJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何开通「智能绩效」免费试用？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodygnNJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
 用【手机钉钉】扫码下方二维码—选择对应的企业名称，即可进入智能绩效，开启免费试用。
@@ -677,14 +660,13 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/如何获取对公转账账户？.md -->
 # 如何获取对公转账账户？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG7e2mWxAZB1Gv?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何获取对公转账账户？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG7e2mWxAZB1Gv?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
-企业下单，支付方式选择“银行汇款”方式，线上获取<span style="color: #F5222D;">**对公账户**</span>，该订单有效期为<span style="color: #F5222D;">**7天**</span>。
+企业下单，支付方式选择“银行汇款”方式，线上获取**对公账户**，该订单有效期为**7天**。
 
 1、手机 或 电脑端下单时选择“银行汇款”
 
@@ -698,11 +680,11 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 ![image.png](assets/aa4ad54dc22d35d894cff4c1936bed2a.jpg)
 
 
-- ✅<span style="color: #191F25;">收款银行账户名称：杭州蓝凌叮当云网络科技有限公司</span> 
-- ✅<span style="color: #191F25;">收款银行账户账号：</span> <span style="color: #191F25;">~~8884882007570009000~~</span> <span style="color: #191F25;">，⚠️ 注意：每个订单的</span><span style="color: #F5222D;">收款账户会随机变化</span><span style="color: #191F25;">， 请注意核对</span>
-- ✅<span style="color: #191F25;">银行名称： 浙江网商银行</span>
-- ✅ <span style="color: #191F25;">开户行： 浙江杭州</span>
-- ✅ <span style="color: #191F25;">线下打款</span><span style="color: #F5222D;">不是即时到账</span><span style="color: #191F25;">，一般第二天下午1：00前才会到账，请耐心等待</span>
+- ✅收款银行账户名称：杭州蓝凌叮当云网络科技有限公司
+- ✅收款银行账户账号： ~~8884882007570009000~~ ，⚠️ 注意：每个订单的收款账户会随机变化， 请注意核对
+- ✅银行名称： 浙江网商银行
+- ✅ 开户行： 浙江杭州
+- ✅ 线下打款不是即时到账，一般第二天下午1：00前才会到账，请耐心等待
 
 
 ---
@@ -710,11 +692,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/试用到期后，智能绩效的应用图标消失 未改！.md -->
 # 试用到期后，智能绩效的应用图标消失 未改！
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Qnp9zOoBVBZzbkMEcEkw0rk1V1DK0g6l?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 试用到期后，智能绩效的应用图标消失 未改！
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Qnp9zOoBVBZzbkMEcEkw0rk1V1DK0g6l?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
 问题：开通智能绩效试用后，有一段时间没有使用，发现在企业钉钉的OA工作台中找不到智能绩效的应用了，是怎么回事？
@@ -735,11 +716,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/超人数如何升级套餐？.md -->
 # 超人数如何升级套餐？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEdK2EJkb4Mw9r?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 超人数如何升级套餐？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEdK2EJkb4Mw9r?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
 若使用人数超了，可以升级一下绩效的套餐，升级只需要补一下差价。
@@ -776,7 +756,7 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 
 如果需要对公转账，点上图中的对公转账，会跳转到收款账户信息页面，可查看收款账户，财务根据此账号打款。
 
-<span style="color: #FE0300;">注：订单有效期是7天，需要在7天内完成打款，否则订单就失效了需要重新下单~</span>
+注：订单有效期是7天，需要在7天内完成打款，否则订单就失效了需要重新下单~
 
 ![image.png](assets/e878445b15d73f1a661311db79187127.jpg)
 2. **企业在线支付（移动端）**
@@ -791,14 +771,14 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 
 同意服务协议之后，点立即购买：
 
-<span style="color: #FE0300;">如果选择支付宝，会直接跳转到支付宝支付的页面</span>
+如果选择支付宝，会直接跳转到支付宝支付的页面
 
-<span style="color: #FE0300;">如果选择银行汇款，则会出现下右图的提示，按照提示完成订单支付即可</span>
+如果选择银行汇款，则会出现下右图的提示，按照提示完成订单支付即可
 
 ![222.jpeg](assets/89eec3f2764dcedc9173e9bd8419d9c0.jpg)
 
-<span style="color: #FE0300;">**注**</span><span style="color: #FE0300;">**意：智能绩效支持PC电脑和安卓手机两种付费方式，暂不支持苹果手机在线支付。**</span>
-3.  **线下对公打款**
+**注****意：智能绩效支持PC电脑和安卓手机两种付费方式，暂不支持苹果手机在线支付。**
+3. **线下对公打款**
 
 如果财务需要先提供盖章的升级协议，再对公打款的，可以联系绩效的客户成功对接人或者绩效小二~
 
@@ -808,16 +788,15 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/1、【应用开通】常见问题/钉钉后台如何设置应用可见范围.md -->
 # 钉钉后台如何设置应用可见范围
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vvlAENjuGmPRyad85daZ90D?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 钉钉后台如何设置应用可见范围
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vvlAENjuGmPRyad85daZ90D?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/1、【应用开通】常见问题
 
 ---
 
-#### 1.<span style="background-color: #FADB14;">问题场景</span>
+#### 1.问题场景
 
 当使用智能绩效遇到以下几种情况，通常是因为绩效应用未设置可见范围
 
@@ -826,14 +805,14 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 
 **情况2：**绩效内的考核人员和钉钉通讯录没有同步
 
-**情况3：**新入职的员工没有在智能绩效中找到 
+**情况3：**新入职的员工没有在智能绩效中找到
 
 **情况4**：有的员工明明在职却显示已离职
 
 **情况5**：绩效提示人数超额提醒
 
 
-#### 2.<span style="background-color: #FADB14;">操作步骤</span>
+#### 2.操作步骤
 
 **电脑端设置流程：**
 
@@ -855,11 +834,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/7、【计划】板块常见问题/任务可以同步到钉钉待办吗？.md -->
 # 任务可以同步到钉钉待办吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGxr9RZV9ekBD76?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 任务可以同步到钉钉待办吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGxr9RZV9ekBD76?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/7、【计划】板块常见问题
 
 如果管理员开启了任务同步到钉钉待办，那么创建任务后，任务会同步到钉钉待办，也会通过钉钉消息发给任务的负责人。
@@ -878,11 +856,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/7、【计划】板块常见问题/如何启用子任务？.md -->
 # 如何启用子任务？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg6dEAXW47Z3je9?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何启用子任务？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg6dEAXW47Z3je9?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/7、【计划】板块常见问题
 
 **设置里面，启用子任务**
@@ -891,7 +868,7 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 
 ![image.png](assets/730f798580211e83838581ebf3381b2f.jpg)
 
-**添加子任务（任务详细字段可查看**[【计划】板块](https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnCx0kNk6gWakx1Z5N?doc_type=wiki_doc#)
+**添加子任务（任务详细字段可查看**【计划】板块
 **）**
 
 编辑任务，点击添加子任务，支持设置子任务的完成截止时间及子任务的负责人
@@ -904,11 +881,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/7、【计划】板块常见问题/如何给其他人分配任务？.md -->
 # 如何给其他人分配任务？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NRqnBVdqbropQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何给其他人分配任务？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NRqnBVdqbropQ?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/7、【计划】板块常见问题
 
 创建任务的时候，把任务的负责人修改成对应的人就可以，如下图：
@@ -925,11 +901,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/7、【计划】板块常见问题/如何设置循环任务？.md -->
 # 如何设置循环任务？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gLjrzWgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何设置循环任务？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gLjrzWgk9rpMq?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/7、【计划】板块常见问题
 
 **场景：**有些任务是每天都需要去做的，则可以开启循环任务，开启之后，今天的任务完成了，系统会自动创建一个明天的任务
@@ -950,11 +925,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/360邀评功能.md -->
 # 360邀评功能
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZxZ14VGXn6lpz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 360邀评功能
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZxZ14VGXn6lpz?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 绩效的互评环节支持360邀评，且支持匿名评分（按指标设置流程不支持360邀评）
@@ -965,11 +939,11 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 
 **360邀评的操作手册：**
 
-点此链接查看[2023-5-8更新日志](https://alidocs.dingtalk.com/i/p/lPDmrJ7vZrx06mxd/docs/ZX6GRezwJl7DnE3eI11qoogLVdqbropQ)
+点此链接查看2023-5-8更新日志
 
 **360邀评的操作视频：**
 
-[360邀评.mp4](https://alidocs2.oss-cn-zhangjiakou.aliyuncs.com/res/3BMqYybAg1MBKqwZ/att/4e68a5cc-73c8-4536-95dd-f80a4ae1627c.mp4?Expires=1789103127&OSSAccessKeyId=LTAI5tKTjg4Kq1HCdBJ8qpSp&Signature=ekLQ3m86PkWjIxaruV%2FZnBdlqUY%3D)
+360邀评.mp4
 
 
 ---
@@ -977,11 +951,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/一个员工能否发起2次月度考核？.md -->
 # 一个员工能否发起2次月度考核？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdMRjgWgN7R35y?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 一个员工能否发起2次月度考核？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdMRjgWgN7R35y?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 可以的，但是一个建成月度周期考评表，一个建成自定义周期考评表，发起自定义考核时，可以手动更改考核名称的，2次考核名称需要不一样才行的。
@@ -998,11 +971,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/不同的指标可以设置不同的打分人吗？.md -->
 # 不同的指标可以设置不同的打分人吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEnw4lVBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 不同的指标可以设置不同的打分人吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEnw4lVBQEx5rG?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 可以的，绩效支持【按指标设置流程】
@@ -1032,11 +1004,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/为什么不能修改考评表管理员？.md -->
 # 为什么不能修改考评表管理员？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAYy68bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 为什么不能修改考评表管理员？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAYy68bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 因为拥有全部考评表权限的管理员默认可以编辑所有考评表，因此会存在于所有考评表的管理员中，且不能删除。若要更改其中的管理员，需要让绩效主管理员更改该子管理员的权限。
@@ -1055,11 +1026,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/加分项扣分项权重怎么填？.md -->
 # 加分项扣分项权重怎么填？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjZPgWgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 加分项扣分项权重怎么填？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjZPgWgk9rpMq?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 加分项和扣分项不用设置权重，最终的分数计算就是按照实际的打分情况去加分或者减分
@@ -1072,11 +1042,10 @@ AI功能支持结合岗位、考核侧重点，系统生成一些常用的考核
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/加和加权分数是如何计算的？.md -->
 # 加和加权分数是如何计算的？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdM3rlWgN7R35y?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 加和加权分数是如何计算的？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdM3rlWgN7R35y?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 智能绩效的评分计算规则支持【**加和计算**】和【**加权计算**】，而评分结果会根据设置的计算方式（加和/加权）、指标权重、评分人（自评/领导评/互评）权重等综合因素进行计算得出。
@@ -1090,7 +1059,9 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 
 其中客服小张5月份的绩效考核整体评分分情况如下：
 
-| 指标类型 | 指标名称 | 指标<br>权重 | 自评（30%） | 领导评分（70%） | 指定人<br>评分 |
+| 指标类型 | 指标名称 | 指标
+权重 | 自评（30%） | 领导评分（70%） | 指定人
+评分 |
 |------------|------------|----------------|---------------|---------------------|-------------------|
 | 量化指标 | 好评率达95% | 50% | 80 | 80 | - |
 | 行为指标 | 服务态度好，认真学习产品知识 | 20% | 80 | 70 | - |
@@ -1102,16 +1073,21 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 
 代入客服小张的考核分数进行加权计算：
 
-| 指标类型 | 指标名称 | 指标<br>权重 | 自评评分 | **自评总分** | 领导评分 | **领导评分**<br>**总分** | 指定人<br>评分 | **指定人**<br>**评分总分** |
+| 指标类型 | 指标名称 | 指标
+权重 | 自评评分 | **自评总分** | 领导评分 | **领导评分**
+**总分** | 指定人
+评分 | **指定人**
+**评分总分** |
 |------------|------------|----------------|------------|----------------|------------|------------------------------|-------------------|---------------------------------|
 | 量化指标 | 好评率达95% | 50% | 80 | 40 | 80 | 40 | - | - |
 | 行为指标 | 服务态度好，认真学习产品知识 | 20% | 80 | 16 | 70 | 14 | - | - |
-| 指定评分<br>指标 | 及时反馈客户问题，协同产品优化解决 | 30% | - | - | - | - | 80 | 24 |
-| **合计** |  |  |  | **56** |  | **54** |  | **24** |
+| 指定评分
+指标 | 及时反馈客户问题，协同产品优化解决 | 30% | - | - | - | - | 80 | 24 |
+| **合计** | | | | **56** | | **54** | | **24** |
 
 第二步：计算系统加权计算结果值
 
-<span style="color: #F5222D;">**加权计算公式：结果值=自评总分\*自评权重\+领导评分总分\*领导评分权重\+指定评分人总分**</span>
+**加权计算公式：结果值=自评总分\*自评权重\+领导评分总分\*领导评分权重\+指定评分人总分**
 
 指定评分人总分=30%\*80=24
 
@@ -1124,7 +1100,7 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 
 加和计算的方法相对比较简单，指标权重不影响结果计算，只需要将各评分人的评分总分乘以对应评分人权重求和即可。
 
-<span style="color: #F5222D;">**加和计算公式：结果值=自评评分\*自评权重\+领导评分\*领导评分权重\+指定评分人总分**</span>
+**加和计算公式：结果值=自评评分\*自评权重\+领导评分\*领导评分权重\+指定评分人总分**
 
 代入小张的各项评分总分进行计算：
 
@@ -1136,18 +1112,17 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/勾选维度权重参与计算，如何计分？.md -->
 # 勾选维度权重参与计算，如何计分？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLAE2pHXB7gLgxVKe0xjE3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 勾选维度权重参与计算，如何计分？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLAE2pHXB7gLgxVKe0xjE3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 在「模版指标」中，如何设置「考核评分计算规则」，分为两部分：
 
-#### 1、首先要选择<span style="color: #FF4D4F;">是否打开</span>「维度权重参与计算」
+#### 1、首先要选择是否打开「维度权重参与计算」
 
-<span style="background-color: #FADB14;">场景</span>：维度权重一般是用于双轨制考核的，比如有业绩和价值观2个考核维度，每个维度总分都是100分满分，也就是打分过程中是会有2个100分的，双百制，但是在最后算总分的时候，业绩维度是需要打7折，乘以70%，这个70%就是维度权重，同理价值观维度算总分要打3折，维度权重为30%，这样的情况才是有维度权重，左上角维度权重参与计算才要打开的；
+场景：维度权重一般是用于双轨制考核的，比如有业绩和价值观2个考核维度，每个维度总分都是100分满分，也就是打分过程中是会有2个100分的，双百制，但是在最后算总分的时候，业绩维度是需要打7折，乘以70%，这个70%就是维度权重，同理价值观维度算总分要打3折，维度权重为30%，这样的情况才是有维度权重，左上角维度权重参与计算才要打开的；
 
 反之，如果考核满分是100分，虽然有2个考核维度，但是业绩维度里面的所有指标分配到70分，行为价值观维度分配到30分，那这种情况下，是没有维度权重的，左上角维度权重参与计算是不用打开的，保持灰色。
 
@@ -1163,14 +1138,14 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 
 #### 2、选择是「加和」计算还是「加权」计算，分两种情况
 
-   a、如果勾选了「维度权重参与计算」（因为有维度权重，所以要打开），「加和」计算和「加权」计算如下所示（表格中是案例说明）：
+ a、如果勾选了「维度权重参与计算」（因为有维度权重，所以要打开），「加和」计算和「加权」计算如下所示（表格中是案例说明）：
 
-⚠️<span style="color: #FF4D4F;">勾选了「维度权重参与计算」后，当单个维度的指标权重相加总和不等于100%，系统会自动按照100% 进行换算</span>
+⚠️勾选了「维度权重参与计算」后，当单个维度的指标权重相加总和不等于100%，系统会自动按照100% 进行换算
 
 ![屏幕快照 2019-10-31 下午4.16.59.png](assets/30891512e1f5ed1328e40a25041e1635.jpg)
 
 
- b、如果不勾选了「维度权重参与计算」<span style="color: #FF4D4F;">（因为没有维度权重，所以不勾选）</span>，「加和」计算和「加权」计算如下所示（表格中是案例说明）：
+ b、如果不勾选了「维度权重参与计算」（因为没有维度权重，所以不勾选），「加和」计算和「加权」计算如下所示（表格中是案例说明）：
 
 ![屏幕快照 2019-10-29 下午3.03.03.png](assets/19f47f75db92aacc865fcb338aa291d9.jpg)
 
@@ -1180,11 +1155,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/发起考核时的复用上期考核指标 ，和已发起考核后，指标制定节点的复制指标项有什么区别？.md -->
 # 发起考核时的复用上期考核指标 ，和已发起考核后，指标制定节点的复制指标项有什么区别？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NR1O1VdqbropQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 发起考核时的复用上期考核指标 ，和已发起考核后，指标制定节点的复制指标项有什么区别？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NR1O1VdqbropQ?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 1、复用上期考核指标：开启后会给被考核人匹配同类型考核最近一期的考核指标进行复用。
@@ -1217,11 +1191,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/如何修改考核节点的名称_.md -->
 # 如何修改考核节点的名称?
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNF9na60d1Wn4qY5Pr?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何修改考核节点的名称?
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNF9na60d1Wn4qY5Pr?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 点击各个节点，点击小笔的按钮，编辑，修改节点的名称
@@ -1236,11 +1209,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/如何复制考评表？.md -->
 # 如何复制考评表？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekPgKJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何复制考评表？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekPgKJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 **复制考评表使用场景：**同一个岗位的2位员工，考核内容都是一样的，但是评分流程不一致，这种情况需要分开2个考评表，管理员新增好一个员工的考评表之后，可复制考评表，可把考核指标的内容完全复制出来，复制之后再去修改评分流程，帮助管理员提高考评表搭建的效率。
@@ -1265,11 +1237,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/如何限制员工无法修改特定的指标字段？.md -->
 # 如何限制员工无法修改特定的指标字段？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodQ9AgJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何限制员工无法修改特定的指标字段？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodQ9AgJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 **场景：**考核发起后，需要员工根据当月的重点工作去制定考核指标，但是有一些指标的某些数据，不允许员工修改，比如管理员初期在考评表里面，设置了销售额的指标，目标值是固定的，不允许员工修改，这种情况下，可以设置目标制定节点不允许修改目标值的字段![](assets/91b173cc1af2226d501be881487573d0.jpg)
@@ -1286,11 +1257,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/怎样添加人员到考评表？.md -->
 # 怎样添加人员到考评表？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgkbarc327qZMGWZd1wyK0?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 怎样添加人员到考评表？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgkbarc327qZMGWZd1wyK0?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 点击【考核管理】-【考评表】-点开编辑到【基础信息】-“考评员工”添加人员
@@ -1339,11 +1309,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/指标的字段可以隐藏吗？.md -->
 # 指标的字段可以隐藏吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7lYA9vI3ezpMY1WqjMp697?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 指标的字段可以隐藏吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7lYA9vI3ezpMY1WqjMp697?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 管理员在搭建考评表的时候，可以对维度下的指标字段设置隐藏。
@@ -1364,11 +1333,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/按指标设置流程，设置了默认评分人，但是实际已发起考核后没有按照设置的人来打分，需要怎么设置评分人呀？.md -->
 # 按指标设置流程，设置了默认评分人，但是实际已发起考核后没有按照设置的人来打分，需要怎么设置评分人呀？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyglAEpXCYadkMdOJkyEqBQm?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 按指标设置流程，设置了默认评分人，但是实际已发起考核后没有按照设置的人来打分，需要怎么设置评分人呀？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyglAEpXCYadkMdOJkyEqBQm?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 默认评分人是指：考核发起后，在指标制定、指标确认节点增加的指标都将使用「默认评分人」，且不支持修改。
@@ -1387,14 +1355,13 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/绩效支持多级领导打分吗？.md -->
 # 绩效支持多级领导打分吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7AbkwJGlDd3mE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 绩效支持多级领导打分吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7AbkwJGlDd3mE?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
-<span style="color: #F5222D;">**支持！**</span>
+**支持！**
 
 操作路径：考核管理-考评表—点击考核流程—点击【\+】上级评分—添加多个上级评分人—也支持分别设置打分人权重和评分规则。
 
@@ -1409,11 +1376,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/绩效目标可以自己设定吗？.md -->
 # 绩效目标可以自己设定吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7lYA9vI3ez9OY3WqjMp697?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 绩效目标可以自己设定吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7lYA9vI3ez9OY3WqjMp697?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 **可以的！**
@@ -1434,18 +1400,17 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/考评表如何剔除不需要考核的员工？.md -->
 # 考评表如何剔除不需要考核的员工？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zeKz6VxEKBD6p?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考评表如何剔除不需要考核的员工？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zeKz6VxEKBD6p?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
-<span style="color: #111F2C;">**场景：**</span><span style="color: #111F2C;">考评表在按照部门选择的时候，如果部门内有不需要参与考核的员工，比如试用期员工，可以将这部分员工添加到无需考核人员里面，发起考核的时候，会自动剔除这部分员工，不会对他们发起考核</span>
+**场景：**考评表在按照部门选择的时候，如果部门内有不需要参与考核的员工，比如试用期员工，可以将这部分员工添加到无需考核人员里面，发起考核的时候，会自动剔除这部分员工，不会对他们发起考核
 
-<span style="color: #111F2C;">**操作步骤：**</span>
+**操作步骤：**
 
-<span style="color: #111F2C;">如下图，无需考核人员里面，选择【试用期员工】，则系统会自动关联钉钉组织架构，将员工状态是试用期的员工自动剔除</span>
+如下图，无需考核人员里面，选择【试用期员工】，则系统会自动关联钉钉组织架构，将员工状态是试用期的员工自动剔除
 
 ![image.png](assets/0c1ef241677bda9eeb049e132ea2dbe6.jpg)
 
@@ -1455,11 +1420,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/5、【考评表】板块常见问题/自定义考评表的用途？.md -->
 # 自定义考评表的用途？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/XPwkYGxZV3RXMx67TlkGyEGlWAgozOKL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 自定义考评表的用途？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/XPwkYGxZV3RXMx67TlkGyEGlWAgozOKL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/5、【考评表】板块常见问题
 
 **应用场景**
@@ -1490,11 +1454,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/为什么批量录入结果值提示“指标不存在”？.md -->
 # 为什么批量录入结果值提示“指标不存在”？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4I1QMvwe6V9dEq3XD?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 为什么批量录入结果值提示“指标不存在”？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4I1QMvwe6V9dEq3XD?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 如果有多项指标需要录入结果值，支持只填写部分指标的结果值，也是可以提交的，可能会导致部分指标已经录入了结果值，部分指标还未录入的情况。
@@ -1507,18 +1470,17 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/为什么系统下发的指标内容不能编辑？.md -->
 # 为什么系统下发的指标内容不能编辑？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNF9na6w3vWn4qY5Pr?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 为什么系统下发的指标内容不能编辑？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNF9na6w3vWn4qY5Pr?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 ![image.png](assets/39d0c065502063a7de0e8d801de82e77.jpg)
 
-<span style="color: #191F25;">因为指标库中设置指标的时候勾选了必选的选项，必选的指标对全公司生效，且不可进行编辑和删除。</span>  
+因为指标库中设置指标的时候勾选了必选的选项，必选的指标对全公司生效，且不可进行编辑和删除。
 
-<span style="color: #191F25;">选中</span><span style="color: #191F25;">**“必选”**</span><span style="color: #191F25;">时，此指标将作为不可修改的默认指标项，员工必须参与考评。</span>
+选中**“必选”**时，此指标将作为不可修改的默认指标项，员工必须参与考评。
 
 
 如果希望员工能够参与修改该项指标，**管理员在指标库设置中，将该项指标的“必选”关闭即可**。
@@ -1531,11 +1493,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/可以单独对新入职的员工发起考核？.md -->
 # 可以单独对新入职的员工发起考核？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekb4XJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 可以单独对新入职的员工发起考核？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekb4XJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 场景1：考评表是【按部门】选择的被考核人，对考评表发起考核后，新员工入职了，该怎么对他发起考核？
@@ -1555,11 +1516,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/员工没有及时填写指标，有没有可以催办的功能.md -->
 # 员工没有及时填写指标，有没有可以催办的功能
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGDYrpVB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 员工没有及时填写指标，有没有可以催办的功能
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGDYrpVB5r9YAn?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 有的，在考核管理的界面点击右上角一键催办，可对未结束流程的人员进行催办，在具体员工的考核详情中点击沟通反馈，可以@相关人员，系统会发送工作通知。
@@ -1576,11 +1536,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何一键终止考核？.md -->
 # 如何一键终止考核？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekyYrJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何一键终止考核？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekyYrJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 使用场景：对于离职员工，或者岗位变动的员工，原来考核无法继续，但是又想保留原来的考核数据，则可以直接停止考核。停止考核之后，所有待办都会被撤销，后续流程无法继续推进。并且如有需要，可以重启已停止的考核
@@ -1627,11 +1586,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何催办？.md -->
 # 如何催办？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodyygjJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何催办？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodyygjJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 问题：如果在考核过程中对应评分人处理不及时，可以发起催办提醒吗？
@@ -1658,14 +1616,14 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 ![image.png](assets/8c63c5edf99ea51692487cf9e906579b.jpg)
 
 
-<span style="background-color: #FADB14;">使用DING催办</span>
+使用DING催办
 
-支持<span style="color: #F5222D;">自定义</span>编辑催办文案 ：如，在下个月5号完成所有评分流程。
+支持自定义编辑催办文案 ：如，在下个月5号完成所有评分流程。
 
 ![image.png](assets/a2576f317be08ff142a4ade25d5c58bc.jpg)
 
 
-#### **方式三：系统定时全量催办** 
+#### **方式三：系统定时全量催办**
 
 开通后，每天早上10点到下午5点之间，系统发送催办工作通知
 
@@ -1681,11 +1639,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何删除已经发起的考核？.md -->
 # 如何删除已经发起的考核？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7OMpgJGlDd3mE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何删除已经发起的考核？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7OMpgJGlDd3mE?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 **请确认勾选无误后，再点击删除哦，不要删错员工/删错考核周期，一旦删除成功，系统中将没有该数据，并且无法恢复哦！！**
@@ -1710,11 +1667,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何批量制定目标.md -->
 # 如何批量制定目标
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEQa5oJkb4Mw9r?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何批量制定目标
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEQa5oJkb4Mw9r?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 如果是同一次考核，主管需要给多个下属员工制定目标时，待办事项会将其全部合并到一起，可以批量制定。
@@ -1729,11 +1685,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何批量发起多张考评表？.md -->
 # 如何批量发起多张考评表？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Qnp9zOoBVBZzbkMEcEkw0o4bV1DK0g6l?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何批量发起多张考评表？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Qnp9zOoBVBZzbkMEcEkw0o4bV1DK0g6l?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 在已发起考核-发起考核，选择参与考评表，可以选择多张同周期类型的考评表，同时发起。![image.png](assets/25ed555468a0b6ce3b3d02a39e8b1550.jpg)
@@ -1748,11 +1703,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何查看哪些人员在自评环节_.md -->
 # 如何查看哪些人员在自评环节?
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZpQjDVGXn6lpz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何查看哪些人员在自评环节?
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZpQjDVGXn6lpz?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 已发起考核-选择对应的哪次考核-评分状态，即可出现对应评分环节下的各个不同节点，勾选进行筛选即可。
@@ -1767,11 +1721,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/如何重启考核？.md -->
 # 如何重启考核？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3REZpoU0QExeo4V6EDybno?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何重启考核？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3REZpoU0QExeo4V6EDybno?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 停止考核之后，如有需要，可以重启考核，会恢复到停止之前的流程节点，所有待办都会重新生成。
@@ -1802,11 +1755,10 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/实际产品部有9个人，为什么创建考评表部门全选，却显示考核人员只有7人.md -->
 # 实际产品部有9个人，为什么创建考评表部门全选，却显示考核人员只有7人
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/2Amq4vjg89gq2KEyCMRkpR2kV3kdP0wQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 实际产品部有9个人，为什么创建考评表部门全选，却显示考核人员只有7人
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/2Amq4vjg89gq2KEyCMRkpR2kV3kdP0wQ?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 **如图所示：**
@@ -1819,7 +1771,7 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 原因是同周期类型下创建了多个考评表，其中有一个考评表中，设置【被考核人员】时，是通过【选人员】选来选择的，而目前系统逻辑是**【选人员】优先级高于【选部门】**，故实际显示参与考核人数与钉钉通讯录对应的部门人数不对等。
 
 
-**如何快速查看部门内其他人员在哪些考评表内**，<span style="background-color: #FADB14;">可通过点击【考评表】-【批量预览】，按照姓名、部门或考评表，直接快速搜索查看</span>
+**如何快速查看部门内其他人员在哪些考评表内**，可通过点击【考评表】-【批量预览】，按照姓名、部门或考评表，直接快速搜索查看
 
 ![image.png](assets/1ec68a7808001ce7c04ea256faec62c8.jpg)
 
@@ -1831,68 +1783,67 @@ A公司的智能绩效管理员为公司客服建立考评组，设置对应的�
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/小部门的强制正态分布计算逻辑.md -->
 # 小部门的强制正态分布计算逻辑
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGxkRPvV9ekBD76?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 小部门的强制正态分布计算逻辑
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGxkRPvV9ekBD76?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
-#### <span style="background-color: #FADB14;">场景</span>
+#### 场景
 
 强制正态分布可以自定义部门/考评组等小范围进行强制正态分布，计算出小范围内的每个人员的绩效等级
 
 强制正态分布，不看分数多少，只看百分比占比为公司前多少，强制选出前面的排名
 
 
-#### <span style="background-color: #FADB14;">分布规则</span>
+#### 分布规则
 
 举一个例子
 
 一个企业的正态分布规则如下：
 
-A                         5%
+A 5%
 
-B                         20%
+B 20%
 
-C                         50%
+C 50%
 
-D                         20%
+D 20%
 
-E                         5%
+E 5%
 
 
-现有5个人需要按这个分布规则进行正态分布，计算出每个人员的绩效等级 
+现有5个人需要按这个分布规则进行正态分布，计算出每个人员的绩效等级
 
-A：  5  \*  5/100  =  0.25  \<  0.5  
+A： 5 \* 5/100 = 0.25 \< 0.5
 
 所以有0个A
 
 
 扣除0个已经分布在A等级的人，现在有5个人在B、C、D、E 分布区间内进行分布
 
-B:（5-0） \* 20/（100-5）   =  1.05     \>  0.5
+B:（5-0） \* 20/（100-5） = 1.05 \> 0.5
 
 1.05四舍五入后为1，所以有1个B
 
 
 扣除1个已经分布在B等级的人，现在有4个人在C、D、E 分布区间内进行分布
 
-C:（5-1) \*  50/（100-5-20）   =  2.66   \> 0.5  
+C:（5-1) \* 50/（100-5-20） = 2.66 \> 0.5
 
 2.66四舍五入后为3，所以有3个c
 
 
 扣除3个已经分布在 C等级的人，现在有1个人在D、E 分布区间内进行分布
 
-D：  (5-0-1 -3) \*  20/（100-5-20-50）= 0.8    \>   0.5   
+D： (5-0-1 -3) \* 20/（100-5-20-50）= 0.8 \> 0.5
 
 0.8四舍五入后为1，所以有1个d
 
 
 扣除1个已经分布在 D等级的人，现在有0个人在E 分布区间内进行分布
 
-E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
+E：(5-0-1 -3-1) \* 5/（100-5-20-50-20）= 0 \< 0.5
 
 有0个e
 
@@ -1902,11 +1853,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/已发起考核如何增加员工？.md -->
 # 已发起考核如何增加员工？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZgpG2NdyVXrOLk9mTq1DyPO98MwvDqPk?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 已发起考核如何增加员工？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZgpG2NdyVXrOLk9mTq1DyPO98MwvDqPk?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 如果员工所在考评表周期类型与已发起考核的考核周期类型一致，那么管理员可以在【考核管理】-【已发起考核】-【更多】-【管理】，点击【添加】，添加该人员。
@@ -1921,11 +1871,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/已经发起的考核可以撤销吗？.md -->
 # 已经发起的考核可以撤销吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEB7rYVBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 已经发起的考核可以撤销吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEB7rYVBQEx5rG?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 ---
@@ -1948,11 +1897,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/按评分人流程，对应指标项设置了指定打分人，预览时能看到指定打分人，但在发起考核后，评分环节却不显示法指定打分人环节.md -->
 # 按评分人流程，对应指标项设置了指定打分人，预览时能看到指定打分人，但在发起考核后，评分环节却不显示法指定打分人环节
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEGbejWyMoPYe1?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 按评分人流程，对应指标项设置了指定打分人，预览时能看到指定打分人，但在发起考核后，评分环节却不显示法指定打分人环节
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEGbejWyMoPYe1?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 **如图所示：**
@@ -1965,7 +1913,7 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 ![image.png](assets/0136f4cb3680fb08c441b791cb7bbb0d.jpg)
 
 
-原因在于当考核处于【目标制定】、【目标确认】环节时，均有可能调整对应的指标内容，所以<span style="background-color: #FADB14;">需要到发起评分后系统才能准确判断是否有指定打分人环节；</span>
+原因在于当考核处于【目标制定】、【目标确认】环节时，均有可能调整对应的指标内容，所以需要到发起评分后系统才能准确判断是否有指定打分人环节；
 
 ![image.png](assets/6cf2e28b6b33e0cb1827ebc666ccc50c.jpg)
 
@@ -1975,23 +1923,22 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核过程中，怎样添加被考核人员？.md -->
 # 考核过程中，怎样添加被考核人员？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodQ5dLJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考核过程中，怎样添加被考核人员？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodQ5dLJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 ---
 
-<span style="color: ; background-color: #FCC102;">场景1</span>:如果员工已加入到同期类型的考评表中，点击【考核管理】-【已发起考核】-【xx周期考核】-【管理】-【添加】人员
+场景1:如果员工已加入到同期类型的考评表中，点击【考核管理】-【已发起考核】-【xx周期考核】-【管理】-【添加】人员
 
 ![image.png](assets/aeb5182d843843a1e1ee695ff9ffe00e.jpg)
 
 ![image.png](assets/1cdef26860f3b4920773b67b91ae5e4c.jpg)
 
 
-<span style="color: ; background-color: #FCC102;">场景2</span>:如果同期考评表选择的指定人员，需添加被考核人，需要先到考评表添加被考核人，在对该张考评表重新发起考核（重新发起考核不会影响之前已发起考核的人员）
+场景2:如果同期考评表选择的指定人员，需添加被考核人，需要先到考评表添加被考核人，在对该张考评表重新发起考核（重新发起考核不会影响之前已发起考核的人员）
 
 ![image.png](assets/164bb545c0304630850432a6748b836a.jpg)
 
@@ -2001,28 +1948,27 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核过程中，绩效管理员如何进行催办？.md -->
 # 考核过程中，绩效管理员如何进行催办？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAae58bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考核过程中，绩效管理员如何进行催办？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAae58bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题
 
 支持ding催办和消息通知催办两种
 
-#### <span style="background-color: #FADB14;">1、ding催办</span>
+#### 1、ding催办
 
 考核管理-已发起考核-找到XX考核周期，支持筛选节点/部门/考评表/员工状态后，再点击一键催办-Ding催办，催办相应节点的执行人
 
 ![image.png](assets/3653716e066ca8fafa5a134407fdd608.jpg)
 
-<span style="background-color: #FADB14;">优势：</span>跟钉钉ding功能直接打通，支持选择应用内ding、短信ding、电话ding三种形式，受到钉钉ding消息规则限制，应用内ding免费，短信ding、电话ding消耗企业的短信ding和电话ding数量
+优势：跟钉钉ding功能直接打通，支持选择应用内ding、短信ding、电话ding三种形式，受到钉钉ding消息规则限制，应用内ding免费，短信ding、电话ding消耗企业的短信ding和电话ding数量
 
 ![image.png](assets/c67a945f748d754bfb1d16cd32773caa.jpg)
 
 ![image.png](assets/ccbf08e23121cad6610bc18244260b68.jpg)
 
-#### <span style="background-color: #FADB14;">2、消息通知催办</span>
+#### 2、消息通知催办
 
 考核管理-已发起考核-找到XX考核周期，也支持搜索被考核人名字后，再点击一键催办-消息通知催办，催办相应节点的执行人
 
@@ -2032,10 +1978,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 
 ![caed9ccf07dc087633c497ca59280831.png](assets/abbfc707ad80f2da607c8b886f7ffc24.jpg)
 
-<span style="color: ; background-color: #FADB14;">**注意：**</span><span style="color: ;">**消息通知催办，是以工作消息通知形式发送给执行人，同一个考核的同一个执行人24小时内，只能收到1次工作消息通知催办**</span>
+**注意：****消息通知催办，是以工作消息通知形式发送给执行人，同一个考核的同一个执行人24小时内，只能收到1次工作消息通知催办**
 
 
-#### <span style="background-color: #FADB14;">3、自定义催办</span>
+#### 3、自定义催办
 
 自定义催办支持催办当前执行人主管或执行人
 
@@ -2056,11 +2002,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/为什么只有结果值录入，没有评分节点.md -->
 # 为什么只有结果值录入，没有评分节点
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YndMj49yWjPvaEbAcX572K3pJ3pmz5aA?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 为什么只有结果值录入，没有评分节点
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YndMj49yWjPvaEbAcX572K3pJ3pmz5aA?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 **考评表预览流程设置如下：**
@@ -2074,7 +2019,7 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 
 以上问题有两种场景：
 
-<span style="background-color: #FCC102;">场景1:</span>所有的指标都设置了【评分公式计算】（并且公式中用到了结果值），默认录入好结果值，系统会自动计算出评分分数，那么后续的评分流程将被自动跳过；
+场景1:所有的指标都设置了【评分公式计算】（并且公式中用到了结果值），默认录入好结果值，系统会自动计算出评分分数，那么后续的评分流程将被自动跳过；
 
 可以点击到右上角【管理】-【调整目标】查看下，评分方式是否都设置成【评分公式计算】：
 
@@ -2109,11 +2054,10 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/为什么自评_上级打分时，只能看到部分指标？.md -->
 # 为什么自评/上级打分时，只能看到部分指标？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekLvqJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 为什么自评/上级打分时，只能看到部分指标？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgekLvqJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 因为其他指标设置了指定人打分，在流程中体现为指定人评分；**如果这个指标设置了指定打分人，那么这个指标就只需要这一个打分人打分即可，不会在走评分流程（自评、互评、上级评分）**；反之也就是说，如果这个指标是需要走评分流程的，那就不能设置指定人评分。
@@ -2122,7 +2066,7 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 
 若是hr在设计考核过程的时候， 没有设置指标指定人评分， 那么是应该员工在制定指标的时候，自行进行指定了。
 
-<span style="background-color: #FADB14;">那如何修改呢 ？</span>
+那如何修改呢 ？
 
 管理员找到该员工的考核详情，点击「更多」-「调整目标」-「编辑」-「指定评分人」改成不设置
 
@@ -2133,7 +2077,7 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 ![image.png](assets/983d2e3ef28f28288aa98067d5287a02.jpg)
 
 
-<span style="color: #F5222D;">**ps：若不希望员工进行指定，可以在考评表-考评流程-目标制定环节 ，把最下方的【指定评分人】的选项不进行勾选**</span>
+**ps：若不希望员工进行指定，可以在考评表-考评流程-目标制定环节 ，把最下方的【指定评分人】的选项不进行勾选**
 
 ![image.png](assets/c40b036dc78ec89c9048ce4d3fdeaaee.jpg)
 
@@ -2143,11 +2087,10 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/如何发起评分？.md -->
 # 如何发起评分？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLrOERmDTx93ywEw8lemrZQ3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何发起评分？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLrOERmDTx93ywEw8lemrZQ3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 发起考核后，已进行目标制定、目标确认，流程到被考核人那里，但是一直停留在执行中，需要管理员发起评分之后，才会到评分的流程
@@ -2171,11 +2114,10 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/如何回退到执行中？.md -->
 # 如何回退到执行中？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnC2vGR9BnWakx1Z5N?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何回退到执行中？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnC2vGR9BnWakx1Z5N?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 考核发起之后，管理员同时发起了评分，则考核会自动跳过执行中节点，到评分节点，若需要回退到执行中，管理员可以点击回退。
@@ -2194,16 +2136,15 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/如何批量录入结果值？.md -->
 # 如何批量录入结果值？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/6LeBq413JAzG0NgBuZEMRb5p8DOnGvpb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何批量录入结果值？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/6LeBq413JAzG0NgBuZEMRb5p8DOnGvpb?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 **操作步骤如下：**
 
-第一步：在设置该项指标时，选择<span style="color: #F5222D;">结果值录入来源为指定成员</span>XXX。
+第一步：在设置该项指标时，选择结果值录入来源为指定成员XXX。
 
 ![image.png](assets/978f5f7efb9a2d6fe6922293eb9859a6.jpg)
 
@@ -2225,11 +2166,10 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/如何让员工只看到自评和最后的考核结果和等级？.md -->
 # 如何让员工只看到自评和最后的考核结果和等级？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEBwoeVBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何让员工只看到自评和最后的考核结果和等级？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEBwoeVBQEx5rG?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 ---
@@ -2263,11 +2203,10 @@ ps：如果需要更改为上级评分人手动打分，将【评分公式计算
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/如何转交流程？.md -->
 # 如何转交流程？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNF9na655DWn4qY5Pr?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何转交流程？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNF9na655DWn4qY5Pr?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 ##### 方式1：流程执行人自己转交给对应的人
@@ -2306,7 +2245,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 三步完成后，点击提交即可成功批量转交
 
-<span style="color: #F5222D;">⚠️：批量转交/跳过节点中 “结果值录入”和“指定评分人评分”需要在管理员点击「开始评分」，进入评分环节生成数据之后才可以进行操作。</span>
+⚠️：批量转交/跳过节点中 “结果值录入”和“指定评分人评分”需要在管理员点击「开始评分」，进入评分环节生成数据之后才可以进行操作。
 
 
 ---
@@ -2314,20 +2253,19 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/如果一部分员工考核处于执行中，另外一部分员工仍然在目标制定阶段，可以点击发起评分吗？.md -->
 # 如果一部分员工考核处于执行中，另外一部分员工仍然在目标制定阶段，可以点击发起评分吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjYm2Wgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如果一部分员工考核处于执行中，另外一部分员工仍然在目标制定阶段，可以点击发起评分吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjYm2Wgk9rpMq?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 可以的，目标制定未完成，可以点击【发起评分】；点击【发起评分】后，执行中的考核会进入到评分环节；如果还是在目标制定的考核，那么仍然处于目标制定环节，当目标制定、目标确认完成之后，该考核会自动从执行中进入到评分环节。
 
-<span style="background-color: #FADB14;">**未点击【发起评分】前：**</span>2个是处于目标制定环节，2个处于执行中
+**未点击【发起评分】前：**2个是处于目标制定环节，2个处于执行中
 
 ![image.png](assets/4fe0a049b7a732909e3f7771ad9adbc0.jpg)
 
-<span style="background-color: #FADB14;">**点击【发起评分】后：**</span>处于执行中的进入到评分环节，处于目标制定的还是在目标制定环节
+**点击【发起评分】后：**处于执行中的进入到评分环节，处于目标制定的还是在目标制定环节
 
 ![image.png](assets/bc0aae4965130e482f97c480bb285128.jpg)
 
@@ -2337,14 +2275,13 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/审批人可以更改评分吗？.md -->
 # 审批人可以更改评分吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAYk98bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 审批人可以更改评分吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAYk98bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
-##### <span style="color: ;">**一、结果审批，允许审批人直接调整结果**</span>
+##### **一、结果审批，允许审批人直接调整结果**
 
 绩效结果审批人在对绩效考核结果进行审批的时候，如果发现被考核人的绩效结果与实际不符，除了驳回到对应的评分人进行重新评分之外，可以允许审批人直接调整绩效总分和等级，提高绩效工作的效率。
 
@@ -2372,11 +2309,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/已发起考核后，还可以添加抄送人吗？.md -->
 # 已发起考核后，还可以添加抄送人吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLb0rLV6zbX04v?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 已发起考核后，还可以添加抄送人吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLb0rLV6zbX04v?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 （1）考核结果出来之前：找到我们发起考核的考评表-考核流程-添加抄送节点
@@ -2401,11 +2337,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/怎么操作批量打分.md -->
 # 怎么操作批量打分
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEdBpBJkb4Mw9r?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 怎么操作批量打分
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEdBpBJkb4Mw9r?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 **亮点：**给多人评分是不用单独点进评分流程，一个页面即可操作评分，操作更便捷，同一次考核中，上级打分人需要给多人打分时，可以筛选部门，选择该部门下的某些员工，进入到批量打分页面，方便对同一岗位/部门人员横向对比，有利于打分人分析打分情况，查看这部分员工打的总分排名、平均分，确认没有问题，再提交评分
@@ -2434,11 +2369,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/指标评分上限不对？.md -->
 # 指标评分上限不对？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGDMD7VB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 指标评分上限不对？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGDMD7VB5r9YAn?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 **如图所示：**
@@ -2466,18 +2400,17 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/按指标设置流程，指标确认的时候看不到全部指标？.md -->
 # 按指标设置流程，指标确认的时候看不到全部指标？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg60RLKW47Z3je9?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 按指标设置流程，指标确认的时候看不到全部指标？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg60RLKW47Z3je9?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 当指标确认人和评分人是同一个人的时候，因为评分可见权限设置限制，指标制定和确认阶段是看不到全部指标的，修改操作步骤：
 
 在已发起考核中-点击右上角【...】-点击管理-更多配置![image.png](assets/73838583de7e586f3be1b73b62d73e35.jpg)![image.png](assets/87bb64eca90315c6b2059e9b7a823501.jpg)
 
-   调整评分人的可见权限为：可见全部-制定确认目标后，管理员再重新调整回来评分的可见权限即可
+ 调整评分人的可见权限为：可见全部-制定确认目标后，管理员再重新调整回来评分的可见权限即可
 
 ![image.png](assets/e668df49757a37b176b0fed66bc39ebf.jpg)
 
@@ -2491,11 +2424,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/提交评分的时候让选择手动评定等级是什么意思.md -->
 # 提交评分的时候让选择手动评定等级是什么意思
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGBgqDVB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 提交评分的时候让选择手动评定等级是什么意思
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGBgqDVB5r9YAn?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 原因是您在考评流程评分节点开启了手动评级，因此评分人打分后还需评等级，且以最后一个人所评等级为最终等级。
@@ -2508,11 +2440,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/流程出现指定评分人环节怎么取消？.md -->
 # 流程出现指定评分人环节怎么取消？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG9rqxWxAZB1Gv?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 流程出现指定评分人环节怎么取消？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG9rqxWxAZB1Gv?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 已发起的考核里面，突然出现了指定评分人的流程，是因为考核指标开启了指定成员评分，所以会增加指定评分人的流程，如果需要取消，管理员可以通过调整目标，去关闭指标的指定评分人
@@ -2531,9 +2462,9 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/dfedc1357199fbfde7bd4aa635adc248.jpg)
 
-<span style="color: ;">注意：目标制定人在制定指标的时候，有权限开启指定评分人，若不希望员工进行指定，可以在考评表-流程设置-目标制定环节 ，把最下方的【指定评分人】</span><span style="color: ;">的选项不进行勾选，操作如下：</span>
+注意：目标制定人在制定指标的时候，有权限开启指定评分人，若不希望员工进行指定，可以在考评表-流程设置-目标制定环节 ，把最下方的【指定评分人】的选项不进行勾选，操作如下：
 
-<span style="color: ;">找到对应的考评表，到考核流程，选择指标制定节点，点击指标编辑权限，取消【指定评分人】的勾选即可，考核发起之后，员工无法开启指定评分人</span>
+找到对应的考评表，到考核流程，选择指标制定节点，点击指标编辑权限，取消【指定评分人】的勾选即可，考核发起之后，员工无法开启指定评分人
 
 ![image.png](assets/67fe83984e259d4da6e3a03fea9bdd95.jpg)
 
@@ -2547,11 +2478,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/离职人员为什么不会从绩效考评组和评分人中自动删除呢？.md -->
 # 离职人员为什么不会从绩效考评组和评分人中自动删除呢？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGRRnZVB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 离职人员为什么不会从绩效考评组和评分人中自动删除呢？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGRRnZVB5r9YAn?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 （1）针对离职人员是被考核人来说，已离职的人员从组织架构中删除，考评表中会自动同步通讯录删除，但在已经发起的考核中需要手动删除：
@@ -2574,11 +2504,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/评错分了，该怎么撤回重新评分？.md -->
 # 评错分了，该怎么撤回重新评分？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NRg1yVdqbropQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 评错分了，该怎么撤回重新评分？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NRg1yVdqbropQ?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 考评表考评流程里面，选择的流程方式不同，对应的操作也不同；
@@ -2650,11 +2579,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题/重置到结果值录入环节是所有评分考核都得重新再评一次吗？.md -->
 # 重置到结果值录入环节是所有评分考核都得重新再评一次吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mdpNGUnAdjnXNJxLq0Ee4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 重置到结果值录入环节是所有评分考核都得重新再评一次吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mdpNGUnAdjnXNJxLq0Ee4?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【评分】问题
 
 是的，但已评的分会保留数据，若分数不需要更改直接点击提交即可。
@@ -2665,11 +2593,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/如何修改评分可见权限？.md -->
 # 如何修改评分可见权限？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnC2vGRRZdWakx1Z5N?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何修改评分可见权限？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnC2vGRRZdWakx1Z5N?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 考核发起后，如果需要修改评分可见权限，可到已发起考核里面去修改，修改后实时生效
@@ -2689,7 +2616,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 ![image.png](assets/741c0184ea9733608c0afb38d0e947b6.jpg)
 
 
-关于评分可见权限的说明解释，可点击下方链接，至评分可见权限说明板块查看[3.1如何发起考核](https://alidocs.dingtalk.com/i/p/B3YxXAdwAyEzNy2jPDmr0qnVYR9Yyzxd?rnd=0.11315056149541758)
+关于评分可见权限的说明解释，可点击下方链接，至评分可见权限说明板块查看3.1如何发起考核
 
 
 ---
@@ -2697,11 +2624,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/如何重置流程？.md -->
 # 如何重置流程？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLrOERmDTx93Kmzk8lemrZQ3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何重置流程？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLrOERmDTx93Kmzk8lemrZQ3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 重置的步骤：
@@ -2716,7 +2642,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/ebd1f802b3ac877660d1f8ad2d990e23.jpg)
 
-如果考评组-模板设计中<span style="color: #F5222D;">指标和维度也做了更改</span>，想要已经发起的考核按照最新的考评组的模板和流程来进行，就要选择<span style="color: #F5222D;">【重新读取考评组流程设置】-【重置指标】</span>
+如果考评组-模板设计中指标和维度也做了更改，想要已经发起的考核按照最新的考评组的模板和流程来进行，就要选择【重新读取考评组流程设置】-【重置指标】
 
 ![image.png](assets/d2d04d7d9ef805423a30e2d8ffe6df57.jpg)
 
@@ -2726,11 +2652,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/已发起考核后评分说明如何改成选填？.md -->
 # 已发起考核后评分说明如何改成选填？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NRK6RVdqbropQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 已发起考核后评分说明如何改成选填？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIk3NRK6RVdqbropQ?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 在考评表-考核流程-点击相应的的评分节点-评分必填设置-修改选填/必填/按条件
@@ -2739,7 +2664,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 修改后右上角操作同步规则：
 
-<span style="background-color: #F9DDB2;">注意：</span>
+注意：
 
 1、同步规则只针对于执行中后面的节点有变动可以操作
 
@@ -2755,11 +2680,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/已发起考核后，调整说明让员工可见是在哪里设置？.md -->
 # 已发起考核后，调整说明让员工可见是在哪里设置？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/oP0MALyR8k79mEYGINzjQ0g583bzYmDO?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 已发起考核后，调整说明让员工可见是在哪里设置？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/oP0MALyR8k79mEYGINzjQ0g583bzYmDO?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 在已发起考核中-点击右上角【...】-点击管理-更多配置
@@ -2778,11 +2702,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/怎么设置沟通反馈不给员工看？.md -->
 # 怎么设置沟通反馈不给员工看？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEB113VBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 怎么设置沟通反馈不给员工看？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEB113VBQEx5rG?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 1、管理员在【已发起考核】-进入考核查看
@@ -2808,11 +2731,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/按指标设置流程如果想增加一个评分人怎么设置？.md -->
 # 按指标设置流程如果想增加一个评分人怎么设置？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGx76gRV9ekBD76?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 按指标设置流程如果想增加一个评分人怎么设置？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGx76gRV9ekBD76?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 按指标设置流程，考核已经发起，想要增加一个评分人怎么设置
@@ -2835,7 +2757,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/93c6a41e80d657543c731c3b437b798c.jpg)
 
-<span style="color: #FE0300;">注意：</span>
+注意：
 
 调整指标，流程会重置到第一个评分流程，之前的评分是否会保留，需要看之前发起考核的时候，是否开启了评分先后顺序，如下图
 - 【所有评分人同时评分】，则分数会保留
@@ -2843,7 +2765,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/967f68091af27a712ba115cb6f669b55.jpg)
 
-<span style="color: rgb(254, 3, 0);">注意：若考核原先是在执行中的，调整目标之后，考核还是在执行中</span>
+注意：若考核原先是在执行中的，调整目标之后，考核还是在执行中
 
 
 **二、多位员工的考核需要增加评分人**
@@ -2860,9 +2782,9 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/f67bb11ef34fa392de2bfebd7292f865.jpg)
 
-<span style="color: #FE0300;">注意：</span>
+注意：
 
-重置完成后，相当于考核重新发起，考核会回到第一个环节重新进行下去，<span style="background-color: rgb(253, 190, 61);">之前打过的分数无法保留，需要重新打分，目标制定人/确认人手动更改的指标都不保留。</span>
+重置完成后，相当于考核重新发起，考核会回到第一个环节重新进行下去，之前打过的分数无法保留，需要重新打分，目标制定人/确认人手动更改的指标都不保留。
 
 
 ---
@@ -2870,18 +2792,17 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/目标确认后，如何对员工的指标进行调整？.md -->
 # 目标确认后，如何对员工的指标进行调整？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEwmP9WyMoPYe1?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 目标确认后，如何对员工的指标进行调整？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUKzEwmP9WyMoPYe1?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 背景：员工目标确认流程结束后，但因为因为工作内容变动，需要对员工的指标内容、指标权重等内容做调整。
 
 **方式一：部门主管直接调整**
 
-绩效管理员在考核管理-本次已经生成的考核详情中， 开启主管调整目标的功能 
+绩效管理员在考核管理-本次已经生成的考核详情中， 开启主管调整目标的功能
 
 操作路径：考核管理-XX绩效考核-更多-管理-可以调整（部门主管是否可以调整被考核人员的目标）
 
@@ -2897,7 +2818,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 **方式二：管理员进行调整**
 
-绩效管理员在员工目标确认流程结束后，在任意节点都有权限调整被考核人的目标 
+绩效管理员在员工目标确认流程结束后，在任意节点都有权限调整被考核人的目标
 
 注意：若是上级评分已经结束 ，管理员点击调整目标并提交后， 流程会重新回到评分环节
 
@@ -2916,14 +2837,13 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/组织架构发生变动.md -->
 # 组织架构发生变动
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjZ4PWgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 组织架构发生变动
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjZ4PWgk9rpMq?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
-[管理员手册2-组织架构变动（人员入转调离）.mp4](https://alidocs2.oss-cn-zhangjiakou.aliyuncs.com/res/4jKqm0bBgWVVNnw1/att/8a90b743-8d26-4b82-8ab5-f90762919db4.mp4?Expires=1789103157&OSSAccessKeyId=LTAI5tKTjg4Kq1HCdBJ8qpSp&Signature=VhZDR7CWAc4ijZuOjzR5uCi980w%3D)
+管理员手册2-组织架构变动（人员入转调离）.mp4
 
 
 ---
@@ -2931,14 +2851,13 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/考核内容发生变更操作.md -->
 # 考核内容发生变更操作
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodQnQeJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考核内容发生变更操作
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodQnQeJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
-[管理员手册3-考核内容发生变化.mp4](https://alidocs2.oss-cn-zhangjiakou.aliyuncs.com/res/4maOgXb0aLeBKlWN/att/ea940e17-3e03-4fa1-820e-70425a44c662.mp4?Expires=1789103157&OSSAccessKeyId=LTAI5tKTjg4Kq1HCdBJ8qpSp&Signature=ygeLdCQ%2F1vxmeAZoPeuAcO8yaGE%3D)
+管理员手册3-考核内容发生变化.mp4
 
 
 ---
@@ -2946,11 +2865,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/考核发起后如何修改评分人可见权限？.md -->
 # 考核发起后如何修改评分人可见权限？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGDbxlVB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考核发起后如何修改评分人可见权限？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTQYGDbxlVB5r9YAn?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 ---
@@ -2975,7 +2893,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 ![image.png](assets/772315a83ca6909c587b8fad31bc4d30.jpg)
 
 
-<span style="background-color: #FADB14;">**注意：举例说明**</span>
+**注意：举例说明**
 
 
 若考核流程是这样的：**被考核人：梁杰，先自评，互评，上级打分：戴小七**
@@ -2987,7 +2905,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 ![image.png](assets/ab85f658249b9467c1df110c4d460f64.jpg)
 
 
-那么对于被考核人：梁杰，只能看到自己的打分信息，看不到互评人、上级打分人-戴小七    给他打的分数和评分说明；
+那么对于被考核人：梁杰，只能看到自己的打分信息，看不到互评人、上级打分人-戴小七 给他打的分数和评分说明；
 
 对于互评人来说，也是只能看到自己给被考核人打的互评分数，看不到梁杰的自评和戴小七给梁杰打的上级打分分数和评分说明；
 
@@ -2999,18 +2917,17 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/考核已经发起， 如何修改考评规则？.md -->
 # 考核已经发起， 如何修改考评规则？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjnrrWgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考核已经发起， 如何修改考评规则？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gjnrrWgk9rpMq?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 ---
 
- 为了保证同一考评表 ，不同月份的考核能够同时进行，那么直接更改考评表，重复发起对已经发起的考核是不会有影响的<span style="color: ;">；若是需要已经发起的考核也进行相应的变化，</span>根据修改的内容不同，系统支持重置流程或者同步规则，来对已发起的考核进行流程更新，需要结合实际修改的内容，选择更新方式。
+ 为了保证同一考评表 ，不同月份的考核能够同时进行，那么直接更改考评表，重复发起对已经发起的考核是不会有影响的；若是需要已经发起的考核也进行相应的变化，根据修改的内容不同，系统支持重置流程或者同步规则，来对已发起的考核进行流程更新，需要结合实际修改的内容，选择更新方式。
 
-##### <span style="background-color: #FDBE3D;">**方式1：重新读取单人考评流程—保留已制定的指标**</span>
+##### **方式1：重新读取单人考评流程—保留已制定的指标**
 
 选择保留已制定的指标，目标制定人/确认人手动更改的指标是保留的，重置完成后，考核会回到第一个环节重新进行下去，之前打过的分数无法保留，需要重新打分；
 
@@ -3031,7 +2948,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/b1f5400e54be3f41c9b4b291132809e9.jpg)
 
-##### <span style="background-color: #FDBE3D;">**方式2：重新读取单人考评流程—重置指标**</span>
+##### **方式2：重新读取单人考评流程—重置指标**
 
 选择重置指标，会重新读取最新的考评表设置，包含指标内容及评分流程设置，之前目标制定人/确认人手动更改的指标也没法保留，重置完成后，考核会回到第一个环节重新进行下去，之前打过的分数无法保留，需要重新打分；
 
@@ -3042,7 +2959,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 操作步骤同上（重置指标）
 
-##### <span style="background-color: #FDBE3D;">**方式3： 批量重置（重新读取考评表）**</span>
+##### **方式3： 批量重置（重新读取考评表）**
 
 当考评表流程或者规则更改时，可以用批量重置的功能，将更改的内容更新到已发起的考核中。
 
@@ -3060,21 +2977,21 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 选择是保留已制定指标，或者是重置指标，点击批量重置
 
-##### <span style="background-color: #FDBE3D;">**方式4：批量同步考评流程**</span>
+##### **方式4：批量同步考评流程**
 
 **1、适用场景：**
 
 评分节点、审批节点的人员修改、新增，或者是评分人评分规则的修改，都可通过同步规则来更新历史的考核规则（支持评分环节和审批节点的规则调整，不支持其他环节的更改同步）
 
-<span style="color: ;">**2、操作步骤**</span>
+**2、操作步骤**
 
 考评表-【编辑】-【③考评流程】-右上角【同步规则】-选择具体要同步的考评表和被考核人-点击【保存考评表并同步】
 
-<span style="color: #F5222D;">**【批量同步】注意事项：**</span>
+**【批量同步】注意事项：**
 
 1、24小时内只允许对同一考评表的相同人员同步1次，已同步完成的会有标记；
 
-2<span style="color: ;">、已进入评分的流程会重置到第一个评分环节重新评分，之前评的分数无法保留；</span>
+2、已进入评分的流程会重置到第一个评分环节重新评分，之前评的分数无法保留；
 
 3、未开始评分的评分流程直接更新；
 
@@ -3090,11 +3007,11 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/9dc5b413b96509f96cadf6294d541cbc.jpg)![image.png](assets/0c62f898daea8262f184cbf3b5288d93.jpg)
 
-##### <span style="background-color: #FDBE3D;">**方式5：调整流程&调整考核规则**</span>
+##### **方式5：调整流程&调整考核规则**
 
 **适用场景：**考核规则/流程需要调整，又不想重新读取考评表，不想流程被回退
 
-<span style="color: ;">**操作步骤**</span>：在考核详情页，新增“考核规则”、“调整流程”按钮
+**操作步骤**：在考核详情页，新增“考核规则”、“调整流程”按钮
 
 ![image.png](assets/16e995315d232127b7bec7e6cd2a64e5.jpg)
 
@@ -3136,14 +3053,13 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/考核流程删除_批量修改_导出.md -->
 # 考核流程删除/批量修改/导出
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEBjbRVBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 考核流程删除/批量修改/导出
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglEBjbRVBQEx5rG?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
-[管理员手册1-常用操作（删除、批量操作、导出数据）.mp4](https://alidocs2.oss-cn-zhangjiakou.aliyuncs.com/res/vBPlN5jPJ5gM3OdG/att/cc0919ba-aaab-4976-85f0-06bac4fa066e.mp4?Expires=1789103157&OSSAccessKeyId=LTAI5tKTjg4Kq1HCdBJ8qpSp&Signature=RMxklA32GyH%2BBPO8wnY0FpMylAE%3D)
+管理员手册1-常用操作（删除、批量操作、导出数据）.mp4
 
 
 ---
@@ -3151,16 +3067,15 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题/评分可见权限如何设置？.md -->
 # 评分可见权限如何设置？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mdpNGUnAdjMkyJxLq0Ee4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 评分可见权限如何设置？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mdpNGUnAdjMkyJxLq0Ee4?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/【考核变更】问题
 
 若被考核人的评分可见权限为【仅可见自己】，则只能看到自己所评分数，若选择了【可见全部】S则能看到其他人所评分数，包括上级评分。
 
-<span style="background-color: #FADB14;">**1、发起时可设置**</span>
+**1、发起时可设置**
 
 点击【发起考核】-“修改设置”-“设置”，设置评分内容可见权限
 
@@ -3170,7 +3085,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/d1758e9d1a9f5e17ad9f260b3b191981.jpg)
 
-<span style="background-color: #FADB14;">**2、发起后也可以更改**</span>
+**2、发起后也可以更改**
 
 当流程发起后，若需对被考核人的评分人权限进行个性化调整，可进行如下操作：
 
@@ -3189,23 +3104,22 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/如何公示考核结果？.md -->
 # 如何公示考核结果？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZgpG2NdyVXrOLk9mTq1DyyQM8MwvDqPk?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何公示考核结果？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZgpG2NdyVXrOLk9mTq1DyyQM8MwvDqPk?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 **背景：**发起考核时，选择「需管理员公示」，那么在结果未公示之前被考核人是看不到自己的考核结果的。
 
-<span style="color: #F5222D;">注意：</span>评分结果的设置，是设置被考核人何时看到自己最后的考核总分和等级的，如果选择需要管理员公示，则公示之前看不到考核结果
+注意：评分结果的设置，是设置被考核人何时看到自己最后的考核总分和等级的，如果选择需要管理员公示，则公示之前看不到考核结果
 
 ![image.png](assets/d18f010ac504a3c4a27889b4c2a6f67d.jpg)
 
 ![image.png](assets/0c1bd19622ba412f7cc2b8678153eeb7.jpg)
 
 
-<span style="background-color: #FADB14;">**操作步骤：**</span>
+**操作步骤：**
 
 点击「已发起考核」-「更多」-「公示结果」-勾选需要公示结果的员工，点击公示结果即可。
 
@@ -3219,19 +3133,18 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/如何发起绩效面谈流程.md -->
 # 如何发起绩效面谈流程
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEQgwXJkb4Mw9r?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何发起绩效面谈流程
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEQgwXJkb4Mw9r?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
-背景：绩效面谈是指管理者要对员工的绩效表现进行交流与评价，确定员工本周期的绩效表现，根据结果，与员工做一对一、面对面的绩效沟通，是上级主管和下属之间对于工作情况的沟通和确认，找出工作中的优势及不足，并制定相应的改进方案，以便在下一个绩效考核周期做得更好，达到改善绩效的目的   
+背景：绩效面谈是指管理者要对员工的绩效表现进行交流与评价，确定员工本周期的绩效表现，根据结果，与员工做一对一、面对面的绩效沟通，是上级主管和下属之间对于工作情况的沟通和确认，找出工作中的优势及不足，并制定相应的改进方案，以便在下一个绩效考核周期做得更好，达到改善绩效的目的
 
 
-<span style="background-color: #FCC102;">发起面谈流程</span>
+发起面谈流程
 
-<span style="background-color: #FFFFFF;">在已发起考核内-找到对应的考核周期-面谈-发起面谈</span>
+在已发起考核内-找到对应的考核周期-面谈-发起面谈
 
 ![image.png](assets/5ada08dd4f2095d9937c08262d2378dc.jpg)
 
@@ -3249,9 +3162,9 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 （2）选择面谈插入的节点：面谈的节点可以选择是在结果确认之前还是在结果确认之后
 
-<span style="color: #FE0300;">注意：若无结果确认，则考核流程结束后直接到面谈节点，若有结果确认，结果确认结束后才可以到面谈</span>
+注意：若无结果确认，则考核流程结束后直接到面谈节点，若有结果确认，结果确认结束后才可以到面谈
 
-<span style="color: #FE0300;">若选择结果确认之前且已公示，需要结果公示后才会开始面谈流程</span>
+若选择结果确认之前且已公示，需要结果公示后才会开始面谈流程
 
 ![image.png](assets/8e1b565e9599dba3150b98deb6177fca.jpg)
 
@@ -3289,11 +3202,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/如何按部门设置不同的等级分布规则.md -->
 # 如何按部门设置不同的等级分布规则
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vO77Xa8bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何按部门设置不同的等级分布规则
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vO77Xa8bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 考核发起之后，可以到已发起考核里面，按部门或者按人员去设置等级分布规则。
@@ -3325,7 +3237,7 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 
 ![image.png](assets/422678064c22ea0f092b3bbd90bb0ee4.jpg)
 
-注：<span style="color: #FE0300;">**强制正态分布需要等本次等级员工的考核全部完成评分后，再点击执行等级分布哦，未完成评分的员工不会执行等级分布**</span>
+注：**强制正态分布需要等本次等级员工的考核全部完成评分后，再点击执行等级分布哦，未完成评分的员工不会执行等级分布**
 4. **执行等级之后，等级就会更新**
 
 ![image.png](assets/bdd7cab0b121a30192110a062cb2e532.jpg)
@@ -3336,11 +3248,10 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/审批前需要导出让领导签字，没问题之后再让助理操作审批流程是否支持？.md -->
 # 审批前需要导出让领导签字，没问题之后再让助理操作审批流程是否支持？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEX6wAVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 审批前需要导出让领导签字，没问题之后再让助理操作审批流程是否支持？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEX6wAVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 **支持的，如图当前流程未审批**![image.png](assets/ac15b4c0ef3a6e7bfa4a60d7f03a5542.jpg)在已发起考核中-点击右上角【...】-选择导出PDF考核档案
@@ -3361,74 +3272,73 @@ ps：目前只有目标确认和上级打分人支持自己进行转交，其他
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/小部门的强制正态分布计算逻辑.md -->
 # 小部门的强制正态分布计算逻辑
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw21kEpV9dEq3XD?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 小部门的强制正态分布计算逻辑
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw21kEpV9dEq3XD?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 ---
 
-##### <span style="background-color: #FADB14;">场景</span>
+##### 场景
 
 强制正态分布可以自定义部门/考评组等小范围进行强制正态分布，计算出小范围内的每个人员的绩效等级
 
 强制正态分布，不看分数多少，只看百分比占比为公司前多少，强制选出前面的排名
 
-##### <span style="background-color: #FADB14;">分布规则</span>
+##### 分布规则
 
 举一个例子
 
 一个企业的正态分布规则如下：
 
-A                         5%
+A 5%
 
-B                         20%
+B 20%
 
-C                         50%
+C 50%
 
-D                         20%
+D 20%
 
-E                         5%
+E 5%
 
 
-现有5个人需要按这个分布规则进行正态分布，计算出每个人员的绩效等级 
+现有5个人需要按这个分布规则进行正态分布，计算出每个人员的绩效等级
 
-A：  5  \*  5/100  =  0.25  \<  0.5  
+A： 5 \* 5/100 = 0.25 \< 0.5
 
 所以有0个A
 
 
 扣除0个已经分布在A等级的人，现在有5个人在B、C、D、E 分布区间内进行分布
 
-B:（5-0）  \*  20/（100-5）   =  1.05     \>  0.5
+B:（5-0） \* 20/（100-5） = 1.05 \> 0.5
 
 1.05四舍五入后为1，所以有1个B
 
 
 扣除1个已经分布在B等级的人，现在有4个人在C、D、E 分布区间内进行分布
 
-C:（5-1) \*  50/（100-5-20）   =  2.66   \> 0.5  
+C:（5-1) \* 50/（100-5-20） = 2.66 \> 0.5
 
 2.66四舍五入后为3，所以有3个c
 
 
 扣除3个已经分布在 C等级的人，现在有1个人在D、E 分布区间内进行分布
 
-D：  (5-0-1 -3) \*  20/（100-5-20-50）= 0.8    \>   0.5   
+D： (5-0-1 -3) \* 20/（100-5-20-50）= 0.8 \> 0.5
 
 0.8四舍五入后为1，所以有1个d
 
 
 扣除1个已经分布在 D等级的人，现在有0个人在E 分布区间内进行分布
 
-E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
+E：(5-0-1 -3-1) \* 5/（100-5-20-50-20）= 0 \< 0.5
 
 有0个e
 
 
-详细操作步骤：[如何按部门设置不同的等级分布规则](https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vO77Xa8bkz3BRL?utm_scene=team_space)
+详细操作步骤：如何按部门设置不同的等级分布规则
 
 
 ---
@@ -3436,11 +3346,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/有没有绩效管理分析的功能？.md -->
 # 有没有绩效管理分析的功能？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdDOg5WgN7R35y?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 有没有绩效管理分析的功能？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdDOg5WgN7R35y?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 有的，绩效管理员可以在菜单栏可以看到【数据中心】，通过考核结果分析，管理员可以查看任意考核周期的考核结果分析，并通过图表形式看到不同等级的占比分。无需人工统计，实现员工的绩效考核情况自动排名。排名只会涉及到考核结束有考核结果的员工。
@@ -3462,11 +3371,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/等级分布错误了怎么撤销？.md -->
 # 等级分布错误了怎么撤销？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4zDLaJxkXOEP2?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 等级分布错误了怎么撤销？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4zDLaJxkXOEP2?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 在已发起考核中-找到对应的考核周期-进入等级分布-找到已执行的等级-点击右侧编辑进入修改页面
@@ -3486,11 +3394,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/线下的考核数据能导入绩效吗？.md -->
 # 线下的考核数据能导入绩效吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg6dMDZW47Z3je9?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 线下的考核数据能导入绩效吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg6dMDZW47Z3je9?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 进入【考核管理】-【已发起考核】界面，点击右上角【导入历史绩效】，选择好周期类型后下载表格模板，填好表格模板的数据后重新选择周期，上传即可。
@@ -3513,14 +3420,13 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/绩效考核中为什么不显示绩效等级？.md -->
 # 绩效考核中为什么不显示绩效等级？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zgPKnVxEKBD6p?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 绩效考核中为什么不显示绩效等级？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zgPKnVxEKBD6p?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
-**问：**<span style="color: #191F25;">我们采用的绩效等级分布是强制正态分布，考核完成后为什么没有显示等级，是不是要所有的人全部考核完毕，才能有结果？</span>
+**问：**我们采用的绩效等级分布是强制正态分布，考核完成后为什么没有显示等级，是不是要所有的人全部考核完毕，才能有结果？
 
 **答：**您可能是在发起考核时设置了需管理员公示结果，需要等该次考核中已经有考核结果出来后，**点击考核管理中的等级分布**， 就可以展示员工等级了。
 
@@ -3556,11 +3462,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/绩效考核结果公示后，普通员工可以看到全员的排名吗？.md -->
 # 绩效考核结果公示后，普通员工可以看到全员的排名吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAGZb8bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 绩效考核结果公示后，普通员工可以看到全员的排名吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAGZb8bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 不可以 ， 公示之后，员工只能看到自己的评分结果 、绩效等级（已经开启等级分布的功能）
@@ -3573,11 +3478,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用/面谈环节不显示等级是为什么？.md -->
 # 面谈环节不显示等级是为什么？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOBePD8bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 面谈环节不显示等级是为什么？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOBePD8bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/6、【已发起考核】常见问题/考核结果运用
 
 在已发起考核中-发起面谈，面谈节点是否选择【结果确认之前且已公示】
@@ -3598,22 +3502,21 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/2、【 部门主管设置】常见问题/如何设置主部门？.md -->
 # 如何设置主部门？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEbpNaVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何设置主部门？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEbpNaVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/2、【 部门主管设置】常见问题
 
-#### 可使用智能人事「主部门」功能 
+#### 可使用智能人事「主部门」功能
 
 
-<span style="background-color: #FADB14;">背景</span>：部分企业存在某些员工在多个部门的情况，如果不设置员工的主部门，在评分时，上级评分会出现多个部门主管需要评分，不符合实际情况。
+背景：部分企业存在某些员工在多个部门的情况，如果不设置员工的主部门，在评分时，上级评分会出现多个部门主管需要评分，不符合实际情况。
 
-<span style="background-color: #FADB14;">解决办法:</span>先在钉钉管理后台-智能人事设置好员工的主部门，然后绩效管理员在设置-企业设置-关系识别中，开启主部门功能
+解决办法:先在钉钉管理后台-智能人事设置好员工的主部门，然后绩效管理员在设置-企业设置-关系识别中，开启主部门功能
 
 
-<span style="background-color: #FADB14;">操作详解</span>：1、钉钉管理员登录钉钉管理后台-通讯录-智能人事-花名册搜索员工姓名，点击编辑-设置好主部门
+操作详解：1、钉钉管理员登录钉钉管理后台-通讯录-智能人事-花名册搜索员工姓名，点击编辑-设置好主部门
 
 ![image.png](assets/efacb51dfe92802b0cf268319d72ddf6.jpg)
 
@@ -3636,16 +3539,15 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/2、【 部门主管设置】常见问题/绩效部门主管读取逻辑.md -->
 # 绩效部门主管读取逻辑
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HzdoMXrQJKMEvZBY?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 绩效部门主管读取逻辑
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HzdoMXrQJKMEvZBY?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/2、【 部门主管设置】常见问题
 
 ---
 
-在使用智能绩效时，智能绩效中的部门主管是直接同步<span style="color: #191F25;">钉钉通讯录中的部门主管，可在钉钉通讯录内进行配置，配置好之后，系统的主管读取逻辑</span>
+在使用智能绩效时，智能绩效中的部门主管是直接同步钉钉通讯录中的部门主管，可在钉钉通讯录内进行配置，配置好之后，系统的主管读取逻辑
 
 
 路径1：进入企业钉钉管理后台，在【通讯录】—【成员管理】中点击部门后的【···】按钮设置部门主管。
@@ -3658,11 +3560,11 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 ![image.png](assets/040667b079afb619ca985d4c3dc249d1.jpg)
 
 
-<span style="color: #F5222D;">设置完成之后</span>
+设置完成之后
 
  1、系统自动给主管配置【 考核管理】-【已发起考核】板块， 可查看该部门及下级部门，员工的考核数据
 
-   2、考评表-考评流程中， 目标确认、上级主管评分等环节，选择「直接主管」节点时，系统自动匹配人员
+ 2、考评表-考评流程中， 目标确认、上级主管评分等环节，选择「直接主管」节点时，系统自动匹配人员
 
 
 **部门主管读取逻辑**
@@ -3690,11 +3592,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如何手动同步组织架构？.md -->
 # 如何手动同步组织架构？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg60o0ZW47Z3je9?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何手动同步组织架构？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkibg60o0ZW47Z3je9?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 当内部组织架构做过调整或者修改，但智能绩效里面的组织架构没有及时同步更新的时候，可以选择通过手动同步组织架构的方式，来重新读取组织架构信息。
@@ -3717,11 +3618,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如何查看管理员操作日志.md -->
 # 如何查看管理员操作日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4zd7LJxkXOEP2?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何查看管理员操作日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4zd7LJxkXOEP2?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 主管理员默认可以查看其他管理员的操作日志，如果是子管理员，需要主管理员给到【操作日志】的权限，子管理员才可以查看
@@ -3742,11 +3642,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如何添加可使用人员？.md -->
 # 如何添加可使用人员？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZxrQ6VGXn6lpz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何添加可使用人员？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZxrQ6VGXn6lpz?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 若遇到员工进入绩效提示暂无使用权限，是因为员工不在绩效的可使用人员名单内，管理员把人员添加至可使用人员里面即可。
@@ -3763,11 +3662,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如何给部门主管编辑考评表的权限？.md -->
 # 如何给部门主管编辑考评表的权限？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7OpnzJGlDd3mE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何给部门主管编辑考评表的权限？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7OpnzJGlDd3mE?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 如果希望部门主管可以编辑自己部门的考评表，管理员可以将部门主管设置为绩效的子管理员，给到部门主管特定考评表的权限。
@@ -3803,7 +3701,7 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 ![image.png](assets/46f4a7bfab87e2c8f89aa41c6583fd63.jpg)
 
 
-<span style="color: #FE0300;">PS：开启已发起考核的权限后，主管进入员工考核详情页，在更多里面，会有查看结果值、导出报表、批量操作（转交、重置流程等）、管理等操作权限~</span>
+PS：开启已发起考核的权限后，主管进入员工考核详情页，在更多里面，会有查看结果值、导出报表、批量操作（转交、重置流程等）、管理等操作权限~
 
 ![image.png](assets/b50bd95649e4412c2dce4a572ab92a7c.jpg)
 
@@ -3813,11 +3711,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如何设置满分分值？.md -->
 # 如何设置满分分值？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEddjbJkb4Mw9r?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何设置满分分值？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybEddjbJkb4Mw9r?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 若未设置满分分值，在评分结果的分数中，会出现总分大于100分的情况，如果您想控制总分为100分，可以在企业设置-考核-评分设置中设置满分分值。
@@ -3844,11 +3741,10 @@ E：(5-0-1 -3-1)  \*  5/（100-5-20-50-20）= 0   \<   0.5
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如何设置绩效管理员？.md -->
 # 如何设置绩效管理员？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnC2vGzyyEWakx1Z5N?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何设置绩效管理员？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/dQPGYqjpJYg0eXDnC2vGzyyEWakx1Z5N?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 注：钉钉的子管理员跟智能绩效应用的管理员没有关系，是两套不同的权限管理机制！必须让钉钉主管理员在绩效应用里面再给你设置绩效的主管理员的权限。
@@ -3873,7 +3769,7 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 
 **注：**
 
-1）<span style="color: #F5222D;">**智能绩效主管理员默认为钉钉主管理员，**</span><span style="color: #191F25;">由钉钉主管理员进行设置，可以设置智能绩效的子管理员。</span>
+1）**智能绩效主管理员默认为钉钉主管理员，**由钉钉主管理员进行设置，可以设置智能绩效的子管理员。
 
 2）获得智能绩效的管理员权限需在应用内设置成管理员，与该员工是否为钉钉子管理员身份无关；
 
@@ -3885,11 +3781,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/如果让员工自己发起考核，是不是要把所有人设置为子管理员.md -->
 # 如果让员工自己发起考核，是不是要把所有人设置为子管理员
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG7yw2WxAZB1Gv?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如果让员工自己发起考核，是不是要把所有人设置为子管理员
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG7yw2WxAZB1Gv?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 是的，只有管理员能够发起考核，若需要部门主管发起考核需要将其设置为绩效子管理员。
@@ -3908,11 +3803,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/怎么设置其他人员，可以看到所有人员的绩效？.md -->
 # 怎么设置其他人员，可以看到所有人员的绩效？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLbwjkV6zbX04v?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 怎么设置其他人员，可以看到所有人员的绩效？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLbwjkV6zbX04v?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 1、如果是普通员工，默认只能看见自己的考核结果；
@@ -3933,11 +3827,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/3、【设置】板块常见问题/该指标评分不可超过评分上限怎么更改.md -->
 # 该指标评分不可超过评分上限怎么更改
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGxrkdZV9ekBD76?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 该指标评分不可超过评分上限怎么更改
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSPGxrkdZV9ekBD76?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/3、【设置】板块常见问题
 
 在智能绩效上方菜单栏找到【企业设置】，点击考核模块，【考核】-【评分设置】，更改满分分值后保存。
@@ -3958,11 +3851,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/【考核】模块输入框字段长度一览表.md -->
 # 【考核】模块输入框字段长度一览表
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG7eYBWxAZB1Gv?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 【考核】模块输入框字段长度一览表
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDG7eYBWxAZB1Gv?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
 智能绩效内有许多可自定义内容的输入框，例如各考评表名称、指标名称、评分说明等，系统对输入字数、附件个数设定了限制，一旦超过系统会提示报错。
@@ -3970,7 +3862,7 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 
 请对照输入框字段长度一览表，合理输入对应内容：
 
-| <span style="background-color: #FADB14;">输入框模块</span> | <span style="background-color: #FADB14;">字数限制（含字符）</span> |
+| 输入框模块 | 字数限制（含字符） |
 |---------------------------------------------------------------|---------------------------------------------------------------------------|
 | 考评表名称 | 200 |
 | 指标名称 | 200 |
@@ -3999,11 +3891,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/在线签名是否具有法律效应？.md -->
 # 在线签名是否具有法律效应？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAa5j8bkz3BRL?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 在线签名是否具有法律效应？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gwva2dxOW4KpjxERU4vOAa5j8bkz3BRL?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
 在被考核人确认考核结果环节可以选择在线签名的形式。
@@ -4019,24 +3910,23 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/基础版和专业版的常用功能差异有哪些？.md -->
 # 基础版和专业版的常用功能差异有哪些？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zejEPVxEKBD6p?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 基础版和专业版的常用功能差异有哪些？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zejEPVxEKBD6p?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
 **基础版不支持以下功能操作：（以下是部分重要功能列举，但不是全部内容）：**
 
-**指标库搭建：**不支持指标分类、指标标签分类、<span style="color: #D33F0E;">指标公式计算</span>、指标修改后同步规则到考评表；
+**指标库搭建：**不支持指标分类、指标标签分类、指标公式计算、指标修改后同步规则到考评表；
 
-**考评表搭建：**不支持<span style="color: #D33F0E;">互评</span>、<span style="color: #E03E3E;">按指标设置评分流程</span>（一个指标由不同的人打分、且不分评分先后顺序）、限制考核维度下指标数量或限定指标权重和、复制考评表、批量预览员工归属考评表及其考评流程；
+**考评表搭建：**不支持互评、按指标设置评分流程（一个指标由不同的人打分、且不分评分先后顺序）、限制考核维度下指标数量或限定指标权重和、复制考评表、批量预览员工归属考评表及其考评流程；
 
-**过程管理和确认面谈环节：**不支持写行动计划生成周报、<span style="color: #D33F0E;">不支持绩效面谈；</span>
+**过程管理和确认面谈环节：**不支持写行动计划生成周报、不支持绩效面谈；
 
-**绩效结果应用**：<span style="color: #D33F0E;">不支持等级分布</span>（手动评级、分数区间对应、强制正态分布均不支持），<span style="color: #D33F0E;">也就是只有考核总分，没有等级</span>；
+**绩效结果应用**：不支持等级分布（手动评级、分数区间对应、强制正态分布均不支持），也就是只有考核总分，没有等级；
 
-**报表：**<span style="color: #D33F0E;">仅支持员工绩效档案，其他报表都没有</span>（考核结果分析、历史绩效排名表、指标分析表） ；
+**报表：**仅支持员工绩效档案，其他报表都没有（考核结果分析、历史绩效排名表、指标分析表） ；
 
 **好用的便捷操作：**不支持管理员操作日志；
 
@@ -4050,14 +3940,13 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/如何向客服咨询_反馈问题.md -->
 # 如何向客服咨询/反馈问题
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZprGqVGXn6lpz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 如何向客服咨询/反馈问题
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZprGqVGXn6lpz?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
-方式一：拨打智能绩效客服热线 <span style="color: #F5222D;">**0755-33942806**</span>
+方式一：拨打智能绩效客服热线 **0755-33942806**
 
 
 方式二：若您已经开通智能绩效，可在应用内用“在线咨询”功能
@@ -4075,7 +3964,7 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 ![image.png](assets/9e40493968b0020fde6a8ed6d5f6e72d.jpg)
 
 
-**方式三：若您还未开通智能绩效，可通过**<span style="color: #F5222D;">**产品详情页“在线咨询”**</span>**功能**
+**方式三：若您还未开通智能绩效，可通过****产品详情页“在线咨询”****功能**
 
 钉钉客户端工作—应用市场—搜索智能绩效进入详情页—点击在线咨询
 
@@ -4094,17 +3983,16 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/已经离职需要绩效打分，即使把这个人重新办理入职，也不能进行打分吗？.md -->
 # 已经离职需要绩效打分，即使把这个人重新办理入职，也不能进行打分吗？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YndMj49yWjPvaEbAcX57MvDaJ3pmz5aA?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 已经离职需要绩效打分，即使把这个人重新办理入职，也不能进行打分吗？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YndMj49yWjPvaEbAcX57MvDaJ3pmz5aA?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
 由于钉钉通讯录员工识别是通过useerID来识别的，而不是按照姓名来的，如果只是重新入职，钉钉系统会默认为是两个同名同姓的人。
 
 
-**解决方案：**<span style="background-color: #FADB14;">将员工离职之前的userID获取到，复制到重新添加入职的员工userID上即可</span>
+**解决方案：**将员工离职之前的userID获取到，复制到重新添加入职的员工userID上即可
 
 ①进入钉钉管理后台，点击-数据洞察-通讯录分析-查看离职员工，获取员工之前的userID
 
@@ -4122,33 +4010,32 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/智能绩效数据安全说明.md -->
 # 智能绩效数据安全说明
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YQBnd5ExVEwmG2reH7LdbMgm8yeZqMmz?utm_scene=team_space
+原文链接：https://open-doc.dingtalk.com/microapp/operations/orkrf1](https://open-doc.dingtalk.com/microapp/operations/orkrf1
 
 # 智能绩效数据安全说明
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YQBnd5ExVEwmG2reH7LdbMgm8yeZqMmz?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
-<span style="color: rgb(38, 38, 38);">**关于数据存放**</span><span style="color: rgb(38, 38, 38);">智能绩效相关的所有数据将存放于阿里云。</span>
+**关于数据存放**智能绩效相关的所有数据将存放于阿里云。
 
-<span style="color: rgb(38, 38, 38);">**是否支持私有化部署**</span><span style="color: rgb(38, 38, 38);">目前智能绩效主要支持按年付费模式，如有私有化部署需要可详询客户经理。</span>
+**是否支持私有化部署**目前智能绩效主要支持按年付费模式，如有私有化部署需要可详询客户经理。
 
-<span style="color: rgb(38, 38, 38);">**关于数据安全保障**</span><span style="color: rgb(38, 38, 38);">从硬件安全、运维安全和合规安全三大方面全面保障客户数据安全。</span>
+**关于数据安全保障**从硬件安全、运维安全和合规安全三大方面全面保障客户数据安全。
 
-<span style="color: rgb(38, 38, 38); background-color: rgb(255, 251, 143);">**一、硬件安全（从客户端安全、网络传输安全和钉钉云安全三个方面阐述。）**</span><span style="color: rgb(38, 38, 38);">通俗来讲，钉钉（阿里巴巴旗下公司）发现安全风险，可以随时接管应用；并对应用提供方接触企业数据进行安全监管。</span>  
+**一、硬件安全（从客户端安全、网络传输安全和钉钉云安全三个方面阐述。）**通俗来讲，钉钉（阿里巴巴旗下公司）发现安全风险，可以随时接管应用；并对应用提供方接触企业数据进行安全监管。
 
 
-<span style="color: rgb(38, 38, 38);">**1.1 客户端安全：**</span><span style="color: rgb(38, 38, 38);">应用完全基于钉钉APP移动端、钉钉桌面端访问，由钉钉进行安全保护。</span>
+**1.1 客户端安全：**应用完全基于钉钉APP移动端、钉钉桌面端访问，由钉钉进行安全保护。
 
-<span style="color: rgb(38, 38, 38);">**1.2 网络传输安全：**</span><span style="color: rgb(38, 38, 38);">应用基于钉钉开放平台安全要求，经过TLS（Transport Layer Security） 链路加密(达到支付、交易系统级别的加密强度)。</span>
+**1.2 网络传输安全：**应用基于钉钉开放平台安全要求，经过TLS（Transport Layer Security） 链路加密(达到支付、交易系统级别的加密强度)。
 
-<span style="color: rgb(38, 38, 38);">**1.3 钉钉云安全：**</span><span style="color: rgb(38, 38, 38);">基于钉钉开放平台安全要求，</span><span style="color: rgb(245, 34, 45);">应用所有涉及到的硬件资源完全托管于钉钉云，由钉钉云进行安全保障，钉钉云是基于阿里云构建的，目标是安全、稳定和赋能</span><span style="color: rgb(38, 38, 38);">。因此钉钉云在阿里云的基础上进行了一些定制，对一些功能和权限进行了限制，出发点是保证企业的数据安全。</span> <span style="color: rgb(38, 38, 38); background-color: rgb(255, 251, 143);">**二、运维安全**</span>  <span style="color: rgb(38, 38, 38);">**2.1 钉钉开放平台运维要求**</span><span style="color: rgb(38, 38, 38);">作为阿里钉钉使命级战略合作伙伴，我们的运维同学定期参加阿里集团/钉钉的安全培训和考试，并制定了一套严格的运维安全体系，使之无法接触到企业非脱敏数据。</span>
+**1.3 钉钉云安全：**基于钉钉开放平台安全要求，应用所有涉及到的硬件资源完全托管于钉钉云，由钉钉云进行安全保障，钉钉云是基于阿里云构建的，目标是安全、稳定和赋能。因此钉钉云在阿里云的基础上进行了一些定制，对一些功能和权限进行了限制，出发点是保证企业的数据安全。 **二、运维安全** **2.1 钉钉开放平台运维要求**作为阿里钉钉使命级战略合作伙伴，我们的运维同学定期参加阿里集团/钉钉的安全培训和考试，并制定了一套严格的运维安全体系，使之无法接触到企业非脱敏数据。
 
-<span style="color: rgb(38, 38, 38);">**2.2 钉钉云运维安全边界**</span>  <span style="color: rgb(38, 38, 38);">基于钉钉云的特性，钉钉的安全小二可以随时审计产品提供商的运维操作记录。同时，也对我们进行了更为严格的运维操作限制。</span>
+**2.2 钉钉云运维安全边界** 基于钉钉云的特性，钉钉的安全小二可以随时审计产品提供商的运维操作记录。同时，也对我们进行了更为严格的运维操作限制。
 
-<span style="color: rgb(38, 38, 38); background-color: rgb(255, 251, 143);">**三、合规安全**</span><span style="color: rgb(38, 38, 38);">**3.1 保证金制度**</span>  <span style="color: rgb(38, 38, 38);">钉钉对我们的应用实行保证金制度，有效防范对企业信息作恶。</span> <span style="color: rgb(38, 38, 38);">参考链接：</span>[https://open-doc.dingtalk.com/microapp/operations/orkrf1](https://open-doc.dingtalk.com/microapp/operations/orkrf1)
+**三、合规安全****3.1 保证金制度** 钉钉对我们的应用实行保证金制度，有效防范对企业信息作恶。 参考链接：[https://open-doc.dingtalk.com/microapp/operations/orkrf1](https://open-doc.dingtalk.com/microapp/operations/orkrf1)
 
-<span style="color: rgb(38, 38, 38);">**3.2 与钉钉的协议**</span><span style="color: rgb(38, 38, 38);">作为阿里钉钉使命级战略合作伙伴，我们与钉钉签署了深度合作协议，从法律上对企业的信息安全做出了保障。</span>
+**3.2 与钉钉的协议**作为阿里钉钉使命级战略合作伙伴，我们与钉钉签署了深度合作协议，从法律上对企业的信息安全做出了保障。
 
 
 ---
@@ -4156,11 +4043,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/目标地图简介.md -->
 # 目标地图简介
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/2Amq4vjg89gq2KEyCMRkpv5pV3kdP0wQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 目标地图简介
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/2Amq4vjg89gq2KEyCMRkpv5pV3kdP0wQ?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
 ![白板](assets/c2f5a622685d0d77e25cbc7607bd779a.jpg)
@@ -4186,11 +4072,11 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 ![image.png](assets/066b868d458162c22158ee09047f6db6.jpg)
 
 创建目标地图可以确定一个时间周期，例如要进行 2025 年的目标分解管理，请创建周期为 2025 年的目标地图。在这个目标地图中**可以把目标拆分到季度、月度，不必再单独创建季度、月度的目标地图**。**不同的目标地图之间数据是不互通的。**
-- 设置对应的目标地图内容（量化指标/行为价值观） 
--  目标值/结果值/挑战值/门槛值会进行字段类型判断，长文本字段自动会进行提醒，仅计算数字内容（进度字段：结果值/目标值\*100%）
+- 设置对应的目标地图内容（量化指标/行为价值观）
+- 目标值/结果值/挑战值/门槛值会进行字段类型判断，长文本字段自动会进行提醒，仅计算数字内容（进度字段：结果值/目标值\*100%）
 
 ![CleanShot_2025-03-31_16.45.15.png](assets/59c6d9107f688f46e74c92ad91affcb6.jpg)
-> 目标类型及对应的字段是同步「系统设置-考核-指标类型【量化指标】&【行为价值观】」的，如有需要请前往调整。操作路径：企业设置-模块管理-考核-字段设置      
+> 目标类型及对应的字段是同步「系统设置-考核-指标类型【量化指标】&【行为价值观】」的，如有需要请前往调整。操作路径：企业设置-模块管理-考核-字段设置
 
 #### **创建一级目标**
 
@@ -4215,14 +4101,14 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 
 ##### **按部门/人员分解**
 - 结果值
-    - 累加：分解后的目标结果值会自动累加到当前目标，适用于销售额、客户数等量化指标
-    - 不累加：各自的结果值不会自动累加，适用于好评率、退货率等百分比指标
+ - 累加：分解后的目标结果值会自动累加到当前目标，适用于销售额、客户数等量化指标
+ - 不累加：各自的结果值不会自动累加，适用于好评率、退货率等百分比指标
 - 目标制定
-    - 由我制定：分解目标时就制定下一级目标，下级会收到通知，无法修改目标
-    - 由承接方制定：分解目标时只选人，不制定目标，被选择的人员会收到通知后进入系统进行目标承接制定
+ - 由我制定：分解目标时就制定下一级目标，下级会收到通知，无法修改目标
+ - 由承接方制定：分解目标时只选人，不制定目标，被选择的人员会收到通知后进入系统进行目标承接制定
 - 目标可见权限
-    - 承接方可以看到此目标
-    - 承接方可以互相看目标
+ - 承接方可以看到此目标
+ - 承接方可以互相看目标
 
 由我制定
 
@@ -4261,7 +4147,7 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 
 ![image.png](assets/50ac7e73be4c77dd12f474d4081b73b7.jpg)
 
-⚠️如果目标被引用到考核中进行考核  那么结果值目前只支持在考核内进行更新且目标提交之后才会同步到目标地图哦
+⚠️如果目标被引用到考核中进行考核 那么结果值目前只支持在考核内进行更新且目标提交之后才会同步到目标地图哦
 
 ![image.png](assets/3b88770630669468976daed11c34ecd7.jpg)
 - 行为价值观：点击更新进展之后会出现更新进展弹窗，可以在弹窗内进行进展更新
@@ -4288,11 +4174,10 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 <!-- 原文定位：🕒 五、常见问题合集/9、其他问题/系统使用人数是怎么计算的？.md -->
 # 系统使用人数是怎么计算的？
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4B7ypJxkXOEP2?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 系统使用人数是怎么计算的？
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/r1R7q3QmWe7MXEm5IGb4B7ypJxkXOEP2?utm_scene=team_space
 > 知识库路径：🕒 五、常见问题合集/9、其他问题
 
 按照系统内的可使用人数来计算的，哪些员工需要进入智能绩效系统中来操作，就添加在可使用人员中；
@@ -4303,4 +4188,4 @@ pc端路径：进入【智能绩效】应用后，点击【企业设置】-【�
 
 ![image.png](assets/50113562ef3fa515696bb9ac970956e7.jpg)
 
-<span style="color: #FE0300;">注意：如果员工离职后，上面可使用人员中，会显示已离职状态，离职员工是自动就不算使用人数。</span>
+注意：如果员工离职后，上面可使用人员中，会显示已离职状态，离职员工是自动就不算使用人数。

@@ -5,366 +5,365 @@
 <!-- 原文定位：🕖 九、更新日志.md -->
 # 🕖 九、更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YndMj49yWjPvaEbAcX570aY3J3pmz5aA?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 🕖 九、更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YndMj49yWjPvaEbAcX570aY3J3pmz5aA?utm_scene=team_space
 > 知识库路径：智能绩效帮助中心【专业版】
 
-<span style="color: rgb(23, 26, 29);">2026-08-17核心更新动态：</span> 
+2026-08-17核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、考核总分支持公式计算**</span>
+**一、考核总分支持公式计算**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、批量指标制定（Excel导入）优化**</span>
+**二、批量指标制定（Excel导入）优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、批量录入结果值（Excel导入）优化**</span>
+**三、批量录入结果值（Excel导入）优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、行为价值观支持指定评分人**</span>
+**四、行为价值观支持指定评分人**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、考核详情页指标总分显示设置**</span>
+**五、考核详情页指标总分显示设置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、日报提醒支持选择下个提交日**</span>
+**六、日报提醒支持选择下个提交日**
 
-<span style="color: rgb(23, 26, 29);">2026-07-15核心更新动态：</span> 
+2026-07-15核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、任务审批人在任务创建后可见、可编辑**</span>
+**一、任务审批人在任务创建后可见、可编辑**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、评分内容可见权限可设置公示前、公示后两种权限**</span>
+**二、评分内容可见权限可设置公示前、公示后两种权限**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、同步规则优化**</span>
+**三、同步规则优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、互评人，支持随机获取对应的人员**</span>
+**四、互评人，支持随机获取对应的人员**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、支持批量修改考评表**</span>
+**五、支持批量修改考评表**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、结果值录入人，支持多选**</span>
+**六、结果值录入人，支持多选**
 
-<span style="color: rgb(23, 26, 29);">2026-06-19核心更新动态：</span> 
+2026-06-19核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、子管理员管理范围设置优化**</span>
+**一、子管理员管理范围设置优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、**</span><span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">重置新增点对点重置到指定评分节点</span>
+**二、**重置新增点对点重置到指定评分节点
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、面谈、结果确认支持节点自动化**</span>
+**三、面谈、结果确认支持节点自动化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、智能绩效与钉钉AI表格打通**</span>
+**四、智能绩效与钉钉AI表格打通**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、移动端支持批量评分**</span>
+**五、移动端支持批量评分**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、自定义小数点位数**</span>
+**六、自定义小数点位数**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**七、PDF导出优化**</span>
+**七、PDF导出优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**八、考核数据支持周期迁移**</span>
+**八、考核数据支持周期迁移**
 
-<span style="color: rgb(23, 26, 29);">2026-05-23核心更新动态：</span> 
+2026-05-23核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、签名可复用**</span>
+**一、签名可复用**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、关联绩效优化**</span>
+**二、关联绩效优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、等级正态分布、公式计算系数，支持自动执行**</span>
+**三、等级正态分布、公式计算系数，支持自动执行**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、结果值审核支持直接修改结果值**</span>
+**四、结果值审核支持直接修改结果值**
 
-<span style="color: rgb(23, 26, 29);">2026-04-21核心更新动态：</span> 
+2026-04-21核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、指标库导入优化，支持更新指标库指标**</span>
+**一、指标库导入优化，支持更新指标库指标**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、部分评分优化**</span>
+**二、部分评分优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、上级评分人、指定评分人支持匿名评分**</span>
+**三、上级评分人、指定评分人支持匿名评分**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、移动端支持等级校准**</span>
+**四、移动端支持等级校准**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、指标库支持“必选指标”同步至考评表**</span>
+**五、指标库支持“必选指标”同步至考评表**
 
-<span style="color: rgb(23, 26, 29);">2026-03-05核心更新动态：</span> 
+2026-03-05核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、批量评分优化**</span>
+**一、批量评分优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、异常预警**</span>
+**二、异常预警**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、流程节点自动化升级**</span>
+**三、流程节点自动化升级**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、自动发起考核**</span>
+**四、自动发起考核**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、离职人员处理及逻辑优化**</span>
+**五、离职人员处理及逻辑优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、考评表支持导出考核指标**</span>
+**六、考评表支持导出考核指标**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**七、评分人支持设置指标可见范围**</span>
+**七、评分人支持设置指标可见范围**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**八、A1面谈小助理，一键录入面谈内容**</span>
+**八、A1面谈小助理，一键录入面谈内容**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**十、指标附件支持编辑权限配置**</span>
+**十、指标附件支持编辑权限配置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**十一、考评表流程支持配置多个自评节点**</span>
+**十一、考评表流程支持配置多个自评节点**
 
-<span style="color: rgb(23, 26, 29);">2026-02-11核心更新动态：</span> 
+2026-02-11核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、指定评分人支持被考核人**</span>
+**一、指定评分人支持被考核人**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、考核详情页，维度不展示未对维度指标评分的评分人列**</span>
+**二、考核详情页，维度不展示未对维度指标评分的评分人列**
 
-<span style="color: rgb(23, 26, 29);">2026-01-15核心更新动态：</span> 
+2026-01-15核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、新增OKR执行视图**</span>
+**一、新增OKR执行视图**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、任务新增统计功能**</span>
+**二、任务新增统计功能**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、绩效考核新增最高分最低分限制**</span>
+**三、绩效考核新增最高分最低分限制**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、支持引入钉钉考勤作为指标结果值**</span>
+**四、支持引入钉钉考勤作为指标结果值**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、导入叮当OKR支持空间切换**</span>
+**五、导入叮当OKR支持空间切换**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、已发起考核支持按照考核类型分组**</span>
+**六、已发起考核支持按照考核类型分组**
 
-<span style="color: rgb(23, 26, 29);">2025-12-19核心更新动态：</span> 
+2025-12-19核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、新增关联绩效功能**</span>
+**一、新增关联绩效功能**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、发起考核优化，支持异步任务，无需等待**</span>
+**二、发起考核优化，支持异步任务，无需等待**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、指标制定复制指标项，维度支持多选**</span>
+**三、指标制定复制指标项，维度支持多选**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、“待办事项提醒”升级为“提醒设置”，新增离职人员提醒设置**</span>
+**四、“待办事项提醒”升级为“提醒设置”，新增离职人员提醒设置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、AI生成算分公式**</span>
+**五、AI生成算分公式**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、AI生成考评表功能优化**</span>
+**六、AI生成考评表功能优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**七、部门考核功能完善**</span>
+**七、部门考核功能完善**
 
-<span style="color: rgb(23, 26, 29);">2025-11-11核心更新动态：</span> 
+2025-11-11核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、指定评分人优化**</span>
+**一、指定评分人优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、指标字段优化**</span>
+**二、指标字段优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、考核流程新增部分评分功能**</span>
+**三、考核流程新增部分评分功能**
 
-<span style="color: rgb(23, 26, 29);">2025-10-14核心更新动态：</span> 
+2025-10-14核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、支持指标个性化评分方式（评分组）**</span>
+**一、支持指标个性化评分方式（评分组）**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、指标字段编辑权限优化**</span>
+**二、指标字段编辑权限优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、新增指标、删除指标控制优化**</span>
+**三、新增指标、删除指标控制优化**
 
-<span style="color: rgb(23, 26, 29);">2025-09-16核心更新动态：</span> 
+2025-09-16核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、考评表中支持插入面谈节点**</span>
+**一、考评表中支持插入面谈节点**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、结果确认支持到期自动确认**</span>
+**二、结果确认支持到期自动确认**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、结果值更新和提交支持设置通知**</span>
+**三、结果值更新和提交支持设置通知**
 
-<span style="color: rgb(23, 26, 29);">2025-08-23核心更新动态：</span> 
+2025-08-23核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、公式校验优化升级**</span>
+**一、公式校验优化升级**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、考评表中支持插入结果确认节点**</span>
+**二、考评表中支持插入结果确认节点**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、新增一票否决、加减分项、计划指标等指标类型**</span>
+**三、新增一票否决、加减分项、计划指标等指标类型**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、面谈新增改进计划功能**</span>
+**四、面谈新增改进计划功能**
 
-<span style="color: rgb(23, 26, 29);">2025-07-15核心更新动态：</span> 
+2025-07-15核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、任务审批支持创建人自选**</span>
+**一、任务审批支持创建人自选**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、新增绩效系数功能**</span>
+**二、新增绩效系数功能**
 
-<span style="color: rgb(23, 26, 29);">2025-06-13核心更新动态：</span> 
+2025-06-13核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、结果审批，允许审批人直接调整结果**</span>
+**一、结果审批，允许审批人直接调整结果**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、批量重置，支持重置到指定节点**</span>
+**二、批量重置，支持重置到指定节点**
 
-<span style="color: rgb(23, 26, 29);">2025-05-28核心更新动态：</span> 
+2025-05-28核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、考评表表格视图，考核标准和权重支持调整顺序**</span>
+**一、考评表表格视图，考核标准和权重支持调整顺序**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、部门考核结果值录入，支持重新录入**</span>
+**二、部门考核结果值录入，支持重新录入**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、部门考核结果值录入，支持批量表格录入**</span>
+**三、部门考核结果值录入，支持批量表格录入**
 
-<span style="color: rgb(23, 26, 29);">2025-04-25核心更新动态：</span> 
+2025-04-25核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、自定义报表优化升级，支持更多考核数据自定义导出**</span>
+**一、自定义报表优化升级，支持更多考核数据自定义导出**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、PDF导出优化升级，支持更多考核数据导出，并且优化了PDF考核档案的显示**</span>
+**二、PDF导出优化升级，支持更多考核数据导出，并且优化了PDF考核档案的显示**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、新增导入任务功能，管理自己的导出任务**</span>
+**三、新增导入任务功能，管理自己的导出任务**
 
-<span style="color: rgb(23, 26, 29);">2025-03-14核心更新动态：</span> 
+2025-03-14核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、等级分布，引入部门考核影响因素**</span>
+**一、等级分布，引入部门考核影响因素**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、结果值录入，支持系统自动录入部门考核的结果或指标分数**</span>
+**二、结果值录入，支持系统自动录入部门考核的结果或指标分数**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、新建考评表权限优化**</span>
+**三、新建考评表权限优化**
 
-<span style="color: rgb(23, 26, 29);">2025-01-24核心更新动态：</span> 
+2025-01-24核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、首页「进行中的考核」新增部门筛选**</span>
+**一、首页「进行中的考核」新增部门筛选**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、按指标设置流程，评分人权限和指标制定权限解耦**</span>
+**二、按指标设置流程，评分人权限和指标制定权限解耦**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、按指标设置流程，同时评分和顺序评分的指标总分计算逻辑统一**</span>
+**三、按指标设置流程，同时评分和顺序评分的指标总分计算逻辑统一**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**四、等级分布配置表，新增评分人可见设置**</span>
+**四、等级分布配置表，新增评分人可见设置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**五、考评表指标编辑权限，新增指标库导入编辑权限设置**</span>
+**五、考评表指标编辑权限，新增指标库导入编辑权限设置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**六、离职人员自动从考评表被考核人人员中移除**</span>
+**六、离职人员自动从考评表被考核人人员中移除**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**七、考核默认值配置，新增“设置校准流程时，默认开启允许等级校准人查看详情”**</span>
+**七、考核默认值配置，新增“设置校准流程时，默认开启允许等级校准人查看详情”**
 
-[2025.01更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/ZX6GRezwJl7DnE3eIyxl3zkRVdqbropQ)
+2025.01更新日志
 
-<span style="color: rgb(23, 26, 29);">2024-12-22核心更新动态：</span> 
+2024-12-22核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、重大更新：新增流程自动化功能**</span>
+**一、重大更新：新增流程自动化功能**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、上级评分人作为最后一个评分人，如果被考核人的等级分布规则是按分数区间对应，可以查看预估等级**</span>
+**二、上级评分人作为最后一个评分人，如果被考核人的等级分布规则是按分数区间对应，可以查看预估等级**
 
-[2024.12更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/mExel2BLV54XNxerc5OwR77XWgk9rpMq)
+2024.12更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-11-20核心更新动态：</span> 
+2024-11-20核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、新增调整结果值功能，允许管理员查看所有被考核人的结果值，并支持直接调整**</span>
+**一、新增调整结果值功能，允许管理员查看所有被考核人的结果值，并支持直接调整**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、优化离职员工数据关系，员工离职后，保留其离职时所在部门**</span>
+**二、优化离职员工数据关系，员工离职后，保留其离职时所在部门**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、移动端OKR显示优化**</span>
+**三、移动端OKR显示优化**
 
-[2024.11更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/m9bN7RYPWdlgkbarcg91eAG0WZd1wyK0)
+2024.11更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-10-15核心更新动态：</span> 
+2024-10-15核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、支持人员离职、岗位变动，一键转交数据**</span>
+**一、支持人员离职、岗位变动，一键转交数据**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、考评表、指标制定页面、结果值录入页面，支持显示全部内容**</span>
+**二、考评表、指标制定页面、结果值录入页面，支持显示全部内容**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、移动端指标制定页面设计优化**</span>
+**三、移动端指标制定页面设计优化**
 
-[2024.10更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/Qnp9zOoBVBZzbkMEc4vaYkX7V1DK0g6l)
+2024.10更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-09-26核心更新动态：</span> 
+2024-09-26核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、新增停止考核功能：员工离职或者岗位变动，当前考核不再继续，但又要保留历史考核数据，可以停止考核**</span>
+**一、新增停止考核功能：员工离职或者岗位变动，当前考核不再继续，但又要保留历史考核数据，可以停止考核**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、考评表被考核人员支持选择用户组和动态用户组**</span>
+**二、考评表被考核人员支持选择用户组和动态用户组**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（1）新增动态用户组功能，可以根据部门、角色、试用期、入职时间、职级等数据配置动态用户组**</span>
+**（1）新增动态用户组功能，可以根据部门、角色、试用期、入职时间、职级等数据配置动态用户组**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（2）发起考核，按用户组和动态用户组匹配的人员，发起考核**</span>
+**（2）发起考核，按用户组和动态用户组匹配的人员，发起考核**
 
-[2024.09更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/dQPGYqjpJYg0eXDnCEOnjmPPWakx1Z5N)
+2024.09更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-09-13核心更新动态：</span> 
+2024-09-13核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、子管理员权限优化**</span>
+**一、子管理员权限优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（1）指定分组管理权限的管理员，仅可见其管理权限范围内的分组，且不可新增分组**</span>
+**（1）指定分组管理权限的管理员，仅可见其管理权限范围内的分组，且不可新增分组**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（2）指定分组考评表管理权限的管理员，仅可在其分组范围内新建考评表**</span>
+**（2）指定分组考评表管理权限的管理员，仅可在其分组范围内新建考评表**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、发起考核新增公示校验，避免设置了错误公式的指标被发起考核**</span>
+**二、发起考核新增公示校验，避免设置了错误公式的指标被发起考核**
 
-[2024.09更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/dQPGYqjpJYg0eXDnCEOnjmPPWakx1Z5N)
+2024.09更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-08-28核心更新动态：</span> 
+2024-08-28核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、发起考核，支持复用上一周期考核指标，让指标制定更轻松**</span>
+**一、发起考核，支持复用上一周期考核指标，让指标制定更轻松**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、匿名限制优化，管理员可直接查看匿名评分人真实姓名**</span>
+**二、匿名限制优化，管理员可直接查看匿名评分人真实姓名**
 
-[2024.08更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/mExel2BLV54XNxerc5Ooj95YWgk9rpMq)
+2024.08更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-07-26核心更新动态：</span> 
+2024-07-26核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、子管理员权限优化**</span>
+**一、子管理员权限优化**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（1）支持部门考核独立设置权限，部门考核和人员考核可以分不同的人员进行管理**</span>
+**（1）支持部门考核独立设置权限，部门考核和人员考核可以分不同的人员进行管理**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（2）考评表管理权限，支持按考评表分组进行设置**</span>
+**（2）考评表管理权限，支持按考评表分组进行设置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、等级校准优化，对于校准人，支持设置校准限制，对于不在其校准权限内的被考核人，可禁止其进行校准**</span>
+**二、等级校准优化，对于校准人，支持设置校准限制，对于不在其校准权限内的被考核人，可禁止其进行校准**
 
-[2024.07更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/ZX6GRezwJl7DnE3eIyxekgGEVdqbropQ)
+2024.07更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-06-28核心更新动态：</span> 
+2024-06-28核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、考核明细导出报表优化升级，更多的翔实的数据、更直观的数据展现，让我们考核的数据统计分析更加方便。**</span>
+**一、考核明细导出报表优化升级，更多的翔实的数据、更直观的数据展现，让我们考核的数据统计分析更加方便。**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、在最新的内测版本中，我们又进行了一轮功能的升级，想要体验的，赶紧找服务人员吧：**</span>
+**二、在最新的内测版本中，我们又进行了一轮功能的升级，想要体验的，赶紧找服务人员吧：**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（1）**</span><span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**考核流程新增并行节点，自评、上级评分、互评可以一起平分了**</span>
+**（1）****考核流程新增并行节点，自评、上级评分、互评可以一起平分了**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**（2）按指标设置流程，新增360°邀评，可以按指标进行环评了**</span>
+**（2）按指标设置流程，新增360°邀评，可以按指标进行环评了**
 
-[2024.06更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/ZX6GRezwJl7DnE3eIyxev4RYVdqbropQ)
+2024.06更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-05-16核心更新动态：</span> 
+2024-05-16核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、新增手动调整结果/等级记录可见权限配置**</span>
+**一、新增手动调整结果/等级记录可见权限配置**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、AI生成考评表，新增进程管理：退出生成考评表窗口，不会中断任务，可继续生产考评表**</span>
+**二、AI生成考评表，新增进程管理：退出生成考评表窗口，不会中断任务，可继续生产考评表**
 
-[2024.05更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/o14dA3GK8g5N2E7lSZxo6ewbV9ekBD76)
+2024.05更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2024-04-23核心更新动态：</span> 
+2024-04-23核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**智能绩效核心模块完成重构，从技术、设计、功能层面都完成了一次大升级。**</span>
+**智能绩效核心模块完成重构，从技术、设计、功能层面都完成了一次大升级。**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**此版本还没有对老客户进行全面的开放，如有需要，联系服务人员进行体验**</span>
+**此版本还没有对老客户进行全面的开放，如有需要，联系服务人员进行体验**
 
 
-<span style="color: rgb(23, 26, 29);">2023-10-23核心更新动态：</span> 
+2023-10-23核心更新动态：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、产品界面全新升级**</span>
+**一、产品界面全新升级**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、新增目标、考核、计划、总结模块**</span>
+**二、新增目标、考核、计划、总结模块**
 
-[2023.10 更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/QOG9lyrgJP3OE40NU3Pnbp9AVzN67Mw4)
+2023.10 更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2023-9-17核心更新动态：</span>
+2023-9-17核心更新动态：
 
-<span style="color: #10CCF7;">**一、管理员操作日志**</span>
+**一、管理员操作日志**
 
-<span style="color: #10CCF7;">二、按指标设置流程，指定员工多人时，支持独立配置评分权重</span>
+二、按指标设置流程，指定员工多人时，支持独立配置评分权重
 
-[2023.09 更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/a9E05BDRVQ6LrvbkcNZ7yojeJ63zgkYA)
+2023.09 更新日志
 
 
-<span style="color: rgb(23, 26, 29);">2023-8-12核心更新动态：</span>
+2023-8-12核心更新动态：
 
-<span style="color: #10CCF7;">**一、上线评分说明必填相关优化：**</span>
+**一、上线评分说明必填相关优化：**
 
-<span style="color: #10CCF7;">**1、可按维度/条件设置评分说明是否必填；**</span>
+**1、可按维度/条件设置评分说明是否必填；**
 
-<span style="color: #10CCF7;">**2、按指标设置流程支持评分说明必填/选填**</span>
+**2、按指标设置流程支持评分说明必填/选填**
 
-<span style="color: #10CCF7;">二、支持目标制定、目标确认人上传单个指标附件</span>
+二、支持目标制定、目标确认人上传单个指标附件
 
-<span style="color: #10CCF7;">三、360°邀评支持匿名</span>
+三、360°邀评支持匿名
 
-[2023.08 更新日志](https://alidocs.dingtalk.com/i/p/lPDmr49NeOMk8zxd/docs/Gl6Pm2Db8D3mdpNGUZyg91kEJxLq0Ee4)
+2023.08 更新日志
 
 
 ---
@@ -372,16 +371,15 @@
 <!-- 原文定位：🕖 九、更新日志/2023.02更新日志.md -->
 # 2023.02更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw2Yqo2V9dEq3XD?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2023.02更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw2Yqo2V9dEq3XD?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 **本次智能绩效更新以下功能：**
 
-1、<span style="color: #404040;">已发起考核-二级导航栏上线</span>
+1、已发起考核-二级导航栏上线
 
 2、新增差异分析
 
@@ -393,7 +391,7 @@
 
 ### **一、已发起考核-二级导航栏上线**
 
-<span style="background-color: #FDBE3D;">**亮点**</span>：将原来已发起考核-更多里的部分功能按钮归类划分出来，呈现二级导航，快速完成等级分布、发起面谈流程，进行考核分析，使得操作更加高效便捷；
+**亮点**：将原来已发起考核-更多里的部分功能按钮归类划分出来，呈现二级导航，快速完成等级分布、发起面谈流程，进行考核分析，使得操作更加高效便捷；
 
 #### **1、【考核员工】：**
 
@@ -404,7 +402,7 @@
 
 #### **2、【面谈确认】：**
 
-对此次考核做相关面谈和员工确认结果相关操作，具体这块操作想要详细了解的话，可以看下：[2022-11-23更新日志](https://alidocs.dingtalk.com/i/p/lPDmrJ7vZrx06mxd/docs/mM3zoYAw1Rr8Dx55YepM8nZ07y9NpXxD)
+对此次考核做相关面谈和员工确认结果相关操作，具体这块操作想要详细了解的话，可以看下：2022-11-23更新日志
 
 ![image.png](assets/52d235830c77042bde494f3e97f30cb3.jpg)
 
@@ -415,7 +413,7 @@
 ![image.png](assets/1be9005e9ce3eb5425b03d1e77ac36de.jpg)
 
 
-<span style="color: #FE0300;">【注意】：以上功能都是之前已有的功能，此次未做更新，只是在页面导航栏做了归类分开展示。</span>
+【注意】：以上功能都是之前已有的功能，此次未做更新，只是在页面导航栏做了归类分开展示。
 
 
 ### **二、新增差异分析**
@@ -462,12 +460,12 @@
 ![image.png](assets/e2c5378a4fac7dad976d1b7ce20b7141.jpg)
 
 
-<span style="color: #FE0300;">**注意：差异分析列表只针对2023年1月1日及以后新发起的考核，并且总分或等级在此功能更新后调整的员工才显示出来（也就是2023年2月10日后调整的才会记录）；**</span>
+**注意：差异分析列表只针对2023年1月1日及以后新发起的考核，并且总分或等级在此功能更新后调整的员工才显示出来（也就是2023年2月10日后调整的才会记录）；**
 
 
 ### **三、重置/驳回流程后的通知提醒和钉钉待办，点击可高亮提示查看相关说明**
 
-<span style="background-color: #FDBE3D;">**亮点：**</span>
+**亮点：**
 
 当考核被驳回或者是绩效管理员重置流程打回时，被打回节点的执行人会再次收到通知和钉钉待办，点击跳转操作页，会弹框提示驳回/重置原因，让操作人一眼就能看到，好进行调整，高效沟通。
 
@@ -487,11 +485,10 @@
 <!-- 原文定位：🕖 九、更新日志/2023.05更新日志.md -->
 # 2023.05更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLdgEoV6zbX04v?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2023.05更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTQRLdgEoV6zbX04v?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **本次智能绩效更新以下功能：**
@@ -558,7 +555,7 @@
 ![image.png](assets/cbd715312ad1552fa3b3687ae47f8dd9.jpg)
 
 
-这里的评分详情和评分意见对被考核人可见不可见，是看发起考核管理员的设置，默认员工本人是看不到自己考核的过程分和打分说明的，但是管理员也可以调整为可见，那么这里的提示文案，就会相应的变化，具体可以看下发起考核的设置页面：[https://alidocs.dingtalk.com/i/p/lPDmrJ7vZrx06mxd/docs/qXomz1wAyjKVX7DPjnbNW3Y9pRBx5OrE#](https://alidocs.dingtalk.com/i/p/lPDmrJ7vZrx06mxd/docs/qXomz1wAyjKVX7DPjnbNW3Y9pRBx5OrE#) 「5.1发起绩效考核」
+这里的评分详情和评分意见对被考核人可见不可见，是看发起考核管理员的设置，默认员工本人是看不到自己考核的过程分和打分说明的，但是管理员也可以调整为可见，那么这里的提示文案，就会相应的变化，具体可以看下发起考核的设置页面： 「5.1发起绩效考核」
 
 ![image.png](assets/017e64052a465e945ce2df5d4a8f2551.jpg)
 
@@ -577,16 +574,15 @@
 <!-- 原文定位：🕖 九、更新日志/2023.06更新日志.md -->
 # 2023.06更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gbxEmWgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2023.06更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gbxEmWgk9rpMq?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### 本次智能绩效更新以下功能：
 
-<span style="color: #FE0300;">**一、考核说明和维度说明上线，支持添加附件**</span>
+**一、考核说明和维度说明上线，支持添加附件**
 
 二、按角色选择被考核人时，支持排除特殊人员
 
@@ -609,7 +605,7 @@
 
 ![image.png](assets/3a9a5a16108fe78733580372749f7121.jpg)
 
-**比如可以在考核说明中添加考核的整体规则说明、考核等级和应用说明，方便员工和打分人知晓，**<span style="color: #FE0300;">**注意：1个考评表中只能有一个考核说明：**</span>
+**比如可以在考核说明中添加考核的整体规则说明、考核等级和应用说明，方便员工和打分人知晓，****注意：1个考评表中只能有一个考核说明：**
 
 ![image.png](assets/8267f6fac8b176fd2981da3530bc6435.jpg)
 
@@ -682,14 +678,14 @@
 
 ![image.png](assets/4d3770b88487d1f8af21bf044f064c6a.jpg)
 
-<span style="color: #FE0300;">**注意：**</span>
+**注意：**
 
 1、若考评表中**有维度没有设置好默认评分人，则不支持手机端制定和更改考核指标**，手机端点击制定目标时，会提示“手机端暂不支持调整指标，请前往电脑端操作”：
 
 ![image.png](assets/0e31a4f9ff01ac5e4158a475b8a5b83a.jpg)
 
 
-2、如果想要**手机端更改指标时，能够支持选择【指标库导入】和【复制历史指标】**，那么<span style="color: #FE0300;">**维度这里都需要勾选上**</span>才行：
+2、如果想要**手机端更改指标时，能够支持选择【指标库导入】和【复制历史指标】**，那么**维度这里都需要勾选上**才行：
 
 ![image.png](assets/b0ee090e1aa8fff64eee1d8898e3702d.jpg)
 
@@ -703,7 +699,7 @@
 
 注意：按指标设置流程适用于，不同指标有不同打分人的情况，具体如何操作，可以看下这个视频讲解：
 
-![4.2按指标设置流程](assets/1a176e4890c654132385924ce091de75.jpg)
+📎 **关联文档**（原文为钉钉文档，未随本包导出）
 
 
 ---
@@ -711,11 +707,10 @@
 <!-- 原文定位：🕖 九、更新日志/2023.08 更新日志.md -->
 # 2023.08 更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/dpYLaezmVNLOEb7Mc4o3aaPA8rMqPxX6?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2023.08 更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/dpYLaezmVNLOEb7Mc4o3aaPA8rMqPxX6?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### 本次智能绩效更新以下功能：
@@ -755,23 +750,23 @@
 
 ![image.png](assets/12946a13a89a02f1d591a980384e857f.jpg)
 
-<span style="background-color: #FDBE3D;">**实际场景应用：**</span>
+**实际场景应用：**
 
 单个指标评分说明必填更加细化，可以按照维度/条件来设置，比如：
-- <span style="color: #404040; background-color: #FEFF00;">**场景1**</span><span style="color: #404040;">**（**</span>**考核分成2个维度，可以分别要求行为价值观指标必填评分说明，量化指标则选填）**，可以按照下图来设置：
+- **场景1****（****考核分成2个维度，可以分别要求行为价值观指标必填评分说明，量化指标则选填）**，可以按照下图来设置：
 
 ![image.png](assets/35830c8e08d61dd46a86642dbfae0038.jpg)
-- <span style="background-color: #FEFF00;">**场景2**</span>**（要求加分项/扣分项一旦填写非0的分数时，需要必填评分说明，也就是要对加分/扣分理由进行具体描述）**，可以按照下图来设置：
+- **场景2****（要求加分项/扣分项一旦填写非0的分数时，需要必填评分说明，也就是要对加分/扣分理由进行具体描述）**，可以按照下图来设置：
 
 ![image.png](assets/7c332e5b08e4932efe937047b7867ea3.jpg)
-- <span style="background-color: #FEFF00;">**场景3**</span>**（所有非公式计算的指标评分时，要求必填评分说明，也就是只要求打分人主观打分时，要求写清楚评分理由）**，可以按照下图来设置：
+- **场景3****（所有非公式计算的指标评分时，要求必填评分说明，也就是只要求打分人主观打分时，要求写清楚评分理由）**，可以按照下图来设置：
 
 ![image.png](assets/2a6418072005e0923f677aa10ded9fef.jpg)
-- <span style="background-color: #FEFF00;">**场景4**</span>**（当该指标评分≥该指标打分上限的80%，要求必填评分说明，也就是当打较高评分时，需要写清楚理由）**，可以按照下图来设置：
+- **场景4****（当该指标评分≥该指标打分上限的80%，要求必填评分说明，也就是当打较高评分时，需要写清楚理由）**，可以按照下图来设置：
 
 ![image.png](assets/29c753cc2362e4d61a30d6deacf5889c.jpg)
 
-<span style="color: #FE0300;">**注意：**</span><span style="color: #FE0300;">1、</span><span style="color: #FE0300;">**只有设置了满分**</span><span style="color: #FE0300;">，那么非公式计算的量化指标和行为价值观指标在打分的时候才会有评分上限显示，才能判断该条件：当评分≥评分上限的80%，当条件满足时，评分说明必填的配置才会生效：</span>
+**注意：**1、**只有设置了满分**，那么非公式计算的量化指标和行为价值观指标在打分的时候才会有评分上限显示，才能判断该条件：当评分≥评分上限的80%，当条件满足时，评分说明必填的配置才会生效：
 
 ![image.png](assets/2652775c3eb615aa52998a6a403173ba.jpg)
 
@@ -851,16 +846,15 @@
 <!-- 原文定位：🕖 九、更新日志/2023.09 更新日志.md -->
 # 2023.09 更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDGdB6lWxAZB1Gv?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2023.09 更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmTQDGdB6lWxAZB1Gv?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### 本次更新以下功能：
 
-<span style="color: #FE0300;">**一、管理员操作日志重磅上线啦！！！**</span>
+**一、管理员操作日志重磅上线啦！！！**
 
 二、按指标设置流程，指定评分人多人时支持独立配置评分权重
 
@@ -889,7 +883,7 @@
 
 ![image.png](assets/79d5b50776529cc65eb7575c4053dc44.jpg)![image.png](assets/885b01004fe6137ad7366eb894aa32e6.jpg)
 
-<span style="color: #FE0300;">注意：之前的绩效子管理员是默认没有开启该功能的，如果需要的话，要找绩效主管理员按照上图操作，勾选上该权限，保存即可；</span>
+注意：之前的绩效子管理员是默认没有开启该功能的，如果需要的话，要找绩效主管理员按照上图操作，勾选上该权限，保存即可；
 
 ##### **（2）具体查看位置**
 
@@ -899,7 +893,7 @@
 
 【管理员操作日志】支持按日期范围、操作人、模块以及操作类型进行筛选；
 
-<span style="color: #FE0300;">**（注意：操作类型的内容会根据筛选模块对应变化，方便筛选查看）**</span>
+**（注意：操作类型的内容会根据筛选模块对应变化，方便筛选查看）**
 
 ![image.png](assets/c8924866173aa4a469b2a5f4272ae46d.jpg)
 
@@ -915,9 +909,9 @@
 
 如果员工的考核涉及到跨部门的领导评分，且评分权重占比不同，而选择主管的形式不能读取到分管领导，那么可以通过【指定员工】的方式，选择多位跨部门领导，勾选指定员工独立权重，就可以给指定的多位指定评分人单独配置评分权重。
 
-<span style="color: #FE0300;">注意：按指标设置流程，适用于不同指标有不同打分人的情况，可以给每一个指标设置不同的打分人，但是所有打分人是一个评分节点，没有评分先后顺序，详情可以看：</span>
+注意：按指标设置流程，适用于不同指标有不同打分人的情况，可以给每一个指标设置不同的打分人，但是所有打分人是一个评分节点，没有评分先后顺序，详情可以看：
 
-[4.2按指标设置流程](https://alidocs.dingtalk.com/i/p/lPDmrJ7vZrx06mxd/docs/3mzaPNMZ6jkJqOpRKj7AWYLDwXq4Ky1r)
+4.2按指标设置流程
 
 #### **2、操作步骤：**
 
@@ -935,49 +929,48 @@
 <!-- 原文定位：🕖 九、更新日志/2023.10 更新日志.md -->
 # 2023.10 更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglERnkqVBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2023.10 更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglERnkqVBQEx5rG?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### 本次更新以下功能：
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**一、产品界面全新升级**</span>
+**一、产品界面全新升级**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**二、新增目标、考核、计划、总结模块**</span>
+**二、新增目标、考核、计划、总结模块**
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**三、优化用户操作体验**</span>
+**三、优化用户操作体验**
 
 
 ### 更新功能详情
 
 ### 一、产品界面全新升级
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**全新“轻工作流”首页**</span>，聚焦绩效管理重要事项，常用入口快捷访问
+**全新“轻工作流”首页**，聚焦绩效管理重要事项，常用入口快捷访问
 
 ![image.png](assets/24eb68b2a23272e0f34ef4440c5b6bbb.jpg)
 
 ### 二、新增目标、考核、计划、总结模块
 
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**全流程可视化考核管理**</span><span style="color: rgb(59, 56, 56);">，简单三步，轻松搭建、高效落地</span>
+**全流程可视化考核管理**，简单三步，轻松搭建、高效落地
 
 ![image.png](assets/2387a3f0b125401528f0e494743e2c31.jpg)
 
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**企业上下目标对齐**</span>**，**战略目标层层拆解，全员聚焦，加速业务目标实现
+**企业上下目标对齐****，**战略目标层层拆解，全员聚焦，加速业务目标实现
 
 ![image.png](assets/628cdbab7a61bdb2901388bdef5f63dd.jpg)
 
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**任务与过程管理**</span>**，**丰富的任务管理功能，精细化过程管理，把控绩效执行情况
+**任务与过程管理****，**丰富的任务管理功能，精细化过程管理，把控绩效执行情况
 
 ![image.png](assets/ee54c348f13ddafcb0631c46c247ada4.jpg)
 
 
-<span style="color: radial-gradient(135% 135% at 0% -34%, #FF74EC 0%, rgba(255,116,236,0.00) 99%), linear-gradient(152deg, #E760FF -43%, #725BFF -5%, #007FFF 59%, #5AEFFF 130%);">**总结与改进，**</span>高效开展周会、周报，及时把握业务情况，提高团队协作效率
+**总结与改进，**高效开展周会、周报，及时把握业务情况，提高团队协作效率
 
 ![image.png](assets/b12222214b8ce5eed0b97df60c2787f0.jpg)
 
@@ -987,11 +980,10 @@
 <!-- 原文定位：🕖 九、更新日志/2024.01更新日志.md -->
 # 2024.01更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDge9RDEJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.01更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDge9RDEJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### 本次更新以下功能：
@@ -1000,25 +992,25 @@
 
 **更新功能详情**
 - 前提：
-    - 权限：开启了智能助手应用的组织皆可使用
-    - ![image.png](assets/e350a8ca489027dc876a7467a3a7c9c4.jpg)
+ - 权限：开启了智能助手应用的组织皆可使用
+ - ![image.png](assets/e350a8ca489027dc876a7467a3a7c9c4.jpg)
 - 操作：
-    - 页面路径：智能绩效-考核-考核管理-考评表
-        - ![image.png](assets/d5cc75b037c2a3c0e65979eefaa395ba.jpg)
-    - 点击“AI生成”按钮，出现AI生成考评表弹窗，有2种AI生成考评表的方式
-        - ![image.png](assets/f1da647098fba6c3ac5c4d478080a853.jpg)
-    - 方法一：输入内容生成岗位考评表
-        - ![image.png](assets/588d665988a3098a02fee9f3e89f6633.jpg)
-        - ![image.png](assets/7ee32fad485b7e5af46ae1414744651b.jpg)
-        - ![image.png](assets/0d1e89b7de3f4117c297fd62a6cc9c50.jpg)
-    - 方式二：上传**excel**文件生成考评表
-        - ![image.png](assets/389d142a2a35481fd6b2862d913e750f.jpg)
-        - ![image.png](assets/9f191dee3f2bbb07e000c869ff63bd3e.jpg)
-        - ![image.png](assets/ee99d9193e4cf8c2d8dada943a2ff1b6.jpg)
-    - 点击立即使用，进入考评表编辑页面，继续编辑基础信息和考评流程后点击保存即可完成考评表创建。
-        - ![image.png](assets/bbb984030bf6eb30ed2d04f09c4332b3.jpg)
-        - ![image.png](assets/388bbed69c54377ca27b2a2a7b605a05.jpg)
-        - ![image.png](assets/cde81fe24cd2f96a6fb8bdcc9cfe1380.jpg)
+ - 页面路径：智能绩效-考核-考核管理-考评表
+ - ![image.png](assets/d5cc75b037c2a3c0e65979eefaa395ba.jpg)
+ - 点击“AI生成”按钮，出现AI生成考评表弹窗，有2种AI生成考评表的方式
+ - ![image.png](assets/f1da647098fba6c3ac5c4d478080a853.jpg)
+ - 方法一：输入内容生成岗位考评表
+ - ![image.png](assets/588d665988a3098a02fee9f3e89f6633.jpg)
+ - ![image.png](assets/7ee32fad485b7e5af46ae1414744651b.jpg)
+ - ![image.png](assets/0d1e89b7de3f4117c297fd62a6cc9c50.jpg)
+ - 方式二：上传**excel**文件生成考评表
+ - ![image.png](assets/389d142a2a35481fd6b2862d913e750f.jpg)
+ - ![image.png](assets/9f191dee3f2bbb07e000c869ff63bd3e.jpg)
+ - ![image.png](assets/ee99d9193e4cf8c2d8dada943a2ff1b6.jpg)
+ - 点击立即使用，进入考评表编辑页面，继续编辑基础信息和考评流程后点击保存即可完成考评表创建。
+ - ![image.png](assets/bbb984030bf6eb30ed2d04f09c4332b3.jpg)
+ - ![image.png](assets/388bbed69c54377ca27b2a2a7b605a05.jpg)
+ - ![image.png](assets/cde81fe24cd2f96a6fb8bdcc9cfe1380.jpg)
 
 
 ---
@@ -1026,36 +1018,35 @@
 <!-- 原文定位：🕖 九、更新日志/2024.05更新日志.md -->
 # 2024.05更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdZYjMWgN7R35y?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.05更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azvM72xu0OdZYjMWgN7R35y?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### 本次更新以下功能：
-- 新增记录权限配置项：<span style="color: ;">调整绩效等级、调整考核结果</span>
+- 新增记录权限配置项：调整绩效等级、调整考核结果
 
 
 **更新功能详情**
 
-<span style="color: ;">**使用场景：**</span>
+**使用场景：**
 
-<span style="color: ;">考核完成之后，如果管理员觉得员工的考核结果有问题，可以手动调整考核结果跟等级，原先系统的默认设置是对被考核人不可见，本次新增记录权限的配置项，可由绩效管理员设置是否对被考核人可见。</span>
+考核完成之后，如果管理员觉得员工的考核结果有问题，可以手动调整考核结果跟等级，原先系统的默认设置是对被考核人不可见，本次新增记录权限的配置项，可由绩效管理员设置是否对被考核人可见。
 
 ![image.png](assets/68f0d5128244c14787696e78efb1fa4b.jpg)
 
 ![image.png](assets/204d158317979f520b354cfc6e44c38b.jpg)
 
-<span style="color: ;">**操作路径：**</span>
-1. <span style="color: ;">在发起考核的时候，可以修改记录权限：</span>
+**操作路径：**
+1. 在发起考核的时候，可以修改记录权限：
 
 ![image.png](assets/309db28e742e798868dfb751610796a9.jpg)
 
 ![image.png](assets/a3470573ae16516748331c4d0e3ea77d.jpg)
 
 ![image.png](assets/6d89da4f949ecd13ac8465c326f17678.jpg)
-2. <span style="color: ;">已发起的考核也可以修改记录权限，实时生效，也支持批量修改，操作如下图：</span>
+2. 已发起的考核也可以修改记录权限，实时生效，也支持批量修改，操作如下图：
 
 ![image.png](assets/8b92ea8419d3ad56bf2f84d1bd6bb304.jpg)![image.png](assets/60b5196b3362cd2945c4f31c2110eb6e.jpg)
 
@@ -1067,7 +1058,7 @@
 
 ### 2024.05.13更新内容
 
-<span style="color: #0069ff;">**绩效智能助手，AI生成考评表，中途退出，保持任务进程**</span>
+**绩效智能助手，AI生成考评表，中途退出，保持任务进程**
 
 从24年Q1开始，智能绩效助手就提供了AI生成考评表，帮助企业更好的搭建考核方案。AI生成考评表需要1-2分钟时间，如果关掉智能助手的窗口，任务就中断了。此次更新，即使中途关掉智能助手的窗口，还是保持任务进程，生成考评表之后，告知已生成成功，进入查看。
 
@@ -1079,18 +1070,17 @@
 <!-- 原文定位：🕖 九、更新日志/2024.06更新日志.md -->
 # 2024.06更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEnOnOVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.06更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEnOnOVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 6月份，我们又对智能绩效进行了一轮升级，赶快来看看吧。
 
-### <span style="color: #222328;">**一、考核导出明细报表优化升级**</span>
+### **一、考核导出明细报表优化升级**
 
-<span style="color: #0069ff;">**新的报表已经开始逐步推送，如果还没推送到的小伙伴，可以找我们的服务人员抢先体验哦**</span>
+**新的报表已经开始逐步推送，如果还没推送到的小伙伴，可以找我们的服务人员抢先体验哦**
 
 考核明细的报表是大家用的最多的报表，基本上可以导出所有的考核数据，包括被考核人的考核的总分、等级，还有每个评分人针对每个指标的评分内容，导出之后，可以做更多更深入的考核绩效分析。此次我们针对这个报表做了大幅的升级。主要升级点如下：
 
@@ -1112,13 +1102,13 @@
 - 评分人的总体评分信息不再与其评分信息罗列在一起，而是单独的列展现，不再混淆在一起
 - 表格新增了边框，表头新增了底色，数据的可看性大大增强啦
 
-<span style="color: #0069ff;">**原来的报表样式：**</span>![image.png](assets/abd5b75bdd506797f50444af5798ccf3.jpg)
+**原来的报表样式：**![image.png](assets/abd5b75bdd506797f50444af5798ccf3.jpg)
 
 
-<span style="color: #0069ff;">**新的报表样式**</span>![image.png](assets/8f4f1f2f2c9be91c5eb7c1aeeb7b0916.jpg)
+**新的报表样式**![image.png](assets/8f4f1f2f2c9be91c5eb7c1aeeb7b0916.jpg)
 
 
-### <span style="color: #222328;">**二、按指标设置流程支持360°邀评**</span>
+### **二、按指标设置流程支持360°邀评**
 
 环评是绩效考核重要的评分方式，在智能绩效中，有一个很重要的功能，就是360°邀评，可以由被考核人在评分的时候，邀请其合作较多的同事对其进行评分，当然，可以设置被考核人的主管对这些评分人进行确认哦，以免有人浑水摸鱼。
 
@@ -1131,7 +1121,7 @@
 ![image.png](assets/d991481f3da50acf8813c2a7ced49339.jpg)
 
 
-### <span style="color: #222328;">**三、评分流程新增评分并行节点**</span>
+### **三、评分流程新增评分并行节点**
 
 原来智能绩效的评分流程都是串行了，自评完了，进行互评；互评完了，进行上级评分，流程长，需要耗费更多的时间。如果这几个评分人进行评分的时候，无需先后顺序，那就可以用我们这个并行节点的功能了，同时进入评分流程，一起评分，再也不用等待了。
 
@@ -1145,14 +1135,13 @@
 <!-- 原文定位：🕖 九、更新日志/2024.07更新日志.md -->
 # 2024.07更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLAE2pHXB7KyDZVKe0xjE3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.07更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLAE2pHXB7KyDZVKe0xjE3?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
-#### <span style="color: #222328;">**一、子管理员权限优化**</span>
+#### **一、子管理员权限优化**
 
 ##### **部门考核权限支持设置**
 
@@ -1174,9 +1163,9 @@
 ![image.png](assets/32d87fab7067f778de8b7b3196983486.jpg)
 
 
-### <span style="color: #222328;">**二、等级校准设置校准限制规则**</span>
+### **二、等级校准设置校准限制规则**
 
-<span style="color: #0069ff;">**这个功能仅在最新的内测版中上线，也在逐步推送中。想要了解功能的可联系我们的服务人员哦**</span>
+**这个功能仅在最新的内测版中上线，也在逐步推送中。想要了解功能的可联系我们的服务人员哦**
 
 设置等级校准流程，支持对指定的校准人设置限制条件，限制条件支持部门、等级、考评表，一旦校准人添加了对应的限制条件，在等级校准的时候，就无法对符合条件的被考核人进行等级校准。
 
@@ -1188,7 +1177,7 @@
 
 ![image.png](assets/05a1e138e62cbbc08513c3b8f34490bf.jpg)
 
-<span style="color: #FB8C00;">**PS：等级校准是我们的增值功能，有兴趣的小伙伴可以联系我们的服务人员进行了解**</span>
+**PS：等级校准是我们的增值功能，有兴趣的小伙伴可以联系我们的服务人员进行了解**
 
 
 ---
@@ -1196,11 +1185,10 @@
 <!-- 原文定位：🕖 九、更新日志/2024.08更新日志.md -->
 # 2024.08更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodLpqMJMGjLRb3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.08更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/N7dx2rn0JbZ9jRzOcqodLpqMJMGjLRb3?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、复用历史考核指标**
@@ -1212,11 +1200,11 @@
 
 ![image.png](assets/e493e2e6c6b697f2d9f6178d5ec00d45.jpg)![image.png](assets/330e1193bf708604b2f2985d48468c5b.jpg)
 - 校验所选考评表中的被考核人是否能复用历史指标
-    - 如果当前考核周期为自定义周期，则无法复制上期考核指标
-    - 如果被考核人无同类型的上期考核周期，则无法复制上期考核指标
-    - 如果当前考评表的考核维度与上期考核的维度不一致，则无法复制上期考核指标
-    - 如果当前考评表的维度指标的字段与上期考核周期的维度指标的字段不一致，则无法复制上期考核指标
-    - 如果当前考评表的考核流程类型与上期考核周期的考核流程类型不一致，则无法复制上期考核指标
+ - 如果当前考核周期为自定义周期，则无法复制上期考核指标
+ - 如果被考核人无同类型的上期考核周期，则无法复制上期考核指标
+ - 如果当前考评表的考核维度与上期考核的维度不一致，则无法复制上期考核指标
+ - 如果当前考评表的维度指标的字段与上期考核周期的维度指标的字段不一致，则无法复制上期考核指标
+ - 如果当前考评表的考核流程类型与上期考核周期的考核流程类型不一致，则无法复制上期考核指标
 
 ![image.png](assets/b03360bdfa597a07b9ae8a28e0ef0dc2.jpg)
 
@@ -1247,11 +1235,10 @@
 <!-- 原文定位：🕖 九、更新日志/2024.09更新日志.md -->
 # 2024.09更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vvlAENjuGmPjxlg85daZ90D?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.09更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vvlAENjuGmPjxlg85daZ90D?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、停止考核**
@@ -1261,13 +1248,13 @@
 #### **1、停止考核**
 - 在已发起考核列表页面，点击右上角“…”中的“管理”，进入管理页面
 - 在管理页面，点击“停止考核”，弹出停止考核的窗口
-    - 该窗口显示未结束、未停止的考核
-    - 所有未结束、未停止的考核都可以停止考核
-    - 支持名称、在职离职、部门、考评表的筛选
+ - 该窗口显示未结束、未停止的考核
+ - 所有未结束、未停止的考核都可以停止考核
+ - 支持名称、在职离职、部门、考评表的筛选
 - 选择要停止考核的员工，点击“确定”按钮，完成考核的停止
-    - 该考核所有的未完成的待办都会被移除
-    - 后续的所有流程都无法再推进
-    - 被考核人会收到停止考核的通知
+ - 该考核所有的未完成的待办都会被移除
+ - 后续的所有流程都无法再推进
+ - 被考核人会收到停止考核的通知
 
 ![image.png](assets/09997874915b8cd18236529969f76399.jpg)![image.png](assets/759e693d78f2542e8871f269de965f6d.jpg)
 
@@ -1279,13 +1266,13 @@
 停止考核之后，如有需要，可以重启考核，会恢复到停止之前的流程节点，所有待办都会重新生成
 - 在已发起考核列表页，点击右上角“…”中的“管理”，进入管理页面
 - 在管理页面，点击“重启考核”，弹出重启考核的窗口
-    - 该窗口显示已停止的考核
-    - 所有已停止的考核都可以重启
-    - 支持名称、在职离职、部门、考评表的筛选
+ - 该窗口显示已停止的考核
+ - 所有已停止的考核都可以重启
+ - 支持名称、在职离职、部门、考评表的筛选
 - 选择要重启考核的员工，点击“确定”按钮，完成考核的重启
-    - 考核的流程节点会恢复到停止考核之前的流程节点
-    - 对应流程节点的待办都会重新生成，可以继续推进考核流程
-    - 被考核人会收到考核重启的通知
+ - 考核的流程节点会恢复到停止考核之前的流程节点
+ - 对应流程节点的待办都会重新生成，可以继续推进考核流程
+ - 被考核人会收到考核重启的通知
 
 ![image.png](assets/bd9b5d755037be721992c99fa479d63b.jpg)![image.png](assets/dbb3f12286115b5c9d4422eb824ab7ce.jpg)
 
@@ -1303,21 +1290,21 @@
 路径：企业设置→用户组→动态用户组
 - 在动态用户组页面点击“添加”按钮，弹出新增动态用户组的窗口
 - 动态用户组支持多规则设置人员
-    - 设置的规则条件包含以下：
-        - 部门。可以选择包含某些部门，或者不包含某些部门
-        - 角色。可以选择包含某些角色，或者不包含某些角色
-        - 职级。可以选择包含某些职级，或者不包含某些职级
-        - 岗位。可以选择包含某些岗位，或者不包含某些岗位
-        - 直属主管。如果想找出某个主管管理的员工，可以选直属主管选项，直接拉取直属主管是该员工的人员；支持多选。
-        - 入职时长。支持年、月、周、日的时间设置，支持小于、小于等于、大于、大于等于的条件设置
-        - 入职时间。直接设置某个入职时间点，支持早于、晚于的条件设置。
-        - 实际转正时间。直接设置某个实际转正的时间点，支持早于、晚于的条件设置。
-        - 计划转正时间。直接设置某个计划转正的时间点，支持早于、晚于的条件设置。
-        - 试用状态。支持选择试用期、已转正的员工
-    - 所有的这些条件来自智能人事中设置的数据，请在智能人事中维护相关的信息
+ - 设置的规则条件包含以下：
+ - 部门。可以选择包含某些部门，或者不包含某些部门
+ - 角色。可以选择包含某些角色，或者不包含某些角色
+ - 职级。可以选择包含某些职级，或者不包含某些职级
+ - 岗位。可以选择包含某些岗位，或者不包含某些岗位
+ - 直属主管。如果想找出某个主管管理的员工，可以选直属主管选项，直接拉取直属主管是该员工的人员；支持多选。
+ - 入职时长。支持年、月、周、日的时间设置，支持小于、小于等于、大于、大于等于的条件设置
+ - 入职时间。直接设置某个入职时间点，支持早于、晚于的条件设置。
+ - 实际转正时间。直接设置某个实际转正的时间点，支持早于、晚于的条件设置。
+ - 计划转正时间。直接设置某个计划转正的时间点，支持早于、晚于的条件设置。
+ - 试用状态。支持选择试用期、已转正的员工
+ - 所有的这些条件来自智能人事中设置的数据，请在智能人事中维护相关的信息
 - 支持白名单和黑名单的设置
-    - 白名单，就是无论规则条件怎么设置，都包含在该用户组中
-    - 黑名单，就是无论规则条件怎么设置，都不包含在该用户组中
+ - 白名单，就是无论规则条件怎么设置，都包含在该用户组中
+ - 黑名单，就是无论规则条件怎么设置，都不包含在该用户组中
 - 设置好动态用户组之后，可以在动态用户组列表中预览成员，看设置是否符合预期
 
 
@@ -1353,9 +1340,20 @@
 
 | 动态用户组名称 | 规则设置 |
 |---------------------|------------|
-| 试用期入职1月员工 | 动态用户组设置三个规则：<br>1、试用状态：试用期<br>2、入职时长：大于20天<br>3、入职时长：小于40天<br>三个条件之间关系为且，即需同时满足 |
-| 试用期入职3月员工 | 动态用户组设置三个规则：<br>1、试用状态：试用期<br>2、入职时长：大于80天<br>3、入职时长：小于100天<br>三个条件之间关系为且，即需同时满足 |
-| 试用期入职6月员工 | 动态用户组设置三个规则：<br>1、试用状态：试用期<br>2、入职时长：大于170天<br>两个个条件之间关系为且，即需同时满足 |
+| 试用期入职1月员工 | 动态用户组设置三个规则：
+1、试用状态：试用期
+2、入职时长：大于20天
+3、入职时长：小于40天
+三个条件之间关系为且，即需同时满足 |
+| 试用期入职3月员工 | 动态用户组设置三个规则：
+1、试用状态：试用期
+2、入职时长：大于80天
+3、入职时长：小于100天
+三个条件之间关系为且，即需同时满足 |
+| 试用期入职6月员工 | 动态用户组设置三个规则：
+1、试用状态：试用期
+2、入职时长：大于170天
+两个个条件之间关系为且，即需同时满足 |
 
 
 - 然后设置3个考评表，分别是入职1月试用期员工考评表、入职3月试用期员工考评表、待转正试用期员工考评表，被考核人分别对应三个动态用户组
@@ -1403,11 +1401,10 @@
 <!-- 原文定位：🕖 九、更新日志/2024.10更新日志.md -->
 # 2024.10更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gEoN1Wgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.10更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gEoN1Wgk9rpMq?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、转交数据**
@@ -1416,10 +1413,10 @@
 - 功能入口：企业设置→其他→转交数据
 - 选择需要转交的执行人
 - 支持转交的数据：已发起考核、考评表、指标库
-    - 已发起考核中的相关的指标制定、指标确认、结果值录入、以及相关的评分人、审批等
-    - 考评表相关的执行人
-    - 指标库中指标的结果值录入人、制定评分人
-    - 默认会选中所有的数据，可以进行筛选，进行部分转交
+ - 已发起考核中的相关的指标制定、指标确认、结果值录入、以及相关的评分人、审批等
+ - 考评表相关的执行人
+ - 指标库中指标的结果值录入人、制定评分人
+ - 默认会选中所有的数据，可以进行筛选，进行部分转交
 - 选择相关数据的接收人
 - 确认转交后，相关的工作就转交给对应的工作人员了
 
@@ -1474,11 +1471,10 @@
 <!-- 原文定位：🕖 九、更新日志/2024.11更新日志.md -->
 # 2024.11更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEn59ZVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.11更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NU9yEn59ZVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、调整结果值**
@@ -1522,11 +1518,10 @@
 <!-- 原文定位：🕖 九、更新日志/2024.12更新日志.md -->
 # 2024.12更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/NZQYprEoWoer0E4KuMGRPPZ0J1waOeDk?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2024.12更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/NZQYprEoWoer0E4KuMGRPPZ0J1waOeDk?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、流程自动化**
@@ -1552,17 +1547,17 @@
 
 考评表开启流程节点自动化之后，在节点的设置页面，会出现一个「高级设置」，在高级设置中，可以打开这个节点的流程节点自动化设置，可设置的内容包括：
 - 限制开始时间
-    - 指标制定、指标确认、评分节点有「限制开始时间」配置，就是如果对应的节点不仅仅要限制截止时间，还想限制开始时间，可开启配置
-    - 所谓限制开始时间，并不是不进入对应的节点，而是进入节点之后，不能进行对应的操作。如指标制定，希望员工和主管进行充分的沟通，不要已发起考核，立马就制定指标提交，因此发起考核之后在指标制定节点，必须在周期开始5天后才能进行指标制定的提交
+ - 指标制定、指标确认、评分节点有「限制开始时间」配置，就是如果对应的节点不仅仅要限制截止时间，还想限制开始时间，可开启配置
+ - 所谓限制开始时间，并不是不进入对应的节点，而是进入节点之后，不能进行对应的操作。如指标制定，希望员工和主管进行充分的沟通，不要已发起考核，立马就制定指标提交，因此发起考核之后在指标制定节点，必须在周期开始5天后才能进行指标制定的提交
 - 截止时间
-    - 截止时间就是该节点操作的最后时间
+ - 截止时间就是该节点操作的最后时间
 - 催办通知
-    - 可以设置截止剩余几天才是进行催办
-    - 催办支持只发一次，还是每天发一次
-- 截止如何处理 
-    - 自动跳过：即到了截止时间，未完成相应操作，系统会自动跳过该节点，进入下一个节点
-    - 自动停止考核：仅指标制定就该设置，即到了截止时间，如果未完成指标制定，则自动终止考核
-    - 等待执行完成：虽然到了截止时间，但是还是继续停留在本节点
+ - 可以设置截止剩余几天才是进行催办
+ - 催办支持只发一次，还是每天发一次
+- 截止如何处理
+ - 自动跳过：即到了截止时间，未完成相应操作，系统会自动跳过该节点，进入下一个节点
+ - 自动停止考核：仅指标制定就该设置，即到了截止时间，如果未完成指标制定，则自动终止考核
+ - 等待执行完成：虽然到了截止时间，但是还是继续停留在本节点
 
 ![image.png](assets/8ebf9fa847ea30ce875bd812276b8a6f.jpg)
 
@@ -1635,11 +1630,10 @@
 <!-- 原文定位：🕖 九、更新日志/2025.01更新日志.md -->
 # 2025.01更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gvNG4YZ7JneMREKouZY7yR53V2LD0oRE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.01更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gvNG4YZ7JneMREKouZY7yR53V2LD0oRE?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、首页「进行中的考核」新增部门筛选**
@@ -1659,9 +1653,9 @@
 | 维度权重是否参与计算 | 计算方式 | 指标总分计算规则（以A、B两个评分人对指标的评分为例） |
 |------------------------------|------------|-----------------------------------------------------------------------------|
 | 维度权不重参与计算 | 加和计算 | 指标总分=A评分×A权重\+B评分×B权重 |
-|  | 加权计算 | 指标总分=（A评分×A权重\+B评分×B权重）×指标权重 |
+| | 加权计算 | 指标总分=（A评分×A权重\+B评分×B权重）×指标权重 |
 | 维度权重参与计算 | 加和计算 | 指标总分=（A评分×A权重\+B评分×B权重）×维度权重 |
-|  | 加权计算 | 指标总分=（A评分×A权重\+B评分×B权重）×指标权重×维度权重 |
+| | 加权计算 | 指标总分=（A评分×A权重\+B评分×B权重）×指标权重×维度权重 |
 
 ![](assets/96d4f62b1d8f89bae27d18f6349c607f.jpg)
 
@@ -1673,7 +1667,7 @@
 
 ### **五、考评表指标编辑权限，新增指标库导入编辑权限设置**
 
-<span style="color: #0089FF;">**该功能内测中，如要使用请联系服务人员开通**</span>
+**该功能内测中，如要使用请联系服务人员开通**
 
 在考评表指标制定节点，设置指标编辑权限，取消勾选“指标库导入可编辑”，则在指标制定的时候，对于指标库导入的指标，对应的字段不可编辑
 
@@ -1682,7 +1676,7 @@
 
 ### **六、****离职人员自动从考评表被考核人人员中移除**
 
-<span style="color: #0089FF;">**该功能内测中，如要使用请联系服务人员开通**</span>
+**该功能内测中，如要使用请联系服务人员开通**
 
 人员离职之后，自动从考评表的被考核人员中移除。
 
@@ -1705,11 +1699,10 @@
 <!-- 原文定位：🕖 九、更新日志/2025.03更新日志.md -->
 # 2025.03更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/6LeBq413JAzG0NgBuZEMvYbK8DOnGvpb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.03更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/6LeBq413JAzG0NgBuZEMvYbK8DOnGvpb?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、等级分布，引入部门考核影响因素**
@@ -1725,13 +1718,13 @@
 - 选中“强制正态分布，引入部门考核结果影响因素”
 - 选择对应的部门考核周期及对应的部门，该处的部门是直接从已选的部门考核周期的考核部门中选取，因此在设置人员考核的等级分布规则之前，必须先发起对应部门的考核
 - 设置好对应的考核周期和部门之后，配置对应的等级分布规则
-    - 支持两种等级分布规则配置方式：按部门考核等级进行配置、按部门考核总分进行配置
-    - 按部门等级进行配置：可以配置多套人员等级分布规则，根据对应部门不同的考核结果，去适配不同的等级分布规则
-    - 按部门考核总分进行配置：可以配置多套人员等级分布规则，根据对应部门考核总分不同的分数区间，去适配不同等级分布规则
-    - 如果涉及到多个部门，每个部门都是部门内部进行正态分布，则建立多个分布规则表，关联各自的部门考核结果
-    - 可配置一个默认等级分布，当匹配不到对应的等级，或者执行等级分布规则的时候还没有总分，则根据默认等级分布执行
+ - 支持两种等级分布规则配置方式：按部门考核等级进行配置、按部门考核总分进行配置
+ - 按部门等级进行配置：可以配置多套人员等级分布规则，根据对应部门不同的考核结果，去适配不同的等级分布规则
+ - 按部门考核总分进行配置：可以配置多套人员等级分布规则，根据对应部门考核总分不同的分数区间，去适配不同等级分布规则
+ - 如果涉及到多个部门，每个部门都是部门内部进行正态分布，则建立多个分布规则表，关联各自的部门考核结果
+ - 可配置一个默认等级分布，当匹配不到对应的等级，或者执行等级分布规则的时候还没有总分，则根据默认等级分布执行
 - 完成所有人员的评分之后，执行等级分布规则，即可根据对应的部门考核的结果适配对应的等级分布规则，生成对应的等级。
-    - 请在执行等级分布之前，确保对应部门已经完成评分，生成了对应的总分或等级
+ - 请在执行等级分布之前，确保对应部门已经完成评分，生成了对应的总分或等级
 
 ![image.png](assets/a9e7130024ca056701e66353b2a1b19d.jpg)
 
@@ -1754,12 +1747,12 @@
 - 在弹窗中，数据源选择“被考核人所在部门考核结果”
 - 选择考核周期，该处选择的考核周期都是部门考核的考核周期
 - 部门考核匹配逻辑
-    - 按所在部门进行匹配：员工归属的最小部门进行匹配，如员工A的部门归属关系是：蓝凌叮当云→产研中心→产品部，则匹配到的是产品部。如果产品部不是对应考核周期的被考核部门，则无法匹配到结果值
-    - 按所在部门进行匹配，并支持向上追溯：优先匹配员工归属的最小部门进行匹配，在考核周期中匹配不到对应的被考核部门，则按部门树向上追溯，如员工A的部门归属关系是：蓝凌叮当云→产研中心→产品部，则先匹配“产品部”，如在考核周期中找不到“产品部”，则找“产品部”的上级部门“产研中心”，以此类推，直至在考核周期找匹配到部门。如果最终没有匹配到对应的部门，则无法匹配到结果值
-    - 匹配指定部门：直接从对应考核周期中指定一个考核部门，请确保在设置结果值之前，对应考核周期中的对应部门已发起考核
+ - 按所在部门进行匹配：员工归属的最小部门进行匹配，如员工A的部门归属关系是：蓝凌叮当云→产研中心→产品部，则匹配到的是产品部。如果产品部不是对应考核周期的被考核部门，则无法匹配到结果值
+ - 按所在部门进行匹配，并支持向上追溯：优先匹配员工归属的最小部门进行匹配，在考核周期中匹配不到对应的被考核部门，则按部门树向上追溯，如员工A的部门归属关系是：蓝凌叮当云→产研中心→产品部，则先匹配“产品部”，如在考核周期中找不到“产品部”，则找“产品部”的上级部门“产研中心”，以此类推，直至在考核周期找匹配到部门。如果最终没有匹配到对应的部门，则无法匹配到结果值
+ - 匹配指定部门：直接从对应考核周期中指定一个考核部门，请确保在设置结果值之前，对应考核周期中的对应部门已发起考核
 - 若被考核人多部门，则有可能在考核周期中匹配到多个部门的结果总分，那如何计算最后的总分：
-    - 按主部门进行匹配，其他部门不予计算
-    - 所有部门进行匹配，将匹配到的部门总分相加，最后取平均值
+ - 按主部门进行匹配，其他部门不予计算
+ - 所有部门进行匹配，将匹配到的部门总分相加，最后取平均值
 - 设置好结果值录入方式之后，发起考核，在发起评分的时候，会最后匹配对应部门的考核总分，写入到结果值中。
 
 ![image.png](assets/755b8df276f39228200f205947110a50.jpg)
@@ -1804,11 +1797,10 @@
 <!-- 原文定位：🕖 九、更新日志/2025.04更新日志.md -->
 # 2025.04更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybE2jdjJkb4Mw9r?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.04更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mE7a9UybE2jdjJkb4Mw9r?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 此次更新的功能需要单独开通，可联系绩效工作人员予以开通
@@ -1847,10 +1839,10 @@
 
 配置好报表之后，选择对应的报表，点击“导出”按钮，弹出导出报表信息的弹窗
 - 支持选择多个考核周期
-    - 如果是在已发起考核页面进入自定义报表页面，默认显示的是当前周期
-    - 在菜单“考核→报表”下点击自定义报表，会记住上次选择的考核周期
+ - 如果是在已发起考核页面进入自定义报表页面，默认显示的是当前周期
+ - 在菜单“考核→报表”下点击自定义报表，会记住上次选择的考核周期
 - 选择导出的人员
-    - 当不选择的时候，默认就是所选周期的所有人员的数据
+ - 当不选择的时候，默认就是所选周期的所有人员的数据
 - 人员状态：支持选择导出在职还是离职人员数据
 
 ![image.png](assets/6331b9b1a01170d83afd1db8e3e6636b.jpg)
@@ -1868,8 +1860,8 @@
 #### **2.2 选择要导出的数据，下载PDF**
 - 选择被考核人
 - 选择要导出的字段
-    - 纸张方式支持选择是横向还是纵向。横向纸张，一行可以展示更多数据，但是一页纸行数变少；纵向一行可以展示的数据变少，但是一页纸行数变多
-    - 考核指标可以选择横向排列还是纵向排列。横向排列可以节省纸张空间，但是当字段过多，则会展示不下；纵向排列可以展示更多的字段。
+ - 纸张方式支持选择是横向还是纵向。横向纸张，一行可以展示更多数据，但是一页纸行数变少；纵向一行可以展示的数据变少，但是一页纸行数变多
+ - 考核指标可以选择横向排列还是纵向排列。横向排列可以节省纸张空间，但是当字段过多，则会展示不下；纵向排列可以展示更多的字段。
 - 除了考核数据，跟之前导出PDF的功能一样，依旧支持自定义内容，可以配置签字内容，导出让员工签字。![image.png](assets/3ab65d6ac5cefd4ff06d5d197829fd85.jpg)
 - 选择好字段之后，直接点击“导出PDF”就开始导出PDF档案
 
@@ -1905,11 +1897,10 @@
 <!-- 原文定位：🕖 九、更新日志/2025.05更新日志.md -->
 # 2025.05更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZaKOoVGXn6lpz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.05更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZaKOoVGXn6lpz?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、指标字段排序优化，权重和考核标准也支持调整顺序**
@@ -1946,14 +1937,13 @@
 <!-- 原文定位：🕖 九、更新日志/2025.06更新日志.md -->
 # 2025.06更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyglAEpXCYadXXGpJkyEqBQm?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.06更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyglAEpXCYadXXGpJkyEqBQm?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
-### <span style="color: ;">**一、结果审批，允许审批人直接调整结果**</span>
+### **一、结果审批，允许审批人直接调整结果**
 
 绩效结果审批人在对绩效考核结果进行审批的时候，如果发现被考核人的绩效结果与实际不符，除了驳回到对应的评分人进行重新评分之外，可以允许审批人直接调整绩效总分和等级，提高绩效工作的效率。
 
@@ -1979,7 +1969,7 @@
 特别说明：当前移动端不支持调整结果
 
 
-### <span style="color: ;">**二、批量重置，支持重置到指定节点**</span>
+### **二、批量重置，支持重置到指定节点**
 
 已发起考核→批量操作→批量重置，新增支持重置到指定节点
 
@@ -1993,11 +1983,10 @@
 <!-- 原文定位：🕖 九、更新日志/2025.07更新日志.md -->
 # 2025.07更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgkbarc327Q1dkWZd1wyK0?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.07更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/m9bN7RYPWdlgkbarc327Q1dkWZd1wyK0?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **任务审批支持创建人自选**
@@ -2016,7 +2005,7 @@
 
 ### **绩效系数**
 
-[绩效系数](https://alidocs.dingtalk.com/i/nodes/6LeBq413JAzG0NgBunjooYRB8DOnGvpb?utm_scene=team_space)
+绩效系数
 
 
 配置系数模板
@@ -2039,11 +2028,10 @@
 <!-- 原文定位：🕖 九、更新日志/2025.08更新日志.md -->
 # 2025.08更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkidgg5QKXW47Z3je9?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.08更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/qnYMoO1rWxDlAEXkidgg5QKXW47Z3je9?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **公式校验**
@@ -2123,11 +2111,10 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 <!-- 原文定位：🕖 九、更新日志/2025.09更新日志.md -->
 # 2025.09更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUwyy3ExjVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.09更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUwyy3ExjVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 #### **一、考评表支持插入面谈节点**
@@ -2225,9 +2212,9 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 ![image.png](assets/fc935c005a995ca8ab10f46f814d1d81.jpg)
 
-⚠️ 进度计算：结果值/目标值（目标值和结果值必须都为数字 & 任一值为非数字时不显示进度&若目标值为空或0 进度为100%）  ；
+⚠️ 进度计算：结果值/目标值（目标值和结果值必须都为数字 & 任一值为非数字时不显示进度&若目标值为空或0 进度为100%） ；
 
-⚠️ “指标确认”节点之后  包含“执行中”“结果值录入”等节点  如果结果值有更新，则详情页列表也会显示结果值字段【这个不需要开白名单】；
+⚠️ “指标确认”节点之后 包含“执行中”“结果值录入”等节点 如果结果值有更新，则详情页列表也会显示结果值字段【这个不需要开白名单】；
 
 页面显示：![image.png](assets/36100b71c5a871862fe6bc4457f43e03.jpg)
 
@@ -2249,7 +2236,7 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 在录入结果值点击提交之后将会进入到结果值审核节点
 
-支持“审批通过”和“驳回 ”  
+支持“审批通过”和“驳回 ”
 
 ![image.png](assets/8e134d4686c06d41e5de8b1a0e1a0786.jpg)
 
@@ -2277,11 +2264,10 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 <!-- 原文定位：🕖 九、更新日志/2025.10更新日志.md -->
 # 2025.10更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmT7DDAdyoWxAZB1Gv?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.10更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/20eMKjyp81RNDxEmT7DDAdyoWxAZB1Gv?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 #### **一、个性化评分方式设置—评分组**
@@ -2309,9 +2295,56 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 | 类型 | 页面 | 说明 |
 |------|------|------|
-| 仅评分分值 | ![image.png](assets/d061535ec72178fe06493220d0a9473a.jpg) | <ul><li>选项只有分值，就跟之前的下拉选择评分一样，评分的时候直接选择对应的分值选项</li><br><li>适用用维度</li><br><li style="margin-left:1em">量化维度</li><br><li style="margin-left:1em">行为价值观维度（数字类型）</li><br><li style="margin-left:1em">加分项</li><br><li style="margin-left:1em">扣分项</li><br><li style="margin-left:1em">加减分项</li><br><li style="margin-left:1em">计划指标</li><br><li style="margin-left:1em">OKR指标</li></ul> |
-| 选项名称\+评分分值 | ![image.png](assets/057784025fd1c089aa73f11c874d44a4.jpg) | <ul><li>有选项名称和对应的分值，如：表现很好-90分、表现一般-70分、表现较差-60分</li><br><li>可以选择分值是否隐藏</li><br><li>适用维度</li><br><li>量化维度</li><br><li style="margin-left:1em">行为价值观维度（数字类型）</li><br><li style="margin-left:1em">加分项</li><br><li style="margin-left:1em">扣分项</li><br><li style="margin-left:1em">加减分项</li><br><li style="margin-left:1em">计划指标</li><br><li style="margin-left:1em">OKR指标</li></ul> |
-| 仅选项名称 | ![image.png](assets/334e1a126ef4678b38f5d223c089a727.jpg) | <ul><li>只有选项名称，没有分值，如：表现很好、表现一般、表现较差</li><br><li>仅适用行为价值观维度，且是文本类型的情况</li><br><li>仅评价，没有分值，无法通过指标评分计算总分</li></ul> |
+| 仅评分分值 | ![image.png](assets/d061535ec72178fe06493220d0a9473a.jpg) |
+
+- 选项只有分值，就跟之前的下拉选择评分一样，评分的时候直接选择对应的分值选项
+
+- 适用用维度
+
+- 量化维度
+
+- 行为价值观维度（数字类型）
+
+- 加分项
+
+- 扣分项
+
+- 加减分项
+
+- 计划指标
+
+- OKR指标
+ |
+| 选项名称\+评分分值 | ![image.png](assets/057784025fd1c089aa73f11c874d44a4.jpg) |
+
+- 有选项名称和对应的分值，如：表现很好-90分、表现一般-70分、表现较差-60分
+
+- 可以选择分值是否隐藏
+
+- 适用维度
+
+- 量化维度
+
+- 行为价值观维度（数字类型）
+
+- 加分项
+
+- 扣分项
+
+- 加减分项
+
+- 计划指标
+
+- OKR指标
+ |
+| 仅选项名称 | ![image.png](assets/334e1a126ef4678b38f5d223c089a727.jpg) |
+
+- 只有选项名称，没有分值，如：表现很好、表现一般、表现较差
+
+- 仅适用行为价值观维度，且是文本类型的情况
+
+- 仅评价，没有分值，无法通过指标评分计算总分
+ |
 
 更多说明
 - 所有的评分组都可以设置默认选项，设置了默认选项，评分的时候，打开评分页面，会自动选中对应的默认选项
@@ -2320,7 +2353,7 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 ##### **3、设置企业默认评分规则**
 
-原来企业设置中设置的总分规则和评分方式，是直接影响所有考评表，发起考核的时候，对应的总分规则和评分方式就是当前企业设置中设置的规则，在新版本中，将企业设置中的总分规则和评分方式调整为默认的评分规则，即创建考评表的时候，考评表中的评分规则为企业设置中的默认评分规则，但是可以调整，不再直接受企业设置中的评分规则影响。<span style="color: #E53935;">**企业设置中的默认评分规则，如果要影响考评表中的评分规则，需要通过同步来完成。**</span>
+原来企业设置中设置的总分规则和评分方式，是直接影响所有考评表，发起考核的时候，对应的总分规则和评分方式就是当前企业设置中设置的规则，在新版本中，将企业设置中的总分规则和评分方式调整为默认的评分规则，即创建考评表的时候，考评表中的评分规则为企业设置中的默认评分规则，但是可以调整，不再直接受企业设置中的评分规则影响。**企业设置中的默认评分规则，如果要影响考评表中的评分规则，需要通过同步来完成。**
 
 
 ###### **3.1 总分规则**
@@ -2335,19 +2368,19 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 ###### **3.2 评分方式**
 - 当总分规则为“合并计算量化和行为价值观”
-    - 则量化类型和行为价值观类型的评分方式一起设置
-    - 分数类型只能设置为数字
+ - 则量化类型和行为价值观类型的评分方式一起设置
+ - 分数类型只能设置为数字
 - 当总分规则为“分开计算量化和行为价值观”
-    - 可单独设置量化类型和行为价值观类型的评分方式
-    - 量化类型的分数类型只能是数字，行为价值观的分数类型可以是文本
+ - 可单独设置量化类型和行为价值观类型的评分方式
+ - 量化类型的分数类型只能是数字，行为价值观的分数类型可以是文本
 - 当总分规则为“分开计算量化和行为价值观，然后结果相乘”
-    - 可单独设置量化类型和行为价值观类型的评分方式
-    - 量化类型和行为价值观的分数类型都只能是数字
+ - 可单独设置量化类型和行为价值观类型的评分方式
+ - 量化类型和行为价值观的分数类型都只能是数字
 - 评分方式设置
-    - 支持设置为以下两种评分方式：
-        - 输入框手动输入
-        - 评分组选择评分
-    - 当“分开计算量化和行为价值观”，且行为价值观分数类型为文本，行为价值观的评分组只能选择“仅选项名称”类型
+ - 支持设置为以下两种评分方式：
+ - 输入框手动输入
+ - 评分组选择评分
+ - 当“分开计算量化和行为价值观”，且行为价值观分数类型为文本，行为价值观的评分组只能选择“仅选项名称”类型
 
 ![image.png](assets/cba1adffe1318800191284049c1a6780.jpg)
 
@@ -2358,7 +2391,7 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 - 在评分设置页面，点击“同步”按钮，弹出同步窗口
 - 可以选择同步至人员考评表还是部门考评表
 - 可选择同步范围：部分考评表、全部考评表
-    - 部分考评表，支持批量选择考评表![image.png](assets/bc5e324fb9f16b5fe4567b7b675abf9d.jpg)
+ - 部分考评表，支持批量选择考评表![image.png](assets/bc5e324fb9f16b5fe4567b7b675abf9d.jpg)
 - 同步内容包括：总分规则、评分方式，已经考评表中指标中的评分方式
 
 ![image.png](assets/184777235d586f8d495a8b465e17153d.jpg)
@@ -2368,8 +2401,8 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 - 考评表新增“评分规则模块”，入口：考评表→考核指标→更多→评分规则
 - 考评表中的评分规则，在创建考评表的时候，默认为企业设置中的默认评分规则，创建好之后，不再受企业设置中默认评分规则的影响，自己设置考评表自己的评分规则，除非通过同步功能
 - 考评表中的评分规则配置的内容与企业设置中的默认评分规则一致，包括总分规则、量化和行为价值观的分数类型及评分方式
-    - 评分方式支持设置为“输入框手动输入”、“评分组选择评分”，此处设置的评分方式为默认评分方式，就是新建维度的时候，维度的评分方式继承这里的，但是维度可以调整自己的评分方式
-    - 此处设置的评分方式为也是默认评分方式，即新建维度的时候，维度默认的评分方式会直接继承此处设置的评分方式。
+ - 评分方式支持设置为“输入框手动输入”、“评分组选择评分”，此处设置的评分方式为默认评分方式，就是新建维度的时候，维度的评分方式继承这里的，但是维度可以调整自己的评分方式
+ - 此处设置的评分方式为也是默认评分方式，即新建维度的时候，维度默认的评分方式会直接继承此处设置的评分方式。
 
 ![image.png](assets/f09995cb41c27a3b6c0533926fe60058.jpg)
 
@@ -2382,7 +2415,7 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 在完成评分规则的配置之后，新建维度，维度的评分方式继承考评表评分规则的评分方式，可以调整。
 - 评分方式依旧分两种，输入框手动输入、评分组选择评分
 - 新建指标的时候，指标的评分方式默认为维度中设置的评分方式
-    - 如果维度设置的默认评分方式不是评分组，则在发起考核后，指标制定、调整指标的时候，只能设置输入框手动输入评分方式（量化指标还可以选择公式算分）
+ - 如果维度设置的默认评分方式不是评分组，则在发起考核后，指标制定、调整指标的时候，只能设置输入框手动输入评分方式（量化指标还可以选择公式算分）
 - 自定义维度、一票否决维度，不支持评分设置
 
 ![image.png](assets/82f0dcfea89f3665f51437a3c5cc1373.jpg)
@@ -2390,9 +2423,9 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 ##### **6、考评表中指标配置评分方式**
 - 考评表中维度下新建指标的时候，指标的评分方式默认继承维度的评分方式，可以修改
-    - 量化支持：输入框手动输入、评分组选择评分、公式自动算分
-    - 其他维度支持（一票否决、自定义维度除外）：输入框手动输入、评分组选择评分
-    - 如果考评表维度设置指标字段，评分方式字段被关闭，则指标默认的评分方式就是维度中设置的默认评分方式
+ - 量化支持：输入框手动输入、评分组选择评分、公式自动算分
+ - 其他维度支持（一票否决、自定义维度除外）：输入框手动输入、评分组选择评分
+ - 如果考评表维度设置指标字段，评分方式字段被关闭，则指标默认的评分方式就是维度中设置的默认评分方式
 
 ![image.png](assets/73e900edbe36a8ad7bd69302336d46ef.jpg)
 
@@ -2406,9 +2439,9 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 ###### **7.1 PC端配置评分方式**
 - 新增指标，默认的评分方式是对应维度中配置好的默认评分方式
-    - 如果维度中配置的默认评分方式是评分组，则默认的是对应的评分组，并且可以在输入框手动输入和公式自动评分中切换评分方式（公式自动评分仅量化指标有）
-    - 如果维度中配置的默认评分方式是输入框手动输入，则指标指定人、调整人在新增指标的时候，没有“评分组选择评分”一项。<span style="color: #E53935;">**当前不支持指标制定人、调整人自己去配置评分组，一定是继承维度中默认评分方式中配置好的品分组。**</span>
-- <span style="color: #222328;">如果从指标库导入，指标库中的指标是公式算分，则默认的评分方式是公式自动评分</span>
+ - 如果维度中配置的默认评分方式是评分组，则默认的是对应的评分组，并且可以在输入框手动输入和公式自动评分中切换评分方式（公式自动评分仅量化指标有）
+ - 如果维度中配置的默认评分方式是输入框手动输入，则指标指定人、调整人在新增指标的时候，没有“评分组选择评分”一项。**当前不支持指标制定人、调整人自己去配置评分组，一定是继承维度中默认评分方式中配置好的品分组。**
+- 如果从指标库导入，指标库中的指标是公式算分，则默认的评分方式是公式自动评分
 
 ![image.png](assets/468fd4939a6eec7b2fc112822f6364a4.jpg)
 
@@ -2449,9 +2482,9 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 ##### **1、指标制定编辑权限优化**
 - 结果值录入、指定评分人支持设置是否必填
 - 新增设置指标库指标是否可编辑、考评表指标是否可编辑配置项
-    - 指标库指标不可编辑：勾选之后，如果指标是指标库导入的指标，则对应字段不可编辑
-    - 考评表指标不可编辑：勾选之后，如果指标在考评表中就已经设置好了，则对应的字段不可编辑
-    - <span style="color: #E53935;">特别说明：此功能当前内测中，需要申请开通</span>
+ - 指标库指标不可编辑：勾选之后，如果指标是指标库导入的指标，则对应字段不可编辑
+ - 考评表指标不可编辑：勾选之后，如果指标在考评表中就已经设置好了，则对应的字段不可编辑
+ - 特别说明：此功能当前内测中，需要申请开通
 
 ![image.png](assets/44085e8b47f50216b3dcfb14f61a2f6b.jpg)
 
@@ -2465,11 +2498,11 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 ##### **3、结果值录入新增编辑权限设置**
 - 结果值录入（包含结果值更新、管理员调整结果值）节点，如果还有其他字段需要更新内容，可以在结果值录入节点配置可编辑的字段，除了结果值、结果值说明、指标名称、考核标准、权重、评分方式、指定评分人等字段外，其他字段都可以配置编辑权限
-    - 适用场景：当前系统只有单结果值，如果有多结果值的需求，可以配置自定义字段，并且给结果值录入节点开放编辑权限
+ - 适用场景：当前系统只有单结果值，如果有多结果值的需求，可以配置自定义字段，并且给结果值录入节点开放编辑权限
 - 特别说明
-    - <span style="color: #E53935;">1、当前该功能内测阶段，需要申请开通</span>
-    - <span style="color: #E53935;">2、当前仅PC端支持在结果值录入的时候编辑其他字段，移动端暂不支持</span>
-    - <span style="color: #E53935;">3、Excel导入结果值，暂不支持更新其他字段</span>
+ - 1、当前该功能内测阶段，需要申请开通
+ - 2、当前仅PC端支持在结果值录入的时候编辑其他字段，移动端暂不支持
+ - 3、Excel导入结果值，暂不支持更新其他字段
 
 ![image.png](assets/af9849a3226806be4bbc560d4e019f01.jpg)
 
@@ -2482,14 +2515,14 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 ##### **3、评分节点新增编辑权限设置**
 - 评分节点（包括自评、上级评分、互评、360°邀评、指定评分人），如果除了评分之外，还需要更新其他字段，可以在对应评分节点配置可编辑字段，除了结果值、结果值说明、指标名称、考核标准、权重、评分方式、指定评分人等字段外，其他字段都可以配置编辑权限。
 - 特别说明
-    - <span style="color: #E53935;">1、当前该功能内测阶段，需要申请开通</span>
-    - <span style="color: #E53935;">2、当前仅PC端支持在评分的时候编辑其他字段，移动端暂不支持</span>
+ - 1、当前该功能内测阶段，需要申请开通
+ - 2、当前仅PC端支持在评分的时候编辑其他字段，移动端暂不支持
 
 
 ![image.png](assets/4e39dfd3ec19d91b98c447edac69cea4.jpg)
 
 
-<span style="color: #222328;">配置好之后，在评分页面，就可以对对应的字段进行编辑</span>
+配置好之后，在评分页面，就可以对对应的字段进行编辑
 
 ![image.png](assets/20865ed21c5ed5cbfaab7fbe8108a80a.jpg)
 
@@ -2500,7 +2533,7 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 维度基础设置中，新增配置项“允许删除考评表指标”。默认勾选，若取消勾选，则在指标制定的时候，指标指定人不能删除考评表中设置好的指标，但是指标制定添加的指标可以删除。
 
-<span style="color: #E53935;">当前该功能内测阶段，需要申请开通</span>
+当前该功能内测阶段，需要申请开通
 
 ![image.png](assets/efbc98cb69dbd9112079a31a544ef659.jpg)
 
@@ -2509,7 +2542,7 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 将原先维度设置中的“指标制定可新增指标”、“允许指标库导入”两个配置项，调整为“允许手动新增指标”、“允许复制指标项”、“允许指标库导入”三个配置项，与指标制定页面的三个按钮做一一对应，可以控制指标指定人
 
-<span style="color: #E53935;">当前该功能内测阶段，需要申请开通</span>
+当前该功能内测阶段，需要申请开通
 
 ![image.png](assets/22959e3bccd3232ead707b5618b5527c.jpg)
 
@@ -2530,36 +2563,36 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 #### **考核设置导入目标地图**
 - 在考核制定环节，量化指标&行为价值观指标 支持设置允许导入目标地图的指标，支持手动导入 & 自动导入
-    - 页面交互：
-        - ![image.png](assets/f33b0fe628b2b51bb2d0ce3909724566.jpg)
+ - 页面交互：
+ - ![image.png](assets/f33b0fe628b2b51bb2d0ce3909724566.jpg)
 - 手动导入：允许在指标制定环节 在该纬度下选择对应的目标&进行新建指标进行承接上级目标
 - 自动导入：允许在考核发起后 自动同步目标地图内对应周期下的考核指标
-    - <span style="color: ;">**同步时间：考核发起后 在指标发起后进行同步之后不再同步！！**</span>
-    - <span style="color: ;">**同步规则：直接同步考核周期一致被考核人的全部目标**</span>
-- <span style="color: ;">手动导入和自动导入可以同时被开启，</span><span style="color: linear-gradient(90deg, #FF7100 0%, #F300AD 100%);">**但是自动导入 在同一类型的考核纬度下只能一个纬度被开启。**</span>
+ - **同步时间：考核发起后 在指标发起后进行同步之后不再同步！！**
+ - **同步规则：直接同步考核周期一致被考核人的全部目标**
+- 手动导入和自动导入可以同时被开启，**但是自动导入 在同一类型的考核纬度下只能一个纬度被开启。**
 
-#### <span style="color: ;">**其他优化**</span>
-- <span style="color: ;">批量加入考核纬度：手动导入支持将目标地图指标批量加入指定纬度</span>
-    - ![image.png](assets/fcd0331c4df72462e987b1faadce2c53.jpg)
-- <span style="color: ;">默认字段填充</span>
-    - <span style="color: ;">指标名称：目标名称</span> 
-    - <span style="color: ;">考核标准：同步目标地图</span>  
-    - <span style="color: ;">目标值：读取目标地图</span>
-    - <span style="color: ;">结果值录入人：默认为被考核人</span>
+#### **其他优化**
+- 批量加入考核纬度：手动导入支持将目标地图指标批量加入指定纬度
+ - ![image.png](assets/fcd0331c4df72462e987b1faadce2c53.jpg)
+- 默认字段填充
+ - 指标名称：目标名称
+ - 考核标准：同步目标地图
+ - 目标值：读取目标地图
+ - 结果值录入人：默认为被考核人
 
 
-#### <span style="color: ;">**注意事项⚠️⚠️⚠️**</span>
-- <span style="color: linear-gradient(90deg, #FF7100 0%, #F300AD 100%);">**上线后发起考核处的支持引入目标地图的设置就没有了，麻烦已经开通的客户先告知一下**</span>
-    - ![image.png](assets/466e862e59363fe55a5b362802e50608.jpg)
-    - 显示如下：![image.png](assets/daf1d7bee7c5936d2624e3a9098c0cec.jpg)
-- <span style="color: ;">发起考核判断</span>：<span style="color: ;">复用历史考核指标时，需要对被引入的目标进行剔除</span>
-        - ![image.png](assets/9f9f78d1b6c6f65f0b27103a075cb665.jpg)
-        - <span style="color: linear-gradient(90deg, #FF7100 0%, #F300AD 100%);">**在复用时，除目标地图指标以外的指标进行复制 并需要同步引入当前周期可以匹配上的目标地图指标**</span>
-    - <span style="color: ;">指标数量限制</span>
-        - <span style="color: ;">系统自动引入对应的目标地图指标，在指标确认或制定环节增加这部分的限制；</span>
-        - <span style="color: linear-gradient(90deg, #FF7100 0%, #F300AD 100%);">系统下发后，如果直接进入执行中节点 则自动导入目标不受影响</span>
-        - ![image.png](assets/6c9ef379a5f15035f9f4ebf8d43696a2.jpg)
-- <span style="color: ;">目标地图自动引入</span><span style="color: linear-gradient(90deg, #FF7100 0%, #F300AD 100%);">**只支持在按考评人设置流程中进行配置**</span><span style="color: ;">。</span>
+#### **注意事项⚠️⚠️⚠️**
+- **上线后发起考核处的支持引入目标地图的设置就没有了，麻烦已经开通的客户先告知一下**
+ - ![image.png](assets/466e862e59363fe55a5b362802e50608.jpg)
+ - 显示如下：![image.png](assets/daf1d7bee7c5936d2624e3a9098c0cec.jpg)
+- 发起考核判断：复用历史考核指标时，需要对被引入的目标进行剔除
+ - ![image.png](assets/9f9f78d1b6c6f65f0b27103a075cb665.jpg)
+ - **在复用时，除目标地图指标以外的指标进行复制 并需要同步引入当前周期可以匹配上的目标地图指标**
+ - 指标数量限制
+ - 系统自动引入对应的目标地图指标，在指标确认或制定环节增加这部分的限制；
+ - 系统下发后，如果直接进入执行中节点 则自动导入目标不受影响
+ - ![image.png](assets/6c9ef379a5f15035f9f4ebf8d43696a2.jpg)
+- 目标地图自动引入**只支持在按考评人设置流程中进行配置**。
 
 
 ---
@@ -2567,11 +2600,10 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 <!-- 原文定位：🕖 九、更新日志/2025.11更新日志.md -->
 # 2025.11更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3REZpoU45bmBRoV6EDybno?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.11更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3REZpoU45bmBRoV6EDybno?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、指标修订优化**
@@ -2693,8 +2725,8 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 #### **配置面谈模版**
 1. 在面谈模版中增加改进计划纬度，并配置对应填写的节点
 2. 开启改进计划评定，设置发起评定的时间和评定周期
-    1. 评定时间：系统会在评定周期结束后立即发起评定
-    2. 评定周期：对应改进计划改进的周期，可以指定在面谈的哪个节点进行填写
+ 1. 评定时间：系统会在评定周期结束后立即发起评定
+ 2. 评定周期：对应改进计划改进的周期，可以指定在面谈的哪个节点进行填写
 3. 配置评定流程
 
 ![image.png](assets/bb43d371113dd309fa8c2b86992a64f8.jpg)
@@ -2720,9 +2752,9 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 
 #### **改进评定正常发起，进入评定流程**
 1. 在我的考核中可以看到对应的改进计划，进行评定流程
-    1. ![image.png](assets/7047fb29e367ae7426d6e3a1953d07f4.jpg)
+ 1. ![image.png](assets/7047fb29e367ae7426d6e3a1953d07f4.jpg)
 2. 考核详情页也可以看到关联面谈
-    1. ![image.png](assets/4d8b7d70fedbadd85cda61cd0c688809.jpg)
+ 1. ![image.png](assets/4d8b7d70fedbadd85cda61cd0c688809.jpg)
 
 #### **根据流程进行评定、审批等**
 
@@ -2847,17 +2879,16 @@ PS：面谈流程生效啦！面谈将根据面谈流程进行填写。
 <!-- 原文定位：🕖 九、更新日志/2025.12更新日志.md -->
 # 2025.12更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUw5QmlN6VzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2025.12更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUw5QmlN6VzN67Mw4?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、AI生成公式**
 
 :::
-操作路径：指标库-新建指标/编辑指标-评分方式-公式自动评分   
+操作路径：指标库-新建指标/编辑指标-评分方式-公式自动评分
 
 操作路径：考评表-考核指标-新建指标/编辑指标-评分方式-公式自动评分
 
@@ -3110,11 +3141,10 @@ word：选取的字段会全部保留，可以自行调整尺寸，但在调整�
 <!-- 原文定位：🕖 九、更新日志/2026.01更新日志.md -->
 # 2026.01更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUbL0gqqGVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.01更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUbL0gqqGVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **执行视图**
@@ -3168,11 +3198,11 @@ OKR 新增一种视图：**执行视图**，可查看KR 对应的任务
 - 不设置：则企业内后续所有发起的考核都没有总分限制
 - 按考评表自定义：则在企业设置中，不做统一的总分限制设置，单独在每个考评表中设置
 - 统一设置
-    - 可以设置满分分值，满分分值会影响指标的评分上限（加分项、扣分项、加减分项除外）
-    - 总分最高分、总分最低分
-    - 影响范围：可以选择影响最后的考核总分，还是限制评分人的总分
-        - 如果影响的是考核总分，则最后得出总分，不能超出最高分最低分，如果超出，会被限制为设置的最高分、最低分
-        - 如果影响的是评分人总分，则评分人最后的总分受此限制
+ - 可以设置满分分值，满分分值会影响指标的评分上限（加分项、扣分项、加减分项除外）
+ - 总分最高分、总分最低分
+ - 影响范围：可以选择影响最后的考核总分，还是限制评分人的总分
+ - 如果影响的是考核总分，则最后得出总分，不能超出最高分最低分，如果超出，会被限制为设置的最高分、最低分
+ - 如果影响的是评分人总分，则评分人最后的总分受此限制
 
 ![image.png](assets/06ac93e633cc55c9e6141bdfdb4e8816.jpg)
 
@@ -3203,7 +3233,7 @@ OKR 新增一种视图：**执行视图**，可查看KR 对应的任务
 
 ![image.png](assets/4a7ce9cc8cfd933d56c307d81554ad8b.jpg)
 
-<span style="color: #FB8C00;">**注意：手动调整总分，不受最高分最低分限制**</span>
+**注意：手动调整总分，不受最高分最低分限制**
 
 ### **引入钉钉考勤作为指标结果值**
 
@@ -3244,7 +3274,7 @@ OKR 新增一种视图：**执行视图**，可查看KR 对应的任务
 ![image.png](assets/39117b2105396cb666f4ce67d5aa3b7e.jpg)
 
 
-<span style="color: #FB8C00;">**注意：只读取对应被考核人与考核周期相同时间范围内的考勤数据，因此自定义周期且无起止时间的考核无法获取考勤数据**</span>
+**注意：只读取对应被考核人与考核周期相同时间范围内的考勤数据，因此自定义周期且无起止时间的考核无法获取考勤数据**
 
 
 ### **导入OKR指标，支持空间切换**
@@ -3355,11 +3385,10 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.02更新日志.md -->
 # 2026.02更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFMG6LRYAJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.02更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFMG6LRYAJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、指定评分人支持被考核人**
@@ -3375,7 +3404,7 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 ### ![image.png](assets/c3703ba3ac462c5d63823ce504197395.jpg)
 
-<span style="color: #E53935;">PS：该功能灰度测试中，如果想提前体验，可联系绩效的工作人员开通</span>
+PS：该功能灰度测试中，如果想提前体验，可联系绩效的工作人员开通
 
 
 **三、发起考核-复用历史考核指标支持选择复用的周期**
@@ -3390,11 +3419,10 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.03更新日志.md -->
 # 2026.03更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7lYA9vIQdlmN4RWqjMp697?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.03更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7lYA9vIQdlmN4RWqjMp697?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、批量评分优化**
@@ -3405,9 +3433,9 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 ###### **1.360°评分支持批量评分**![CleanShot 2026-02-28 at 10.23.33@2x.png](assets/0a6911225c10817047199f08602515f7.jpg)
 
-###### **2.**<span style="color: rgb(34, 34, 34);">**批量评分支持职位筛选**</span>
+###### **2.****批量评分支持职位筛选**
 
-场景：<span style="color: rgb(34, 34, 34);">同一考核周期内，组织往往需要同时考核不同职位的员工（如销售、研发、客服、管理岗）。不同职位的考核指标、评分标准、权重配置均存在显著差异。现在支持支持考核人按职位维度快速定位目标被考核人群体，并按该职位专属的评分指标进行批量操作。</span>![CleanShot 2026-02-28 at 10.26.04@2x.png](assets/24f0f36a722c423757e23cb3c18885f7.jpg)
+场景：同一考核周期内，组织往往需要同时考核不同职位的员工（如销售、研发、客服、管理岗）。不同职位的考核指标、评分标准、权重配置均存在显著差异。现在支持支持考核人按职位维度快速定位目标被考核人群体，并按该职位专属的评分指标进行批量操作。![CleanShot 2026-02-28 at 10.26.04@2x.png](assets/24f0f36a722c423757e23cb3c18885f7.jpg)
 
 ###### **3.评分支持查看平均分、手动评级**![CleanShot 2026-03-05 at 15.05.57@2x.png](assets/ebdfdf0ca7fa0069387153131dd816c2.jpg)
 
@@ -3417,7 +3445,7 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 ###### **5.统一评分**
 
-需要与快速评分配合使用，适用于<span style="color: rgb(34, 34, 34); background-color: oklch(0.985 0.001 106.424);">某些指标的评分全员一致时，使用统一评分功能可避免重复操作。管理员选中指标后，填写分数和说明，批量填充至所有选中指标，大幅提升评分效率。</span>
+需要与快速评分配合使用，适用于某些指标的评分全员一致时，使用统一评分功能可避免重复操作。管理员选中指标后，填写分数和说明，批量填充至所有选中指标，大幅提升评分效率。
 
 ![CleanShot 2026-03-05 at 15.07.20@2x.png](assets/682e0ca2a7129712b43b07a3b054b631.jpg)![CleanShot 2026-03-05 at 15.09.28@2x.png](assets/92aea73adbbbcc3c8ef35c88276d6a13.jpg)
 
@@ -3514,7 +3542,7 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 ![image.png](assets/51d83112be736c502058182ade492a6c.jpg)
 
 
-<span style="color: #FB8C00;">**特别注意：自定义类型的考评表，无法自动发起考核**</span>
+**特别注意：自定义类型的考评表，无法自动发起考核**
 
 #### **2、批量设置自动发起考核**
 
@@ -3654,8 +3682,8 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 3、“A1面谈助理”上传面谈内容
 - 面谈完成之后，在钉钉A1录音文件的分析页面，选择“A1面谈助理”
 - “A1面谈助理”会读取当前钉钉账号对应的人员需要提交的面谈
-    - 如果面谈允许使用钉钉A1，则会显示“关联”按钮
-    - 如果面谈不允许使用钉钉A1，则会显示“未开启允许使用钉钉A1”，无法关联
+ - 如果面谈允许使用钉钉A1，则会显示“关联”按钮
+ - 如果面谈不允许使用钉钉A1，则会显示“未开启允许使用钉钉A1”，无法关联
 - 选择对应的面谈，点击“关联”，小助理会根据对应的面谈模板分析录音内容并进行展示
 - 点击“提交面谈内容”，进入面谈提交表单页面，如有必要可以进行编辑，内容无误，则可直接点击“提交”按钮，即完成面谈内容的提交
 
@@ -3706,11 +3734,10 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.04更新日志.md -->
 # 2026.04更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLrOERmDTBOLDblz8lemrZQ3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.04更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLrOERmDTBOLDblz8lemrZQ3?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、指标库导入优化，支持更新指标库指标**
@@ -3769,11 +3796,10 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.05更新日志.md -->
 # 2026.05更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTPNN3x34VB5r9YAn?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.05更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTPNN3x34VB5r9YAn?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、签名可复用，不需要每次都重新签名了**
@@ -3836,11 +3862,10 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.06更新日志.md -->
 # 2026.06更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIr4mxjwKVdqbropQ?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.06更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/ZX6GRezwJl7DnE3eIr4mxjwKVdqbropQ?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、子管理员考核管理范围，增加设置人员（人员、角色、用户组）**
@@ -3959,7 +3984,7 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 具体如何操作，详见：
 
-[智能绩效与AI表格打通](https://alidocs.dingtalk.com/i/p/B3YxXAdwAyEzNy2jPDmrgJ0ZOQKV4Gxd)
+智能绩效与AI表格打通
 
 
 ### **六、移动端支持批量评分**
@@ -4011,18 +4036,17 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.07更新日志.md -->
 # 2026.07更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3REZpoU6rwQ2XOV6EDybno?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.07更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VG3REZpoU6rwQ2XOV6EDybno?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、任务审批人在任务创建后可见、可编辑**
 
 现在在行动计划中创建任务后，可以看见任务审批人。
 
-在系统中设置的任务审批人（任务负责人的直属主管，任务创建人，指定审批人）仅可见，创  建人自选的审批人可以删除、新增。
+在系统中设置的任务审批人（任务负责人的直属主管，任务创建人，指定审批人）仅可见，创 建人自选的审批人可以删除、新增。
 
 ![image.png](assets/d99b78ba9d0169ac650f4dce4ef16d52.jpg)
 
@@ -4111,13 +4135,13 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 #### **3.6 考核流程同步**
 - 考核流程分为三个流程阶段
-    - 指标制定阶段的流程：包括指标制定、指标确认、执行中
-    - 评分阶段的流程：包括结果值录入，及所有的评分节点
-    - 结果处理阶段的流程：包括审核、结果确认、面谈节点
-        - 暂不支持等级校准节点的同步
+ - 指标制定阶段的流程：包括指标制定、指标确认、执行中
+ - 评分阶段的流程：包括结果值录入，及所有的评分节点
+ - 结果处理阶段的流程：包括审核、结果确认、面谈节点
+ - 暂不支持等级校准节点的同步
 - 每个流程阶段的同步，都会重启这个阶段
-    - 可配置是否对已完成流程的被考核人进行同步，如果不影响，则对已完成对应流程的被考核人进行过滤，对应阶段的流程不进行同步
-    - 是否已完成是针对三大流程阶段而言，只有阶段内所有的节点都完成才视为该阶段完成
+ - 可配置是否对已完成流程的被考核人进行同步，如果不影响，则对已完成对应流程的被考核人进行过滤，对应阶段的流程不进行同步
+ - 是否已完成是针对三大流程阶段而言，只有阶段内所有的节点都完成才视为该阶段完成
 
 ![image.png](assets/4a07449b206546578fa743ba5a5baa46.jpg)
 
@@ -4166,7 +4190,7 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 - 此次虚拟组织架构重大升级，不再是平台组织架构、虚拟架构各一份人员信息，而是统一一份人员信息
 - 人员离职、取消授权，也会自动从虚拟组织架构中被移除
 - 默认是在平台中设置的主部门和直属主管，但是可以自定义主部门和直属主管
-    - 自定义主部门只能从虚拟组织架构中选择
+ - 自定义主部门只能从虚拟组织架构中选择
 
 ![image.png](assets/a69e67cd019bb527b813f964a4aec7fd.jpg)
 
@@ -4224,15 +4248,15 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 #### **8.2 结果值录入人和审核人、指定评分人、指定确认人，支持设置主管类型和主管层级**
 - 选择主管支持三种逻辑：
-    - 1、默认主管查询设置，即在「企业设置→关系识别→主管查询设置」中设置的主管查询逻辑
-    - 2、仅直属主管，不查部门主管，而是查直属主管
-    - 3、仅部门主管，不查直属主管，仅查直属主管
-        - 如果配置的是仅部门主管，且同时启用了平台组织架构和虚拟组织架构，可选择主管策略
-            - 所有架构部门主管：即同时去找平台组织架构和虚拟组织架构的部门主管
-            - 优先虚拟组织架构：先找虚拟组织架构的部门主管，找不到虚拟组织架构的部门主管，再去找平台组织架构的部门主管
-            - 优先平台组织架构：先找平台组织架构的部门主管，找不到平台组织架构的部门主管，再去找虚拟组织架构的部门主管
-            - 仅虚拟组织架构：仅找虚拟组织架构的部门主管
-            - 仅平台组织架构：仅找平台组织架构的部门主管
+ - 1、默认主管查询设置，即在「企业设置→关系识别→主管查询设置」中设置的主管查询逻辑
+ - 2、仅直属主管，不查部门主管，而是查直属主管
+ - 3、仅部门主管，不查直属主管，仅查直属主管
+ - 如果配置的是仅部门主管，且同时启用了平台组织架构和虚拟组织架构，可选择主管策略
+ - 所有架构部门主管：即同时去找平台组织架构和虚拟组织架构的部门主管
+ - 优先虚拟组织架构：先找虚拟组织架构的部门主管，找不到虚拟组织架构的部门主管，再去找平台组织架构的部门主管
+ - 优先平台组织架构：先找平台组织架构的部门主管，找不到平台组织架构的部门主管，再去找虚拟组织架构的部门主管
+ - 仅虚拟组织架构：仅找虚拟组织架构的部门主管
+ - 仅平台组织架构：仅找平台组织架构的部门主管
 - 支持选择主管层级，以及找不到主管时，是否继续向上找上级主管来代替
 - 此处升级包括指标库中的指标配置、考评表中的指标配置、已发起考核中调整指标配置
 - 此处升级当前仅支持人员考核，暂不支持部门考核
@@ -4242,15 +4266,15 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 #### **8.3 考评表流程节点主管设置，支持设置主管类型和主管层级**
 - 选择主管支持三种逻辑：
-    - 1、默认主管查询设置，即在「企业设置→关系识别→主管查询设置」中设置的主管查询逻辑
-    - 2、仅直属主管，不查部门主管，而是查直属主管
-    - 3、仅部门主管，不查直属主管，仅查直属主管
-        - 如果配置的是仅部门主管，且同时启用了平台组织架构和虚拟组织架构，可选择主管策略
-            - 所有架构部门主管：即同时去找平台组织架构和虚拟组织架构的部门主管
-            - 优先虚拟组织架构：先找虚拟组织架构的部门主管，找不到虚拟组织架构的部门主管，再去找平台组织架构的部门主管
-            - 优先平台组织架构：先找平台组织架构的部门主管，找不到平台组织架构的部门主管，再去找虚拟组织架构的部门主管
-            - 仅虚拟组织架构：仅找虚拟组织架构的部门主管
-            - 仅平台组织架构：仅找平台组织架构的部门主管
+ - 1、默认主管查询设置，即在「企业设置→关系识别→主管查询设置」中设置的主管查询逻辑
+ - 2、仅直属主管，不查部门主管，而是查直属主管
+ - 3、仅部门主管，不查直属主管，仅查直属主管
+ - 如果配置的是仅部门主管，且同时启用了平台组织架构和虚拟组织架构，可选择主管策略
+ - 所有架构部门主管：即同时去找平台组织架构和虚拟组织架构的部门主管
+ - 优先虚拟组织架构：先找虚拟组织架构的部门主管，找不到虚拟组织架构的部门主管，再去找平台组织架构的部门主管
+ - 优先平台组织架构：先找平台组织架构的部门主管，找不到平台组织架构的部门主管，再去找虚拟组织架构的部门主管
+ - 仅虚拟组织架构：仅找虚拟组织架构的部门主管
+ - 仅平台组织架构：仅找平台组织架构的部门主管
 - 支持选择主管层级，以及找不到主管时，是否继续向上找上级主管来代替
 - 此处升级包括指标库中的指标配置、考评表中的指标配置、已发起考核中调整指标配置
 - 此处升级当前仅支持人员考核，暂不支持部门考核
@@ -4263,11 +4287,10 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 <!-- 原文定位：🕖 九、更新日志/2026.08更新日志.md -->
 # 2026.08更新日志
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUlQNPeYLVzN67Mw4?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2026.08更新日志
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJP3OE40NUlQNPeYLVzN67Mw4?utm_scene=team_space
 > 知识库路径：🕖 九、更新日志
 
 ### **一、考核总分支持公式计算**
@@ -4287,14 +4310,14 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 考核总分可以配置计分公式
 - 计分公式的参数来源
-    - 维度数据：
-        - 维度权重
-        - 维度总分
-    - 指标数据：指标数据都是数组，不能配置具体的指标，在计算总分的时候，根据维度内的指标数据进行计算，如：SUM（业务指标.指标得分\[ \]），即将“业务指标”维度内的所有指标得分相加。支持的指标数据：
-        - 指标得分
-            - 如果维度配置的加权计算，则指标得分在评分人的评分数据上要乘以指标权重；如果是维度权重参与计算，则指标得分在评分人的评分数据上要乘以维度权重
-        - 指标权重
-        - 所有开启了参与公式计算的维度指标字段
+ - 维度数据：
+ - 维度权重
+ - 维度总分
+ - 指标数据：指标数据都是数组，不能配置具体的指标，在计算总分的时候，根据维度内的指标数据进行计算，如：SUM（业务指标.指标得分\[ \]），即将“业务指标”维度内的所有指标得分相加。支持的指标数据：
+ - 指标得分
+ - 如果维度配置的加权计算，则指标得分在评分人的评分数据上要乘以指标权重；如果是维度权重参与计算，则指标得分在评分人的评分数据上要乘以维度权重
+ - 指标权重
+ - 所有开启了参与公式计算的维度指标字段
 - 可通过函数、运算符和参数，来配置对应的计分公式。具体函数的计算方式，将公式编辑器的描述
 - 每个维度，指标得分的计算逻辑，可单独配置加和计算还是加权计算
 
@@ -4325,15 +4348,15 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 
 在导出的模板中，新增了一列“评分节点”，该字段包含该被考核人所配置的部分评分的评分节点，旁边一列“评分人”填写该指标支持的评分节点。
 
-如下方截图所显示，该被考核人配置的部分评分的节点包括：1、自评，2、直接主管评分  3、同级互评；则在评分人可选择该只评需要的评分节点及对应的权重填写在“评分人”一列中，评分节点请填写对应的序号，多个节点以分号相隔。格式如：1,20%;2,80，即该指标评分节点包含自评（权重20%）和直接主管评分（权重80%）。
+如下方截图所显示，该被考核人配置的部分评分的节点包括：1、自评，2、直接主管评分 3、同级互评；则在评分人可选择该只评需要的评分节点及对应的权重填写在“评分人”一列中，评分节点请填写对应的序号，多个节点以分号相隔。格式如：1,20%;2,80，即该指标评分节点包含自评（权重20%）和直接主管评分（权重80%）。
 
 ![image.png](assets/6a918df9b84b660bafb6cee4eca7a8ab.jpg)
 
 
 #### **2.3 批量指标制定新增对评分组的兼容**
 - 导出模板，如果指标设置的是输入框手动输入或者评分组，则会显示为“手动输入”
-    - 如果导入的时候，还是“手动输入”，则不改变原来的评分方式
-    - 如果导入的时候是公式计算，则由原来的评分方式变为公式算分
+ - 如果导入的时候，还是“手动输入”，则不改变原来的评分方式
+ - 如果导入的时候是公式计算，则由原来的评分方式变为公式算分
 - 导出模板，如果指标设置的是公式算分，导入的时候变为“手动输入”，则会更改为考评表中对应维度设置的默认评分方式
 - 如果是在导出模板中新增的指标，导入的时候评分方式为“手动输入”，则会设置为考评表中对应维度设置的默认评分方式
 
@@ -4380,7 +4403,7 @@ PS：开启后，若要关闭，需要确保指标库中没有重名指标，否
 在企业设置→绩效考核→绩效结果和等级中，新增配置项：考核详情页指标总分显示，有三个选项：
 - 所有考核详情页都不显示指标总分
 - 所有考核详情页都显示指标总分
-    - 无论是按指标设置流程，还是按评分人设置流程（无论是否开启部分评分），都显示
+ - 无论是按指标设置流程，还是按评分人设置流程（无论是否开启部分评分），都显示
 - 仅部分评分、按指标设置流程考核详情页显示指标总分
 
 ![image.png](assets/c78def0ff1fdc31d01833403570a39f1.jpg)

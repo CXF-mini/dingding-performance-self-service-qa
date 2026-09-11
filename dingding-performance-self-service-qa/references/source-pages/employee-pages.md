@@ -5,11 +5,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【我的考核】.md -->
 # 【我的考核】
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgeMxqdJzlwrZgb?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 【我的考核】
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YMyQA2dXW793XxEYFDgeMxqdJzlwrZgb?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工
 
 入口1：首页-我的考核
@@ -31,11 +30,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【目标地图】.md -->
 # 【目标地图】
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUaog5pZ2JGlDd3mE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 【目标地图】
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUaog5pZ2JGlDd3mE?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工
 
 **目标地图，无缝衔接公司战略拆解、构建战略地图，实现组织-部门-个人三级穿透式对齐，确保全员力出一孔**
@@ -84,14 +82,14 @@
 
 ##### **2.1 按部门/人员分解**
 - 结果值
-    - 累加：分解后的目标结果值会自动累加到当前目标，适用于销售额、客户数等量化指标
-    - 不累加：各自的结果值不会自动累加，适用于好评率、退货率等百分比指标
+ - 累加：分解后的目标结果值会自动累加到当前目标，适用于销售额、客户数等量化指标
+ - 不累加：各自的结果值不会自动累加，适用于好评率、退货率等百分比指标
 - 目标制定
-    - 由我制定：分解目标时就制定下一级目标，下级会收到通知，无法修改目标
-    - 由承接方制定：分解目标时只选人，不制定目标，被选择的人员会收到通知后进入系统进行目标承接制定
+ - 由我制定：分解目标时就制定下一级目标，下级会收到通知，无法修改目标
+ - 由承接方制定：分解目标时只选人，不制定目标，被选择的人员会收到通知后进入系统进行目标承接制定
 - 目标可见权限
-    - 承接方可以看到此目标
-    - 承接方可以互相看目标
+ - 承接方可以看到此目标
+ - 承接方可以互相看目标
 
 由我制定
 
@@ -138,7 +136,7 @@
 
 ![image.png](assets/9424c361dd72756d633051dc8a64f5cd.jpg)
 
-⚠️如果目标被引用到考核中进行考核  那么结果值目前只支持在考核内进行更新且目标提交之后才会同步到目标地图哦
+⚠️如果目标被引用到考核中进行考核 那么结果值目前只支持在考核内进行更新且目标提交之后才会同步到目标地图哦
 
 ![image.png](assets/a36e016a1701862fb703e3b9bced90a7.jpg)
 - 行为价值观：点击更新进展之后会出现更新进展弹窗，可以在弹窗内进行进展更新
@@ -164,11 +162,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】.md -->
 # 【考核管理】
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglE2LjQVBQEx5rG?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 【考核管理】
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eE9YXUglE2LjQVBQEx5rG?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工
 
 *（该文档当前无正文内容）*
@@ -179,43 +176,42 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【行动计划】.md -->
 # 【行动计划】
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLAE2pHXvYkXZMVKe0xjE3?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 【行动计划】
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLAE2pHXvYkXZMVKe0xjE3?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工
 
 **将目标拆解为日常工作任务，明确目标达成路径；实时跟踪目标进度，及时发现风险，快速协同资源**
 
-#### <span style="color: #262626;">**使用场景**</span>
+#### **使用场景**
 
-<span style="color: #262626;">发起考核后，可以对考核过程进行管理</span>，<span style="color: #262626;">被考核人自己可以针对具体某个指标，制定相应的工作计划、拆分工作任务，也可以针对日常的工作事项，去制定任务，</span>
+发起考核后，可以对考核过程进行管理，被考核人自己可以针对具体某个指标，制定相应的工作计划、拆分工作任务，也可以针对日常的工作事项，去制定任务，
 
-<span style="color: #262626;">①使员工工作更加聚焦，形成PDCA闭环</span>
+①使员工工作更加聚焦，形成PDCA闭环
 
-<span style="color: #262626;">②作为后期自评、上级评分的评分依据，让考评更公正透明</span>
+②作为后期自评、上级评分的评分依据，让考评更公正透明
 
-<span style="color: #f5222d;">亮点：</span>
-- <span style="color: #262626;">所有考核环节，被考核人都可对指标制定相应行动计划；</span>
-- <span style="color: #262626;">对于已经填写好的行动计划，支持在线修正或删除；</span>
+亮点：
+- 所有考核环节，被考核人都可对指标制定相应行动计划；
+- 对于已经填写好的行动计划，支持在线修正或删除；
 
-<span style="color: #f5222d;">注意：</span>
+注意：
 
-<span style="color: #262626;">被考核人可以在自己考核指标下添加行动计划；</span>
+被考核人可以在自己考核指标下添加行动计划；
 
-<span style="color: #262626;">主管可以在部门员工的考核指标下为其添加行动，即分配任务；</span>
+主管可以在部门员工的考核指标下为其添加行动，即分配任务；
 
-<span style="color: #262626;">管理员可为管理范围内的员工添加行动计划，即分配任务</span>
+管理员可为管理范围内的员工添加行动计划，即分配任务
 
-**总体流程：**创建行动计划/任务（负责人、起止时间）—\> 更新计划/任务进展 —\>  完成计划/任务
+**总体流程：**创建行动计划/任务（负责人、起止时间）—\> 更新计划/任务进展 —\> 完成计划/任务
 
-#### <span style="color: #262626;">**如何创建行动计划**</span>
+#### **如何创建行动计划**
 1. **考核过程中添加行动计划，默认与指标关联**
 
-<span style="color: #262626;">操作步骤：</span>
+操作步骤：
 
-<span style="color: #262626;">点击【行动计划】进行添加，可以直接通过【行动计划】来添加工作计划、拆解工作任务，添加后，任务会汇总到【计划】板块，可在计划板块去做调整和修改</span>
+点击【行动计划】进行添加，可以直接通过【行动计划】来添加工作计划、拆解工作任务，添加后，任务会汇总到【计划】板块，可在计划板块去做调整和修改
 
 ![image.png](assets/1234b0605e9271b24ff6f4702211513e.jpg)
 
@@ -227,31 +223,31 @@
 
 ![image.png](assets/c025413673f4d9e74025a07b503c23ac.jpg)
 
-<span style="color: rgba(0, 0, 0, 0.85);">②任务可编辑和修改,特别是任务状态</span>
+②任务可编辑和修改,特别是任务状态
 
 ![image.png](assets/c2b85e404c3499a8052de5d7d149d9f8.jpg)
 
-<span style="color: rgba(0, 0, 0, 0.85);">③任务可生成周报，和钉钉日志打通</span>
+③任务可生成周报，和钉钉日志打通
 
 ![image.png](assets/732e297447a4f231466085d4b304c1e2.jpg)
 
-<span style="color: #FE0300;">注意：计划直接生成钉钉周报，需要管理员【先创建绩效的钉钉日志模板】</span>
+注意：计划直接生成钉钉周报，需要管理员【先创建绩效的钉钉日志模板】
 
-<span style="color: rgba(0, 0, 0, 0.85);">钉钉</span><span style="color: rgb(38, 38, 38);">日志应用的管理员可以在手机端、电脑访问</span><span style="color: #FE0300;">钉钉日志应用</span><span style="color: rgb(38, 38, 38);">，创建日志模板</span>
+钉钉日志应用的管理员可以在手机端、电脑访问钉钉日志应用，创建日志模板
 
 ##### **计划板块，可以添加任务**
 
-<span style="color: #262626;">计划板块，支持单个新增任务，也可以批量新增</span>
+计划板块，支持单个新增任务，也可以批量新增
 
-###### <span style="color: #262626;">**单个新增**</span>
+###### **单个新增**
 
-<span style="color: #262626;">到计划板块，点击创建任务，输入任务名称，也可以跟考核中的指标关联</span>
+到计划板块，点击创建任务，输入任务名称，也可以跟考核中的指标关联
 
 ![image.png](assets/8f9000f3e0e977ae7ebe00a1022874f9.jpg)
 
-###### <span style="color: #262626;">**批量新增**</span>
+###### **批量新增**
 
-<span style="color: #262626;">复制任务的内容，粘贴到输入框内，点击识别（负责人默认是本人，可修改），再设置下截止时间，点击创建任务即可，如下图：</span>
+复制任务的内容，粘贴到输入框内，点击识别（负责人默认是本人，可修改），再设置下截止时间，点击创建任务即可，如下图：
 
 ![image.png](assets/4444ddda621a9181c720e9ff40b2698d.jpg)
 
@@ -259,29 +255,29 @@
 
 ![image.png](assets/3006d636347015ff3de449094e7d714c.jpg)
 
-##### <span style="color: #262626;">**行动计划一键生成工作周报**</span>
+##### **行动计划一键生成工作周报**
 
-<span style="color: #262626;">需要管理员先设置好</span><span style="color: #FE0300;">**日志模板**</span><span style="color: #262626;">，员工就可以点击【行动计划】-右上角【生成周报】来进行。钉钉日志应用的管理员可以在手机端、电脑访问日志应用，创建日志模板</span>，<span style="color: #262626;">**钉钉日志模板要求：**</span>
+需要管理员先设置好**日志模板**，员工就可以点击【行动计划】-右上角【生成周报】来进行。钉钉日志应用的管理员可以在手机端、电脑访问日志应用，创建日志模板，**钉钉日志模板要求：**
 
-<span style="color: #262626;">1.日志模板的名称必须为：</span><span style="color: #262626;">**工作周报**</span>
+1.日志模板的名称必须为：**工作周报**
 
-<span style="color: #262626;">2.日志模板必须包含字段名称为：</span><span style="color: #FE0300;">**“行动计划”**</span><span style="color: #262626;">，类型为</span><span style="color: #FE0300;">**"文本"**</span><span style="color: #262626;">的控件</span>
+2.日志模板必须包含字段名称为：**“行动计划”**，类型为**"文本"**的控件
 
 ![image.png](assets/d26d2daf2aebc6cc6c91eb67ccebd4fc.jpg)
 
 ![image.png](assets/521a9f1816544602d52a1f7a99a9cec5.jpg)
 
-<span style="color: #262626;">**3.任务支持筛选**</span>
+**3.任务支持筛选**
 
-<span style="color: #262626;">生成周报时，可通过筛选条件，选择需要提交的任务，筛选条件支持多选</span>
+生成周报时，可通过筛选条件，选择需要提交的任务，筛选条件支持多选
 
-<span style="color: #262626;">当任务很多的情况下，只想提交本周创建的任务，可选择筛选条件：【创建时间】【是】【本周】</span>，<span style="color: #262626;">再批量全选，提交即可</span>
+当任务很多的情况下，只想提交本周创建的任务，可选择筛选条件：【创建时间】【是】【本周】，再批量全选，提交即可
 
 ![image.png](assets/80af02880d035235511f5bfb163b5444.jpg)
 
 ![image.png](assets/758a0c8f330d64af1b595bc4e38a2dc2.jpg)
 
-#### <span style="color: #262626;">**查看任务-计划模块**</span>
+#### **查看任务-计划模块**
 
 1、**查看**：在计划模块页面左侧，可查看我的任务、我部门的任务，**全部任务只有管理员可以看到**，方便更好地查看和管理。
 
@@ -299,7 +295,7 @@
 
 ![image.png](assets/3ff08bc85536938091253bc6feccd682.jpg)
 
-#### <span style="color: #262626;">**完成任务**</span>
+#### **完成任务**
 
 点击任务旁边的圈圈，完成任务，也可点击任务名称，到任务页面，点击完成任务，完成的任务会在【已完成任务】里面
 
@@ -313,16 +309,15 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【首页】.md -->
 # 【首页】
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/gvNG4YZ7JneMREKouZY7rlybV2LD0oRE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 【首页】
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/gvNG4YZ7JneMREKouZY7rlybV2LD0oRE?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工
 
 首页-工作事项，消息包含结果抄送的通知事项。若有抄送给您的绩效数据，会在消息里面显示。消息支持按“未读、已读”分类筛选查看。
 
-<span style="color: #FE0300;">消息来源：抄送消息。</span>
+消息来源：抄送消息。
 
 ![image.png](assets/e171e70939d5f22b1ff1dc0595aecf52.jpg)
 
@@ -356,11 +351,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】/1、如何制定目标.md -->
 # 1、如何制定目标
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZQa1PVGXn6lpz?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 1、如何制定目标
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IMnZQa1PVGXn6lpz?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工/【考核管理】
 
 **场景：**当员工的目标不是由上一级主管或HR制定好下发的，则需要员工自己制定绩效目标。
@@ -425,9 +419,9 @@
 
 **4、指标字段说明：**
 
-➢  **结果值录入人：**针对可量化的指标，可以开启结果值录入人，录入指标的完成情况（按需要开启，不是必须设置）
+➢ **结果值录入人：**针对可量化的指标，可以开启结果值录入人，录入指标的完成情况（按需要开启，不是必须设置）
 
-➢  **指定评分人：**开启指定评分人，则表示这一个指标，只需要指定的人打分，不需要自评了，按需要设置
+➢ **指定评分人：**开启指定评分人，则表示这一个指标，只需要指定的人打分，不需要自评了，按需要设置
 
 
 ---
@@ -435,11 +429,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】/2、如何确认目标.md -->
 # 2、如何确认目标
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7v21zJGlDd3mE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 2、如何确认目标
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7v21zJGlDd3mE?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工/【考核管理】
 
 **场景：**当员工的绩效目标是由领导（主管/HR）下发，并且员工需要做复核的，那么员工需要对领导制定的指标进行确认
@@ -500,11 +493,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】/3、结果值录入.md -->
 # 3、结果值录入
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zKk2oVxEKBD6p?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 3、结果值录入
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/amweZ92PV6vZkxEbu93zKk2oVxEKBD6p?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工/【考核管理】
 
 **场景：**当考核指标有设置目标值，并设置了结果值录入人，当考核在执行中的时候，结果值录入人可以更新结果值（也可以不更新，系统不做强制要求），管理员发起评分之后，更新结果值消失，需要录入结果值
@@ -536,11 +528,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】/4、自评.md -->
 # 4、自评
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw2BL4kV9dEq3XD?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 4、自评
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NbEv4Ikw2BL4kV9dEq3XD?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工/【考核管理】
 
 管理员发起评分之后，会进入评分环节，如果需要员工自评，则流程会流转到自评节点，被考核人会收到消息通知
@@ -585,11 +576,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】/5、填写绩效面谈.md -->
 # 5、填写绩效面谈
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7v2kjJGlDd3mE?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 5、填写绩效面谈
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Y1OQX0akWm3g7EydUad7v2kjJGlDd3mE?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工/【考核管理】
 
 **场景：**考核结束之后，若企业有需要做绩效面谈，则管理员可以线上发起绩效面谈的流程，面谈的内容可以由管理员设置，面谈的流程，需要管理员先公示结果
@@ -612,11 +602,10 @@
 <!-- 原文定位：🕑 二、产品操作手册/员工/【考核管理】/6、确认考核结果.md -->
 # 6、确认考核结果
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gj0B2Wgk9rpMq?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 6、确认考核结果
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/mExel2BLV54XNxercv1gj0B2Wgk9rpMq?utm_scene=team_space
 > 知识库路径：🕑 二、产品操作手册/员工/【考核管理】
 
 **场景：**管理员结果公示之后，若需要员工确认考核结果的话，会发起结果确认的流程，员工会收到绩效的待办通知，若企业没有结果确认的流程，则不需要操作

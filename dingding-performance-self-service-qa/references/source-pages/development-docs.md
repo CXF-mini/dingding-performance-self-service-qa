@@ -5,38 +5,37 @@
 <!-- 原文定位：绩效互通能力&开发文档.md -->
 # 绩效互通能力&开发文档
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTlxvE6QOV6zbX04v?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 绩效互通能力&开发文档
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTlxvE6QOV6zbX04v?utm_scene=team_space
 > 知识库路径：智能绩效帮助中心【专业版】
 
 调用接口前需获取安全密钥，请参考下文获取。
 
-[获取安全密钥](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/YQBnd5ExVEwmG2reH0rbjenA8yeZqMmz)
+获取安全密钥
 
 
 考核接口：
 
-[考核结果数据同步接入文档](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/7NkDwLng8ZM3Epg7HaGMb0wOJKMEvZBY)
+考核结果数据同步接入文档
 
-[结果值外部结果同步接入文档](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/7NkDwLng8ZM3Epg7HaGMrLeAJKMEvZBY)
+结果值外部结果同步接入文档
 
 
 OKR接口：
 
-[获取项目列表](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/7NkDwLng8ZM3Epg7HaGe0P0RJKMEvZBY)
+获取项目列表
 
-[获取周期列表](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/QG53mjyd80Rj9xEaTlxbQqZmV6zbX04v)
+获取周期列表
 
-[获取周期内目标列表](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/jb9Y4gmKWr7lAED9IQwpXll1VGXn6lpz)
+获取周期内目标列表
 
-[获取目标下的任务列表](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/Obva6QBXJw9lAEkNFQm6X6eYWn4qY5Pr)
+获取目标下的任务列表
 
-[获取目标操作记录](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/G1DKw2zgV2RXgOEnTBlD2pNvVB5r9YAn)
+获取目标操作记录
 
-[更新关键结果进度](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/7NkDwLng8ZM3Epg7HaGME7ZYJKMEvZBY)
+更新关键结果进度
 
 
 ---
@@ -44,11 +43,10 @@ OKR接口：
 <!-- 原文定位：绩效互通能力&开发文档/待办回调接入文档.md -->
 # 待办回调接入文档
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUwD4v9mnWyMoPYe1?utm_scene=team_space
+原文链接：未在页面正文检测到独立链接
 
 # 待办回调接入文档
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/kDnRL6jAJM3AE0ngUwD4v9mnWyMoPYe1?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### **签名**
@@ -60,72 +58,72 @@ OKR接口：
 * @param corpId 授权的企业corpId
 */
 public static String calcSignature1(String secret, long timestamp,
-  String appId, String corpId) throws NoSuchAlgorithmException, InvalidKeyException{
-  Mac mac = Mac.getInstance("HmacSHA256");
-  SecretKeySpec key = new SecretKeySpec(secret.getBytes(), "HmacSHA256");
-  mac.init(key);
-  mac.update(appId.getBytes());
-  mac.update(corpId.getBytes());
-  byte[] bytes = mac.doFinal(Long.toString(timestamp).getBytes());
-  return Base64.getEncoder().encodeToString(bytes);
+ String appId, String corpId) throws NoSuchAlgorithmException, InvalidKeyException{
+ Mac mac = Mac.getInstance("HmacSHA256");
+ SecretKeySpec key = new SecretKeySpec(secret.getBytes(), "HmacSHA256");
+ mac.init(key);
+ mac.update(appId.getBytes());
+ mac.update(corpId.getBytes());
+ byte[] bytes = mac.doFinal(Long.toString(timestamp).getBytes());
+ return Base64.getEncoder().encodeToString(bytes);
 }
 ```
 
-### <span style="color: rgb(37, 39, 42);">**配置HTTP数据推送**</span>
+### **配置HTTP数据推送**
 
-#### <span style="color: rgb(37, 39, 42);">**回调说明**</span>
+#### **回调说明**
 
-智能绩效会向第三方企业应用推送订阅的回调事件，目前仅提供考核结果订阅。通过订阅这些事件， 
+智能绩效会向第三方企业应用推送订阅的回调事件，目前仅提供考核结果订阅。通过订阅这些事件，
 
-在绩效内完成考核，结果变更，已完成的考核删除时，会将相关的结果和状态数据推送到第三方企业 
+在绩效内完成考核，结果变更，已完成的考核删除时，会将相关的结果和状态数据推送到第三方企业
 
-中，以便企业完成自己的业务。目前支持的推送方法是HTTP推送 
+中，以便企业完成自己的业务。目前支持的推送方法是HTTP推送
 
-#### <span style="color: rgb(37, 39, 42);">**注册回调事件流程**</span>
+#### **注册回调事件流程**
 
-<span style="color: rgb(37, 39, 42);">回调事件订阅的流程如下图所示。</span> 
+回调事件订阅的流程如下图所示。
 
-<span style="color: rgb(37, 39, 42);">首先，开发者需要在绩效设置页面配置HTTP请求地址用于接收推送的事件数据。在配置完请求地址</span> 
+首先，开发者需要在绩效设置页面配置HTTP请求地址用于接收推送的事件数据。在配置完请求地址
 
-<span style="color: rgb(37, 39, 42);">后，绩效应用会向该地址发送POST请求，只有在规定时间内正确返回了"success"字符串才完成事件</span> 
+后，绩效应用会向该地址发送POST请求，只有在规定时间内正确返回了"success"字符串才完成事件
 
-<span style="color: rgb(37, 39, 42);">订阅。</span> 
+订阅。
 
 ![image.png](assets/0efddb6df561c4f16bdea11613b60bcc.jpg)
 
-#### <span style="color: rgb(37, 39, 42);">**配置请求地址和订阅回调事件**</span>
+#### **配置请求地址和订阅回调事件**
 
-<span style="color: rgb(37, 39, 42);">企业需要完成“申请开放服务”，获取分配的appId和secret，开通企业开放功能，配置HTTP回调</span> 
+企业需要完成“申请开放服务”，获取分配的appId和secret，开通企业开放功能，配置HTTP回调
 
-<span style="color: rgb(37, 39, 42);">URL。当企业订阅的事件触发时，绩效系统会向该网址发送相应的 HTTP POST 请求。</span> 
+URL。当企业订阅的事件触发时，绩效系统会向该网址发送相应的 HTTP POST 请求。
 
-<span style="color: rgb(37, 39, 42);">开通好企业开放服务后，管理员可以在设置页面查看到开放信息，注册回调时，需要将回调地址配置</span> 
+开通好企业开放服务后，管理员可以在设置页面查看到开放信息，注册回调时，需要将回调地址配置
 
-<span style="color: rgb(37, 39, 42);">到页面的“请求网址URL”中</span> 
+到页面的“请求网址URL”中
 
 ![image.png](assets/01a7b5a4f1fc1b345c19ca0e93b7d556.jpg)
 
-配置完成后，单击确认/编辑按钮时，系统会向你配置的网址推送一个application/json格式的 POST 
+配置完成后，单击确认/编辑按钮时，系统会向你配置的网址推送一个application/json格式的 POST
 
 请求, 用于验证你配置的网址的合法性。如下所示：
 ```json
 {
-  "corpId": "dingxxxxxx7fe",
-  "data": "见 推送数据格式 jsonString",
-  "eventName": "CHECK_CALLBACK_URL",
-  "recordId": "1ftp6l87d1tmw1e8i1w26c0fd53433jj",
-  "signature": "bOYWT3fjQtUQ1bDHmR6pa7UqjGtn4ZrMA0xtVlFy3jg=",
-  "timestamp": 1646892063003
+ "corpId": "dingxxxxxx7fe",
+ "data": "见 推送数据格式 jsonString",
+ "eventName": "CHECK_CALLBACK_URL",
+ "recordId": "1ftp6l87d1tmw1e8i1w26c0fd53433jj",
+ "signature": "bOYWT3fjQtUQ1bDHmR6pa7UqjGtn4ZrMA0xtVlFy3jg=",
+ "timestamp": 1646892063003
 }
 ```
 
-#### <span style="color: rgb(37, 39, 42);">**推送数据说明**</span>
+#### **推送数据说明**
 - corpId：企业 id
-- data：<span style="color: rgb(37, 39, 42);">推送数据内容，json格式的字符串，根据不同的eventName，内容不同</span>
-- eventName：<span style="color: rgb(37, 39, 42);">推送的事件名称</span>
-- recordId：<span style="color: rgb(37, 39, 42);">本次推送的recordId</span>
-- <span style="color: rgb(37, 39, 42);">signature</span>：<span style="color: rgb(37, 39, 42);">签名，详见接口文档中的签名规则说明</span> 
-- timestamp：<span style="color: rgb(37, 39, 42);">时间戳</span>
+- data：推送数据内容，json格式的字符串，根据不同的eventName，内容不同
+- eventName：推送的事件名称
+- recordId：本次推送的recordId
+- signature：签名，详见接口文档中的签名规则说明
+- timestamp：时间戳
 
 #### **推送数据格式**
 
@@ -134,22 +132,22 @@ public static String calcSignature1(String secret, long timestamp,
 创建/更新待办
 ```json
 {
-  "id": "",
-  "eventType": "todo.task.create",
-  "title": "",
-  "clickType": "",
-  "clickTypeName": "",
-  "userId": "",
-  "url": ""
+ "id": "",
+ "eventType": "todo.task.create",
+ "title": "",
+ "clickType": "",
+ "clickTypeName": "",
+ "userId": "",
+ "url": ""
 }
 ```
 
 完成/删除待办
 ```json
 {
-  "id": "",
-  "eventType": "todo.task.complete|todo.task.delete",
-  "userId": ""
+ "id": "",
+ "eventType": "todo.task.complete|todo.task.delete",
+ "userId": ""
 }
 ```
 
@@ -173,12 +171,12 @@ CHECK_GRADE("等级校验"),
 /**积分制结果值*/
 RESULT_UPDATE("积分制结果值"),
 
-   /**结果确认**/
-   CONFIRM("结果确认"),
-   /**结果申诉**/
-   APPEAL("结果申诉"),
-   /**结果再次确认**/
-   CONFIRM_AGAIN("结果再次确认"),
+ /**结果确认**/
+ CONFIRM("结果确认"),
+ /**结果申诉**/
+ APPEAL("结果申诉"),
+ /**结果再次确认**/
+ CONFIRM_AGAIN("结果再次确认"),
 
 /**用户调转 */
 USER_TRANSFER("用户调转"),
@@ -198,11 +196,11 @@ INVITE_CONFIRM("360 确认"),
 /** 360 评分 16 */
 INVITE_EVAL("360 评分"),
 
-   /**OKR任务**/
-   OKR_TASK("OKR任务"),
+ /**OKR任务**/
+ OKR_TASK("OKR任务"),
 
-   /**okr目标审批**/
-   OKR_APPROVAL("okr目标审批"),
+ /**okr目标审批**/
+ OKR_APPROVAL("okr目标审批"),
 
 /**指标制定驳回 19*/
 MAKE_REJECT("指标制定驳回")
@@ -214,11 +212,10 @@ MAKE_REJECT("指标制定驳回")
 <!-- 原文定位：绩效互通能力&开发文档/智能绩效互通能力.md -->
 # 智能绩效互通能力
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSKkL0goRV9ekBD76?utm_scene=team_space
+原文链接：https://open.dingtalk.com/](https://open.dingtalk.com/
 
 # 智能绩效互通能力
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5N2E7lSKkL0goRV9ekBD76?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### **绩效与AI表格**
@@ -372,13 +369,13 @@ MAKE_REJECT("指标制定驳回")
 ![image.png](assets/6618904bc6af472fdf0d83ec48071fa8.jpg)
 
 
-<span style="color: #FB8C00;">**注意：只读取对应被考核人与考核周期相同时间范围内的考勤数据，因此自定义周期且无起止时间的考核无法获取考勤数据**</span>
+**注意：只读取对应被考核人与考核周期相同时间范围内的考勤数据，因此自定义周期且无起止时间的考核无法获取考勤数据**
 
 ### **绩效与**智能薪酬
 
 #### **应用场景：考核结果、绩效等级、绩效系数等数据同步到智能薪酬用于算薪。**
 
-使用说明链接：[同步智能绩效数据使用说明](https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7mZD2bIkoAgAoEV9dEq3XD?cid=76087812%3A260406729&doc_type=wiki_doc&utm_source=im&utm_scene=team_space&iframeQuery=utm_medium%3Dim_card%26utm_source%3Dim&utm_medium=im_card&corpId=ding41944dc8209e65a835c2f4657eb6378f)
+使用说明链接：同步智能绩效数据使用说明
 
 
 ### **绩效的API接口**
@@ -386,7 +383,7 @@ MAKE_REJECT("指标制定驳回")
 #### **应用场景一：绩效考核结果等业务数据对接外部系统；**
 1. 订阅、批量查询用户考核结果支持说明文档，见附件；
 
-[考核结果数据同步接入文档2025.08.21.pdf](https://alidocs2.oss-cn-zhangjiakou.aliyuncs.com/res/5VLqXLbvoNRYxqX1/att/d4df058a-4059-48e3-aee7-04197535b467.pdf?Expires=1789103093&OSSAccessKeyId=LTAI5tKTjg4Kq1HCdBJ8qpSp&Signature=d2fPWyHFoiLTp7tDh%2FV0Sef7I7k%3D)
+考核结果数据同步接入文档2025.08.21.pdf
 
 2. 联系智能绩效售后申请开放API接口；
 3. API接口开放后，查看路径：设置-企业设置-其他-数据连接-开发者信息![api接口查询路径.png](assets/e76e2c5ded29e004afea234857c33dc1.jpg)
@@ -399,7 +396,7 @@ MAKE_REJECT("指标制定驳回")
 
 #### **快速了解**
 
-钉钉 AI 面谈小助理是<span style="color: #1564DC;">**DingTalk A1**</span>与<span style="color: #FB8C00;">**智能绩效**</span>强强联手打造的一款软硬件结合产品，通过<span style="color: #D16A15;">自动记录面谈沟通对话，自动生成 AI 面谈纪要、待办任务与分析报告</span>，并无缝链接智能绩效，智能生成绩效面谈和改进计划，极大提升日常面谈效率。
+钉钉 AI 面谈小助理是**DingTalk A1**与**智能绩效**强强联手打造的一款软硬件结合产品，通过自动记录面谈沟通对话，自动生成 AI 面谈纪要、待办任务与分析报告，并无缝链接智能绩效，智能生成绩效面谈和改进计划，极大提升日常面谈效率。
 
 ![image.png](assets/8e2c32f704647ff0ca790ddb79e8a0c6.jpg)
 
@@ -407,7 +404,7 @@ MAKE_REJECT("指标制定驳回")
 #### **核心功能与价值**
 
 :::
-<span style="color: linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%);">**1、DingTalkA1 - 随时随地无感记录沟通信息**</span>
+**1、DingTalkA1 - 随时随地无感记录沟通信息**
 
 **支持通话录音**外放录音和通话录音都自动支持，无需操作切换；
 **支持面对面沟通翻译**不管是客户到公司还是参加展会，都可以面对面相互翻译，进行无障碍沟通；
@@ -423,7 +420,7 @@ MAKE_REJECT("指标制定驳回")
 :::
 
 :::
-<span style="color: linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%);">**2、A1面谈小助理 - 让 AI 参与每次面谈并输出专业分析与洞察**</span>
+**2、A1面谈小助理 - 让 AI 参与每次面谈并输出专业分析与洞察**
 
 **智能生成面谈总结**不仅仅输出面谈纪要，还可以针对面谈过程输出专业的面谈分析报告，让 AI 和你一起参与面谈并给出建议；
 **无缝衔接智能绩效**绩效面谈过程不再需要花精力记录整理，专注与被考核人进行沟通即可，会后自动生成面谈总结和改进计划；
@@ -450,7 +447,9 @@ MAKE_REJECT("指标制定驳回")
 
 | **设备端操作指导** | **APP 端操作指导** |
 |-------------------------|-----------------------|
-| **A1 旗舰版指导：**<br>长按设备录音键 2 秒开始或停止录音<br>![image.png](assets/f8eb3161b8aaccccb3dbb21f59fedf8a.jpg) | **APP 端 开始录音操作指导：** |
+| **A1 旗舰版指导：**
+长按设备录音键 2 秒开始或停止录音
+![image.png](assets/f8eb3161b8aaccccb3dbb21f59fedf8a.jpg) | **APP 端 开始录音操作指导：** |
 
 ##### **3.3 AI 面谈分析报告**
 
@@ -459,7 +458,7 @@ MAKE_REJECT("指标制定驳回")
 首先需要在企业设置→数据连接中，开启钉钉A1![image.png](assets/94b99d353696be47b95fc9f23db32b5a.jpg)
 在面谈模板中设置面谈参与人是否允许使用A1![image.png](assets/b60fb96b05d11fdff9533429f62e48ba.jpg)
 
-<span style="color: #FFA726;">注意：并不是所有的人在面谈的时候可以使用钉钉A1，只有在模板中开启了“允许使用钉钉A1”，对应的面谈参与人才可以使用A1面谈小助理提交面谈内容。</span>
+注意：并不是所有的人在面谈的时候可以使用钉钉A1，只有在模板中开启了“允许使用钉钉A1”，对应的面谈参与人才可以使用A1面谈小助理提交面谈内容。
 
 **2）A1 支持 AI 面谈小助理对记录的内容进行自动化分析，分析结果会自动同步至智能绩效系统：**
 
@@ -481,11 +480,10 @@ MAKE_REJECT("指标制定驳回")
 <!-- 原文定位：绩效互通能力&开发文档/更新关键结果进度.md -->
 # 更新关键结果进度
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGME7ZYJKMEvZBY?utm_scene=team_space
+原文链接：https://oapi.dingteam.com/openapi/perf-okr/objective/changeProgress
 
 # 更新关键结果进度
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGME7ZYJKMEvZBY?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 请求地址
@@ -501,26 +499,26 @@ POST
 
 #### Headers
 
-| <span style="color: #262626;">**参数名称**</span> | <span style="color: #262626;">**参数值**</span> | <span style="color: #262626;">**是否必须**</span> | <span style="color: #262626;">**示例**</span> | <span style="color: #262626;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **示例** | **备注** |
 |-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">x-dingteam-access-token</span> | <span style="color: #262626;">企业凭证token</span> | <span style="color: #262626;">是</span> |  |  |
+| x-dingteam-access-token | 企业凭证token | 是 | | |
 
 #### Body
 
 | **名称** | **类型** | **是否必须** | **默认值** | **备注** |
 |----------|----------|----------------|-------------|----------|
-| krId | string | 必须 |  | 关键结果id |
-| currentValue | double | 必须 |  | 当前值 |
+| krId | string | 必须 | | 关键结果id |
+| currentValue | double | 必须 | | 当前值 |
 
 ### 返回数据
 
-| <span style="color: #262626;">**名称**</span> | <span style="color: #262626;">**类型**</span> | <span style="color: #262626;">**备注**</span> |
+| **名称** | **类型** | **备注** |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">code</span> | <span style="color: #262626;">number</span> |  |
-| <span style="color: #262626;">msg</span> | <span style="color: #262626;">string</span> |  |
-| <span style="color: #262626;">data</span> | <span style="color: #262626;">object</span> |  |
-| <span style="color: #262626;">errorData</span> | <span style="color: #262626;">null</span> |  |
-| <span style="color: #262626;">traceId</span> | <span style="color: #262626;">string</span> |  |
+| code | number | |
+| msg | string | |
+| data | object | |
+| errorData | null | |
+| traceId | string | |
 
 
 ---
@@ -528,15 +526,14 @@ POST
 <!-- 原文定位：绩效互通能力&开发文档/结果值外部结果同步接入文档.md -->
 # 结果值外部结果同步接入文档
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGMrLeAJKMEvZBY?utm_scene=team_space
+原文链接：https://oapi.dingteam.com
 
 # 结果值外部结果同步接入文档
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGMrLeAJKMEvZBY?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 具体逻辑
-1. 需要先获取考核周期列表，参考/openapi/perf/findCheckRsQueryList[考核结果数据同步接入文档](https://alidocs.dingtalk.com/i/p/lPDmrWQYAAe9dGxd/docs/7NkDwLng8ZM3Epg7HaGMb0wOJKMEvZBY)
+1. 需要先获取考核周期列表，参考/openapi/perf/findCheckRsQueryList考核结果数据同步接入文档
 2. 获取可以填写的结果值数据（选择了外部录入的指标），按照被考核人和指标的纬度，查询到可以操作的数据，满足条件为被考核人当前在结果值确认中，并且结果值确认中的指标为外部录入，并且外部录入的数据没有执行完成或者被跳过
 3. 执行提交分数接口，进行结果值外部数值写入，提交内容包含操作类型，暂存或者提交
 4. 支持外部录入的跳过，和驳回，外部录入的数值只有通过接口可以完成提交
@@ -553,126 +550,135 @@ https://oapi.dingteam.com
 ---
 
 
-##### <span style="background-color: #91D5FF;">在结果值节点外部录入列表</span>
+##### 在结果值节点外部录入列表
 
 获取到token之后，放在其他接口的请求Header中：x-dingteam-access-token：your token
 
 **请求方式：**POST
 
-**接口地址：**<span style="color: rgb(33, 33, 33);">/perf/findResultInputStep</span>
+**接口地址：**/perf/findResultInputStep
 
 **POST请求包结构体：**
 
-| **Headers** |  |  |  |
+| **Headers** | | | |
 |-----------|---|---|---|
-| **参数名称** | **参数值** | **是否必须** | <span style="background-color: #FFFFFF;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **备注** |
 | x-dingteam-access-token | 企业凭证token | 是 | 企业凭证接口获取 |
 ```DEFAULT_LANGUAGE
 {
-    "queryIds": [
-        "1-2022-M2",
-        "1-2023-M8",
-        "1-2022-M1",
-    ],
-    "userIds": [
-        "01556612501306099"
-    ]
+ "queryIds": [
+ "1-2022-M2",
+ "1-2023-M8",
+ "1-2022-M1",
+ ],
+ "userIds": [
+ "01556612501306099"
+ ]
 }
 ```
 
-| body参数说明 |  |
+| body参数说明 | |
 |----------------|---|
 | queryIds | 周期数组，最大长度不能超过10个 |
 | userIds | 查询的考核人员id，最大长度不能超过50 |
 ```js
 {
-    "code": 0,
-    "msg": "成功",
-    "data": [
-        {
-            "queryId": "2-2021-Q2",
-            "userId": "01556612501306099",
-            "checkTitle": "2021年第2季度绩效考核",
-          	"targetList":[{
-              	"targetId":"1gdn3jmov57vwlsiu1w21skmsb20i4jr",
-              	"targetName":"本月销售额",
-              	"remark":"完成率<60%，不得分",
-              	"targetCode":""
-            },
-            {
-              	"targetId":"1gdn3jmov57vwlsiurykhgvdsfyjdagd",
-              	"targetName":"日常工作细则或违规",
-              	"remark":"根据公司规章制度或部门操作细则执行",
-              	"targetCode":"1232dsafdsadsiurykhgvdsfyjdagd"
-            }]
-           
-        },
-        {
-            "queryId": "1-2030-M6",
-            "userId": "01556612501306099",
-            "checkTitle": "2030年06月绩效考核",
-            "targetList":[{
-              	"targetId":"1gdn3jmov57vwlsiudsadsadsadtrkkop",
-              	"targetName":"本月销售额",
-              	"remark":"完成率<60%，不得分",
-              	"targetCode":""
-            },
-            {
-              	"targetId":"1gdn3jmov57vwlsikllkfdopaskghpjdp",
-              	"targetName":"日常工作细则或违规",
-              	"remark":"根据公司规章制度或部门操作细则执行",
-              	"targetCode":""
-            }]
-        }
-    ],
-    "errorData": null,
-    "traceId": "1ftpbtuac1v2w89w26u7fis2cu88ee3p"
+ "code": 0,
+ "msg": "成功",
+ "data": [
+ {
+ "queryId": "2-2021-Q2",
+ "userId": "01556612501306099",
+ "checkTitle": "2021年第2季度绩效考核",
+ "targetList":[{
+ "targetId":"1gdn3jmov57vwlsiu1w21skmsb20i4jr",
+ "targetName":"本月销售额",
+ "remark":"完成率<60%，不得分",
+ "targetCode":""
+ },
+ {
+ "targetId":"1gdn3jmov57vwlsiurykhgvdsfyjdagd",
+ "targetName":"日常工作细则或违规",
+ "remark":"根据公司规章制度或部门操作细则执行",
+ "targetCode":"1232dsafdsadsiurykhgvdsfyjdagd"
+ }]
+
+ },
+ {
+ "queryId": "1-2030-M6",
+ "userId": "01556612501306099",
+ "checkTitle": "2030年06月绩效考核",
+ "targetList":[{
+ "targetId":"1gdn3jmov57vwlsiudsadsadsadtrkkop",
+ "targetName":"本月销售额",
+ "remark":"完成率<60%，不得分",
+ "targetCode":""
+ },
+ {
+ "targetId":"1gdn3jmov57vwlsikllkfdopaskghpjdp",
+ "targetName":"日常工作细则或违规",
+ "remark":"根据公司规章制度或部门操作细则执行",
+ "targetCode":""
+ }]
+ }
+ ],
+ "errorData": null,
+ "traceId": "1ftpbtuac1v2w89w26u7fis2cu88ee3p"
 }
 ```
 
 
-##### <span style="background-color: #91D5FF;">提交外部录入的结果值</span>
+##### 提交外部录入的结果值
 
 获取到token之后，放在其他接口的请求Header中：x-dingteam-access-token：your token
 
 **请求方式：**POST
 
-**接口地址：**<span style="color: rgb(33, 33, 33);">/perf/executeInputResultBatch</span>
+**接口地址：**/perf/executeInputResultBatch
 
 **POST请求包结构体：**
 
-| **Headers** |  |  |  |
+| **Headers** | | | |
 |-----------|---|---|---|
-| **参数名称** | **参数值** | **是否必须** | <span style="background-color: #FFFFFF;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **备注** |
 | x-dingteam-access-token | 企业凭证token | 是 | 企业凭证接口获取 |
 
 **请求参数说明：**
 
 要求外部录入的指标，在本次录入时，必须全部填充，否则无法完成提交和通过执行中
 
-| Object\[\] |  |  |  |  |
+| Object\[\] | | | | |
 |----------|---|---|---|---|
-|  | tyoe | 提交类型 | 支持 submit |  |
-|  | <span style="color: rgb(18, 20, 22);">inputResultDataList</span> | 结果值录入对象数组 | Object\[\] |  |
-|  | <ul><li><span style="color: rgb(18, 20, 22);">queryId</span></li></ul> | 周期id | String |  |
-|  | <ul><li><span style="color: rgb(18, 20, 22);">rsUserId</span></li></ul> | 被考核人userId | String |  |
-|  | <ul><li><span style="color: rgb(18, 20, 22);">targetResultValues</span></li></ul> | 录入指标明细 | Object\[\] |  |
-|  | -- <span style="color: rgb(18, 20, 22);">targetId</span> | 指标id | String |  |
-|  | -- <span style="color: rgb(18, 20, 22);">itemResultValue</span> | 结果值 | String |  |
-|  | -- <span style="color: rgb(18, 20, 22);">itemResultRemark</span> | 结果值说明 | String |  |
+| | tyoe | 提交类型 | 支持 submit | |
+| | inputResultDataList | 结果值录入对象数组 | Object\[\] | |
+| |
+
+- queryId
+ | 周期id | String | |
+| |
+
+- rsUserId
+ | 被考核人userId | String | |
+| |
+
+- targetResultValues
+ | 录入指标明细 | Object\[\] | |
+| | -- targetId | 指标id | String | |
+| | -- itemResultValue | 结果值 | String | |
+| | -- itemResultRemark | 结果值说明 | String | |
 ```js
 {
-    "type":"submit",
-    "inputResultDataList":[{
+ "type":"submit",
+ "inputResultDataList":[{
 
-        "queryId":"7-0-Y2022M11D9/Y2022M11D10-2022-11-09至2022-11-10绩效考核",
-        "rsUserId":"01151652685998",
-        "targetResultValues":[{
-            "targetId":"1ghdonvru77aw1e975w486lml3rj9igb",
-            "itemResultValue":"100",
-            "itemResultRemark":"外部2，提交后过节点"
-        }]
-    }]
+ "queryId":"7-0-Y2022M11D9/Y2022M11D10-2022-11-09至2022-11-10绩效考核",
+ "rsUserId":"01151652685998",
+ "targetResultValues":[{
+ "targetId":"1ghdonvru77aw1e975w486lml3rj9igb",
+ "itemResultValue":"100",
+ "itemResultRemark":"外部2，提交后过节点"
+ }]
+ }]
 
 }
 ```
@@ -680,11 +686,11 @@ https://oapi.dingteam.com
 **返回值：**
 ```js
 {
-    "code": 0,
-    "msg": "成功",
-    "data": true,
-    "errorData": null,
-    "traceId": "1ghdou1eq77ow1gw28c0g13380uq95u3"
+ "code": 0,
+ "msg": "成功",
+ "data": true,
+ "errorData": null,
+ "traceId": "1ghdou1eq77ow1gw28c0g13380uq95u3"
 }
 ```
 
@@ -694,36 +700,35 @@ https://oapi.dingteam.com
 <!-- 原文定位：绩效互通能力&开发文档/考核结果数据同步接入文档.md -->
 # 考核结果数据同步接入文档
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGMb0wOJKMEvZBY?utm_scene=team_space
+原文链接：https://oapi.dingteam.com
 
 # 考核结果数据同步接入文档
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGMb0wOJKMEvZBY?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 #### 签名计算规则
 
-java计算方式 
+java计算方式
 ```DEFAULT_LANGUAGE
 /**
- * @param secret    app的密钥，申请app时给出
+ * @param secret app的密钥，申请app时给出
  * @param timestamp 时间戳
- * @param appId     appId
- * @param corpId    授权的企业corpId
+ * @param appId appId
+ * @param corpId 授权的企业corpId
  */
 public static String calcSignature1(String secret,
-                                    long timestamp,
-                                    String appId,
-                                    String corpId)
-             throws NoSuchAlgorithmException, InvalidKeyException{
-    
-    Mac mac = Mac.getInstance("HmacSHA256");
-    SecretKeySpec key = new SecretKeySpec(secret.getBytes(), "HmacSHA256");
-    mac.init(key);
-    mac.update(appId.getBytes());
-    mac.update(corpId.getBytes());
-    byte[] bytes = mac.doFinal(Long.toString(timestamp).getBytes());
-    return Base64.getEncoder().encodeToString(bytes);
+ long timestamp,
+ String appId,
+ String corpId)
+ throws NoSuchAlgorithmException, InvalidKeyException{
+
+ Mac mac = Mac.getInstance("HmacSHA256");
+ SecretKeySpec key = new SecretKeySpec(secret.getBytes(), "HmacSHA256");
+ mac.init(key);
+ mac.update(appId.getBytes());
+ mac.update(corpId.getBytes());
+ byte[] bytes = mac.doFinal(Long.toString(timestamp).getBytes());
+ return Base64.getEncoder().encodeToString(bytes);
 }
 ```
 
@@ -761,12 +766,12 @@ https://oapi.dingteam.com
 ```DEFAULT_LANGUAGE
 
 {
-  "corpId": "dingxxxxxx7fe",
-  "data": "null",
-  "eventName": "CHECK_CALLBACK_URL",
-  "recordId": "1ftp6l87d1tmw1e8i1w26c0fd53433jj",
-  "signature": "bOYWT3fjQtUQ1bDHmR6pa7UqjGtn4ZrMA0xtVlFy3jg=",
-  "timestamp": 1646892063003
+ "corpId": "dingxxxxxx7fe",
+ "data": "null",
+ "eventName": "CHECK_CALLBACK_URL",
+ "recordId": "1ftp6l87d1tmw1e8i1w26c0fd53433jj",
+ "signature": "bOYWT3fjQtUQ1bDHmR6pa7UqjGtn4ZrMA0xtVlFy3jg=",
+ "timestamp": 1646892063003
 }
 ```
 
@@ -781,7 +786,7 @@ https://oapi.dingteam.com
 
 #### 数据格式
 
-#####   CHECK\_CALLBACK\_URL ：验证回调地址
+##### CHECK\_CALLBACK\_URL ：验证回调地址
 
 
 1. 注册回调地址时，立即触发，返回期望内容后，完成回调地址的注册
@@ -796,15 +801,15 @@ https://oapi.dingteam.com
 ```DEFAULT_LANGUAGE
 {
 	"checkIsDelete": false,
-    "recordType": "1",
+ "recordType": "1",
 	"checkTitle": "2022年08月绩效考核",
-    "beginDate": "1646892063003",
-    "endDate": "1646892063003",
+ "beginDate": "1646892063003",
+ "endDate": "1646892063003",
 	"perfGrade": "合格 7<x<8",
 	"perfFactor": "1.2",
 	"quantizeScore": "300",
-    "behaviorScore": "70",
-    "recordState": "1",
+ "behaviorScore": "70",
+ "recordState": "1",
 	"queryId": "1-2022-M8",
 	"userId": "0635116061639258"
 }
@@ -813,27 +818,27 @@ https://oapi.dingteam.com
 
  推送data数据说明
 - checkIsDelete：是否删除
-- <span style="color: #E53935;">recordType</span>：<span style="color: #E53935;">推送的考核类型，为空默认是人员考核</span>
+- recordType：推送的考核类型，为空默认是人员考核
 - checkTitle：考核标题
-- <span style="color: #E53935;">beginDate</span>：<span style="color: #E53935;">时间戳，自定义类型可能为空</span>
-- <span style="color: #E53935;">endDate</span>：<span style="color: #E53935;">时间戳，自定义类型可能为空</span>
+- beginDate：时间戳，自定义类型可能为空
+- endDate：时间戳，自定义类型可能为空
 - perfGrade：绩效等级
-- <span style="color: #E53935;">perfFactor</span>：<span style="color: #E53935;">绩效系数</span>
+- perfFactor：绩效系数
 - quantizeScore：量化分
 - behaviorScore：行为分
-- <span style="color: #E53935;">recordState：考核状态</span>
-- <span style="color: ;">queryId：考核周期</span>
-- <span style="color: #E53935;">userid：如果是人员考核，返回的就是人员id；如果是部门考核，返回的就是部门id</span>
+- recordState：考核状态
+- queryId：考核周期
+- userid：如果是人员考核，返回的就是人员id；如果是部门考核，返回的就是部门id
 
 
-| <span style="color: #E53935;">recordState：考核状态</span> |  |
+| recordState：考核状态 | |
 |---------------------------------------------------------------|---|
 | 1 | 进行中 |
 | 2 | 已完成（所有节点都已完成） |
 | 3 | 已停止（考核异常终止） |
 
 
-| <span style="color: #E53935;">recordType：参数说明</span> |  |
+| recordType：参数说明 | |
 |--------------------------------------------------------------|---|
 | 1 | 人员考核 |
 | 2 | 部门考核 |
@@ -849,7 +854,7 @@ https://oapi.dingteam.com
 
 ---
 
-###### <span style="background-color: #91D5FF;">获取企业凭证</span>
+###### 获取企业凭证
 
 获取到token之后，放在其他接口的请求Header中：x-dingteam-access-token：your token
 
@@ -860,26 +865,26 @@ https://oapi.dingteam.com
 **POST请求包结构体：**
 ```DEFAULT_LANGUAGE
 {
-  "appId":"123",
-  "corpId":"233",
-  "timestamp":1580009901,
-  "signature":"sadsadhgkdhsajkdhskajcisa"
+ "appId":"123",
+ "corpId":"233",
+ "timestamp":1580009901,
+ "signature":"sadsadhgkdhsajkdhskajcisa"
 }
 ```
 
-| **请求参数说明** |  |  |  |
+| **请求参数说明** | | | |
 |----------------------|---|---|---|
-| **参数名称** | **参数类型** | **是否必须** | <span style="background-color: #FFFFFF;">**备注**</span> |
+| **参数名称** | **参数类型** | **是否必须** | **备注** |
 | appId | String | 是 | 分配的APPID |
-| corpId | String | <span style="color: #404040;">是</span> | 企业id |
-| timestamp | Date | <span style="color: #404040;">是</span> | 时间戳 |
-| signature | Sreing | <span style="color: #404040;">是</span> | 签名串 |
+| corpId | String | 是 | 企业id |
+| timestamp | Date | 是 | 时间戳 |
+| signature | Sreing | 是 | 签名串 |
 
 **请求参数说明：**
 
-| **返回数据说明** |  |  |
+| **返回数据说明** | | |
 |----------------------|---|---|
-| **参数名称** | **类型** | <span style="background-color: #FFFFFF;">**备注**</span> |
+| **参数名称** | **类型** | **备注** |
 | code | String | 返回的响应码 |
 | msg | String | 响应码对应的消息 |
 | data | String | 返回的数据 |
@@ -888,7 +893,7 @@ https://oapi.dingteam.com
 
 ---
 
-###### <span style="background-color: #91D5FF;">获取企业考核周期</span>
+###### 获取企业考核周期
 
 获取到token之后，放在其他接口的请求Header中：x-dingteam-access-token：your token
 
@@ -898,29 +903,29 @@ https://oapi.dingteam.com
 
 **POST请求包结构体：**
 
-| <span style="color: #E03E3E;">**Headers**</span> |  |  |  |
+| **Headers** | | | |
 |------------------------------------------------|---|---|---|
-| **参数名称** | **参数值** | **是否必须** | <span style="background-color: #FFFFFF;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **备注** |
 | x-dingteam-access-token | 企业凭证token | 是 | 企业凭证接口获取 |
 ```DEFAULT_LANGUAGE
 {
-    “recordType”:"1"
-    "checkType":"1"
+ “recordType”:"1"
+ "checkType":"1"
 }
 ```
 
 
 数据说明
-- <span style="color: #E53935;">recordType：考核类型</span>
+- recordType：考核类型
 - checkType：周期类型
 
 
-| <span style="color: #E53935;">recordType：参数说明</span> |  |
+| recordType：参数说明 | |
 |--------------------------------------------------------------|---|
 | 1 | 人员考核 |
 | 2 | 部门考核 |
 
-| checkType：参数说明 |  |
+| checkType：参数说明 | |
 |------------------------|---|
 | 1 | 月度 |
 | 2 | 季度 |
@@ -934,30 +939,30 @@ https://oapi.dingteam.com
 	"code": 0,
 	"msg": "成功",
 	"data": [{
-			"queryId": "1-2030-M4",
-			"name": "2030年04月绩效考核"
-            "beginDate": "1646892063003"
-            "endDate": "1646892063003"  
-            
-		},
-		{
-			"queryId": "1-2010-M8",
-			"name": "2010年08月绩效考核"
-            "beginDate": "1646892063003"
-            "endDate": "1646892063003"
-		},
-		{
-			"queryId": "1-2030-M9",
-			"name": "2030年09月绩效考核"
-            "beginDate": "1646892063003"
-            "endDate": "1646892063003"
-		},
-		{
-			"queryId": "1-2037-M4",
-			"name": "2037年04月绩效考核"
-            "beginDate": "1646892063003"
-            "endDate": "1646892063003"
-		}
+ "queryId": "1-2030-M4",
+ "name": "2030年04月绩效考核"
+ "beginDate": "1646892063003"
+ "endDate": "1646892063003"
+
+ },
+ {
+ "queryId": "1-2010-M8",
+ "name": "2010年08月绩效考核"
+ "beginDate": "1646892063003"
+ "endDate": "1646892063003"
+ },
+ {
+ "queryId": "1-2030-M9",
+ "name": "2030年09月绩效考核"
+ "beginDate": "1646892063003"
+ "endDate": "1646892063003"
+ },
+ {
+ "queryId": "1-2037-M4",
+ "name": "2037年04月绩效考核"
+ "beginDate": "1646892063003"
+ "endDate": "1646892063003"
+ }
 	],
 	"errorData": null,
 	"traceId": "1ftxxxxxx2vhe"
@@ -968,11 +973,11 @@ https://oapi.dingteam.com
 #### Date数据说明
 - queryId：考核周期
 - name：考核周期名称
-- <span style="color: #E53935;">beginDate</span>：<span style="color: #E53935;">时间戳，自定义类型可能为空</span>
-- <span style="color: #E53935;">endDate</span>：<span style="color: #E53935;">时间戳，自定义类型可能为空</span>
+- beginDate：时间戳，自定义类型可能为空
+- endDate：时间戳，自定义类型可能为空
 
 
-###### <span style="background-color: #91D5FF;">批量查询用户考核结果</span>
+###### 批量查询用户考核结果
 
 获取到token之后，放在其他接口的请求Header中：x-dingteam-access-token：your token
 
@@ -982,93 +987,93 @@ https://oapi.dingteam.com
 
 **POST请求包结构体：**
 
-| **Headers** |  |  |  |
+| **Headers** | | | |
 |-----------|---|---|---|
-| **参数名称** | **参数值** | **是否必须** | <span style="background-color: #FFFFFF;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **备注** |
 | x-dingteam-access-token | 企业凭证token | 是 | 企业凭证接口获取 |
 ```DEFAULT_LANGUAGE
 {
-    "queryIds": [
-        "1-2022-M2",
-        "1-2023-M8",
-        "1-2022-M1",
-    ],
-    "userIds": [
-        "01556612501306099"
-    ]
+ "queryIds": [
+ "1-2022-M2",
+ "1-2023-M8",
+ "1-2022-M1",
+ ],
+ "userIds": [
+ "01556612501306099"
+ ]
 }
 ```
 
-| body参数说明 |  |
+| body参数说明 | |
 |----------------|---|
 | queryIds | 周期数组，最大长度不能超过10个 |
 | userIds | 查询的考核人员id/部门id，最大长度不能超过50 |
 ```json
 {
-    "code": 0,
-    "msg": "成功",
-    "data": [
-        {
-            "queryId": "2-2021-Q2",
-            "userId": "01556612501306099",
-            "checkTitle": "2021年第2季度绩效考核",
-            "recordState": "1",
-            "perfGrade": "合格 7<x<8",
-            "perfFactor": "1.2",
-            "quantizeScore": "900.00",
-            "behaviorScore": null,
-            "perfGrade": "萨满博尔赫斯pinkfol",
-            "checkIsDelete": false,
-            "stepTaskModels": [
-                          {
-                              "targetId": null,  
-                              "stepId": "1h65ambf8hiwgv59w1vnvlap26tiamn1",  // 大节点ID
-                              "weight": null,
-                              "taskId": "1h65ambobhiwgv5pw3pg9dns3bbqkni3",  // 小节点ID
-                              "checkStep": 105,   // 节点类型
-                              "title": "评分",    // 节点名称
-                              "userId": "5067184826464388",  // 评分人ID
-                              "name": "梁孟珂",    // 评分人名称
-                              "deptName": "无敌2",   // 评分人部门
-                              "avatar": "",   
-                              "score": "   66",   // 分数
-                              "illustration": "不不不不不不不不不",   // 评分说明
-                              "fileEntityList": null,
-                              "grade": null,
-                              "scoreAuth": null,
-                              "scoreInfoAuth": null,
-                              "isRead": null,
-                              "createdate": 1690248622000     // 时间
-                          },
-                          *****
-            ]
-        },
-        {
-            "queryId": "1-2030-M6",
-            "userId": "01556612501306099",
-            "checkTitle": "2030年06月绩效考核",
-            "recordState": "1",
-            "perfGrade": "合格 7<x<8",
-            "perfFactor": "1.2",
-            "quantizeScore": "11",
-            "behaviorScore": "2",
-            "perfGrade": "C",
-            "checkIsDelete": false,
-             "stepTaskModels": []
-    ],
-    "errorData": null,
-    "traceId": "1ftpbtuac1v2w89w26u7fis2cu88ee3p"
+ "code": 0,
+ "msg": "成功",
+ "data": [
+ {
+ "queryId": "2-2021-Q2",
+ "userId": "01556612501306099",
+ "checkTitle": "2021年第2季度绩效考核",
+ "recordState": "1",
+ "perfGrade": "合格 7<x<8",
+ "perfFactor": "1.2",
+ "quantizeScore": "900.00",
+ "behaviorScore": null,
+ "perfGrade": "萨满博尔赫斯pinkfol",
+ "checkIsDelete": false,
+ "stepTaskModels": [
+ {
+ "targetId": null,
+ "stepId": "1h65ambf8hiwgv59w1vnvlap26tiamn1", // 大节点ID
+ "weight": null,
+ "taskId": "1h65ambobhiwgv5pw3pg9dns3bbqkni3", // 小节点ID
+ "checkStep": 105, // 节点类型
+ "title": "评分", // 节点名称
+ "userId": "5067184826464388", // 评分人ID
+ "name": "梁孟珂", // 评分人名称
+ "deptName": "无敌2", // 评分人部门
+ "avatar": "",
+ "score": " 66", // 分数
+ "illustration": "不不不不不不不不不", // 评分说明
+ "fileEntityList": null,
+ "grade": null,
+ "scoreAuth": null,
+ "scoreInfoAuth": null,
+ "isRead": null,
+ "createdate": 1690248622000 // 时间
+ },
+ *****
+ ]
+ },
+ {
+ "queryId": "1-2030-M6",
+ "userId": "01556612501306099",
+ "checkTitle": "2030年06月绩效考核",
+ "recordState": "1",
+ "perfGrade": "合格 7<x<8",
+ "perfFactor": "1.2",
+ "quantizeScore": "11",
+ "behaviorScore": "2",
+ "perfGrade": "C",
+ "checkIsDelete": false,
+ "stepTaskModels": []
+ ],
+ "errorData": null,
+ "traceId": "1ftpbtuac1v2w89w26u7fis2cu88ee3p"
 }
 ```
 
-| 返回字段说明 |  |
+| 返回字段说明 | |
 |------------------|---|
 | queryId | 考核周期 |
-| <span style="color: #E53935;">userId</span> | <span style="color: #E53935;">考核用户userId/部门id</span> |
-| <span style="color: #E53935;">recordState</span> | <span style="color: #E53935;">考核状态</span> |
+| userId | 考核用户userId/部门id |
+| recordState | 考核状态 |
 | checkTitle | 考核标题 |
 | perfGrade | 绩效等级 |
-| <span style="color: #E53935;">perfFactor</span> | <span style="color: #E53935;">绩效系数</span> |
+| perfFactor | 绩效系数 |
 | quantizeScore | 量化分 |
 | behaviorScore | 行为分 |
 | checkIsDelete | 是否删除 |
@@ -1079,11 +1084,10 @@ https://oapi.dingteam.com
 <!-- 原文定位：绩效互通能力&开发文档/获取周期内目标列表.md -->
 # 获取周期内目标列表
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IQwpXll1VGXn6lpz?utm_scene=team_space
+原文链接：https://oapi.dingteam.com
 
 # 获取周期内目标列表
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWr7lAED9IQwpXll1VGXn6lpz?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 请求地址
@@ -1099,46 +1103,46 @@ POST
 
 #### Headers
 
-| <span style="color: #262626;">**参数名称**</span> | <span style="color: #262626;">**参数值**</span> | <span style="color: #262626;">**是否必须**</span> | <span style="color: #262626;">**示例**</span> | <span style="color: #262626;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **示例** | **备注** |
 |-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">x-dingteam-access-token</span> | <span style="color: #262626;">企业凭证token</span> | <span style="color: #262626;">是</span> |  |  |
+| x-dingteam-access-token | 企业凭证token | 是 | | |
 
 #### Body
 
 | **名称** | **类型** | **是否必须** | **默认值** | **备注** |
 |----------|----------|----------------|-------------|----------|
-| okrId | string | 必须 |  | 周期id |
-| pageNo | string | 必须 |  |  |
-| pageSize | string | 非必须 |  | 最多40条每页（不指定默认40条） |
+| okrId | string | 必须 | | 周期id |
+| pageNo | string | 必须 | | |
+| pageSize | string | 非必须 | | 最多40条每页（不指定默认40条） |
 
 ### 返回数据
 
-| <span style="color: #262626;">**名称**</span> | <span style="color: #262626;">**类型**</span> | <span style="color: #262626;">**备注**</span> |
+| **名称** | **类型** | **备注** |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">code</span> | <span style="color: #262626;">number</span> |  |
-| <span style="color: #262626;">msg</span> | <span style="color: #262626;">string</span> |  |
-| <span style="color: #262626;">data</span> | <span style="color: #262626;">object\[\]</span> |  |
-| <span style="color: #262626;">\- pageNo</span> | <span style="color: #262626;">numver</span> |  |
-| <span style="color: #262626;">\- pageSize</span> | number |  |
-| <span style="color: #262626;">\- list</span> | object\[\] |  |
+| code | number | |
+| msg | string | |
+| data | object\[\] | |
+| \- pageNo | numver | |
+| \- pageSize | number | |
+| \- list | object\[\] | |
 | - id | string | 目标id |
 | -  name | string | 目标名称 |
-| <span style="color: #262626;">- type</span> | number | 目标类型 1公司级 2部门级 3个人级 |
-| <span style="color: #262626;">- progress</span> | number | 进度 |
-| <span style="color: #262626;">- owner</span> | object |  |
-| <span style="color: #262626;">- userId</span> | string | 负责人id |
-| <span style="color: #262626;">- name</span> | string | 负责人姓名 |
-| <span style="color: #262626;">- deptNames</span> | string\[\] | 所在部门list |
-| <span style="color: #262626;">- krs</span> | object\[\] |  |
-| <span style="color: #262626;">- id</span> | string | 关键结果id |
-| <span style="color: #262626;">- name</span> | string | 关键结果名称 |
-| <span style="color: #262626;">- progress</span> | number | 关键结果进度 |
-| <span style="color: #262626;">- weight</span> | number | 权重 |
-| <span style="color: #262626;">- createdAt</span> | date | 创建时间 |
-| <span style="color: #262626;">- totalPages</span> | number |  |
-| <span style="color: #262626;">- totalCount</span> | number |  |
-| <span style="color: #262626;">errorData</span> | <span style="color: #262626;">null</span> |  |
-| <span style="color: #262626;">traceId</span> | <span style="color: #262626;">string</span> |  |
+| - type | number | 目标类型 1公司级 2部门级 3个人级 |
+| - progress | number | 进度 |
+| - owner | object | |
+| - userId | string | 负责人id |
+| - name | string | 负责人姓名 |
+| - deptNames | string\[\] | 所在部门list |
+| - krs | object\[\] | |
+| - id | string | 关键结果id |
+| - name | string | 关键结果名称 |
+| - progress | number | 关键结果进度 |
+| - weight | number | 权重 |
+| - createdAt | date | 创建时间 |
+| - totalPages | number | |
+| - totalCount | number | |
+| errorData | null | |
+| traceId | string | |
 
 
 ---
@@ -1146,11 +1150,10 @@ POST
 <!-- 原文定位：绩效互通能力&开发文档/获取周期列表.md -->
 # 获取周期列表
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTlxbQqZmV6zbX04v?utm_scene=team_space
+原文链接：https://oapi.dingteam.com
 
 # 获取周期列表
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/QG53mjyd80Rj9xEaTlxbQqZmV6zbX04v?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 请求地址
@@ -1166,22 +1169,22 @@ POST
 
 #### Headers
 
-| <span style="color: #262626;">**参数名称**</span> | <span style="color: #262626;">**参数值**</span> | <span style="color: #262626;">**是否必须**</span> | <span style="color: #262626;">**示例**</span> | <span style="color: #262626;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **示例** | **备注** |
 |-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">x-dingteam-access-token</span> | <span style="color: #262626;">企业凭证token</span> | <span style="color: #262626;">是</span> |  |  |
+| x-dingteam-access-token | 企业凭证token | 是 | | |
 
 ### 返回数据
 
-| <span style="color: #262626;">**名称**</span> | <span style="color: #262626;">**类型**</span> | <span style="color: #262626;">**备注**</span> |
+| **名称** | **类型** | **备注** |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">code</span> | <span style="color: #262626;">number</span> |  |
-| <span style="color: #262626;">msg</span> | <span style="color: #262626;">string</span> |  |
-| <span style="color: #262626;">data</span> | <span style="color: #262626;">object\[\]</span> |  |
-| <span style="color: #262626;">\- id</span> | <span style="color: #262626;">string</span> | <span style="color: #262626;">周期id</span> |
-| <span style="color: #262626;">\- name</span> | <span style="color: #262626;">string</span> | <span style="color: #262626;">周期名称</span> |
-| <span style="color: #262626;">\- type</span> | <span style="color: #262626;">number</span> | <span style="color: #262626;">周期类型 1月度 2季度 3半年度 4年度 5自定义</span> |
-| <span style="color: #262626;">errorData</span> | <span style="color: #262626;">null</span> |  |
-| <span style="color: #262626;">traceId</span> | <span style="color: #262626;">string</span> |  |
+| code | number | |
+| msg | string | |
+| data | object\[\] | |
+| \- id | string | 周期id |
+| \- name | string | 周期名称 |
+| \- type | number | 周期类型 1月度 2季度 3半年度 4年度 5自定义 |
+| errorData | null | |
+| traceId | string | |
 
 
 ---
@@ -1189,36 +1192,35 @@ POST
 <!-- 原文定位：绩效互通能力&开发文档/获取安全密钥.md -->
 # 获取安全密钥
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/YQBnd5ExVEwmG2reH0rbjenA8yeZqMmz?utm_scene=team_space
+原文链接：https://oapi.dingteam.com
 
 # 获取安全密钥
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/YQBnd5ExVEwmG2reH0rbjenA8yeZqMmz?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 #### 签名计算规则
 
-java计算方式 
+java计算方式
 ```DEFAULT_LANGUAGE
 /**
- * @param secret    app的密钥，申请app时给出
+ * @param secret app的密钥，申请app时给出
  * @param timestamp 时间戳
- * @param appId     appId
- * @param corpId    授权的企业corpId
+ * @param appId appId
+ * @param corpId 授权的企业corpId
  */
 public static String calcSignature1(String secret,
-                                    long timestamp,
-                                    String appId,
-                                    String corpId)
-             throws NoSuchAlgorithmException, InvalidKeyException{
-    
-    Mac mac = Mac.getInstance("HmacSHA256");
-    SecretKeySpec key = new SecretKeySpec(secret.getBytes(), "HmacSHA256");
-    mac.init(key);
-    mac.update(appId.getBytes());
-    mac.update(corpId.getBytes());
-    byte[] bytes = mac.doFinal(Long.toString(timestamp).getBytes());
-    return Base64.getEncoder().encodeToString(bytes);
+ long timestamp,
+ String appId,
+ String corpId)
+ throws NoSuchAlgorithmException, InvalidKeyException{
+
+ Mac mac = Mac.getInstance("HmacSHA256");
+ SecretKeySpec key = new SecretKeySpec(secret.getBytes(), "HmacSHA256");
+ mac.init(key);
+ mac.update(appId.getBytes());
+ mac.update(corpId.getBytes());
+ byte[] bytes = mac.doFinal(Long.toString(timestamp).getBytes());
+ return Base64.getEncoder().encodeToString(bytes);
 }
 ```
 
@@ -1256,12 +1258,12 @@ https://oapi.dingteam.com
 ```DEFAULT_LANGUAGE
 
 {
-  "corpId": "dingxxxxxx7fe",
-  "data": "null",
-  "eventName": "CHECK_CALLBACK_URL",
-  "recordId": "1ftp6l87d1tmw1e8i1w26c0fd53433jj",
-  "signature": "bOYWT3fjQtUQ1bDHmR6pa7UqjGtn4ZrMA0xtVlFy3jg=",
-  "timestamp": 1646892063003
+ "corpId": "dingxxxxxx7fe",
+ "data": "null",
+ "eventName": "CHECK_CALLBACK_URL",
+ "recordId": "1ftp6l87d1tmw1e8i1w26c0fd53433jj",
+ "signature": "bOYWT3fjQtUQ1bDHmR6pa7UqjGtn4ZrMA0xtVlFy3jg=",
+ "timestamp": 1646892063003
 }
 ```
 
@@ -1274,7 +1276,7 @@ https://oapi.dingteam.com
 - timestamp	：	时间戳
 
 
-#####   CHECK\_CALLBACK\_URL ：验证回调地址
+##### CHECK\_CALLBACK\_URL ：验证回调地址
 1. 注册回调地址时，立即触发，返回期望内容后，完成回调地址的注册
 
 
@@ -1283,11 +1285,10 @@ https://oapi.dingteam.com
 <!-- 原文定位：绩效互通能力&开发文档/获取目标下的任务列表.md -->
 # 获取目标下的任务列表
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNFQm6X6eYWn4qY5Pr?utm_scene=team_space
+原文链接：https://oapi.dingteam.com/openapi/perf-okr/objective/findObjTasks
 
 # 获取目标下的任务列表
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9lAEkNFQm6X6eYWn4qY5Pr?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 请求地址
@@ -1303,24 +1304,24 @@ POST
 
 #### Headers
 
-| <span style="color: #262626;">**参数名称**</span> | <span style="color: #262626;">**参数值**</span> | <span style="color: #262626;">**是否必须**</span> | <span style="color: #262626;">**示例**</span> | <span style="color: #262626;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **示例** | **备注** |
 |-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">x-dingteam-access-token</span> | <span style="color: #262626;">企业凭证token</span> | <span style="color: #262626;">是</span> |  |  |
+| x-dingteam-access-token | 企业凭证token | 是 | | |
 
 #### Body
 
 | **名称** | **类型** | **是否必须** | **默认值** | **备注** |
 |----------|----------|----------------|-------------|----------|
-| objectiveId | string | 必须 |  | 目标id |
+| objectiveId | string | 必须 | | 目标id |
 
 ### 返回数据
 
-| <span style="color: #262626;">**名称**</span> | <span style="color: #262626;">**类型**</span> | <span style="color: #262626;">**备注**</span> |
+| **名称** | **类型** | **备注** |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">code</span> | <span style="color: #262626;">number</span> |  |
-| <span style="color: #262626;">msg</span> | <span style="color: #262626;">string</span> |  |
-| <span style="color: #262626;">data</span> | <span style="color: #262626;">object\[\]</span> |  |
-| <span style="color: #262626;">\- objectiveId</span> | string | 目标id |
+| code | number | |
+| msg | string | |
+| data | object\[\] | |
+| \- objectiveId | string | 目标id |
 | \- name | string | 目标名称 |
 | \- krs | object\[\] | 关键结果list |
 | - krId | string | 关键结果id |
@@ -1330,8 +1331,8 @@ POST
 | - name | string | 任务名称 |
 | - deadline | number | 截止时间 |
 | - ownerName | string | 负责人姓名 |
-| <span style="color: #262626;">errorData</span> | <span style="color: #262626;">null</span> |  |
-| <span style="color: #262626;">traceId</span> | <span style="color: #262626;">string</span> |  |
+| errorData | null | |
+| traceId | string | |
 
 ##
 
@@ -1341,11 +1342,10 @@ POST
 <!-- 原文定位：绩效互通能力&开发文档/获取目标操作记录.md -->
 # 获取目标操作记录
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTBlD2pNvVB5r9YAn?utm_scene=team_space
+原文链接：https://oapi.dingteam.com/openapi/perf-okr/objective/findObjLogs
 
 # 获取目标操作记录
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/G1DKw2zgV2RXgOEnTBlD2pNvVB5r9YAn?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 请求地址
@@ -1353,7 +1353,7 @@ POST
 https://oapi.dingteam.com/openapi/perf-okr/objective/findObjLogs
 ```
 
-### 请求方法 
+### 请求方法
 
 POST
 
@@ -1361,29 +1361,34 @@ POST
 
 #### Headers
 
-| <span style="color: #262626;">**参数名称**</span> | <span style="color: #262626;">**参数值**</span> | <span style="color: #262626;">**是否必须**</span> | <span style="color: #262626;">**示例**</span> | <span style="color: #262626;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **示例** | **备注** |
 |-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">x-dingteam-access-token</span> | <span style="color: #262626;">企业凭证token</span> | <span style="color: #262626;">是</span> |  |  |
+| x-dingteam-access-token | 企业凭证token | 是 | | |
 
 #### Body
 
 | **名称** | **类型** | **是否必须** | **默认值** | **备注** |
 |----------|----------|----------------|-------------|----------|
-| objectiveId | string | 必须 |  | 目标id |
-| logTypeCells | object\[\] |  |  | 日志筛选 |
-| \- moduleType | number | 必须 |  | 模块类型 1评论2记录3文件 |
-| \- type | number |  |  | 子类型（记录支持子类型）<br>1创建 2更新 3修改进度 4删除<br>5评论 7添加关键结果 8删除关键结果 9更新关键结果 10评分<br>21添加任务 22编辑任务<br>23删除任务 24完成任务<br>25重启任务 |
-| pageNo | string | 必须 | 1 |  |
-| pageSize | string | 非必须 |  | 最多40条每页（不指定默认40条） |
+| objectiveId | string | 必须 | | 目标id |
+| logTypeCells | object\[\] | | | 日志筛选 |
+| \- moduleType | number | 必须 | | 模块类型 1评论2记录3文件 |
+| \- type | number | | | 子类型（记录支持子类型）
+1创建 2更新 3修改进度 4删除
+5评论 7添加关键结果 8删除关键结果 9更新关键结果 10评分
+21添加任务 22编辑任务
+23删除任务 24完成任务
+25重启任务 |
+| pageNo | string | 必须 | 1 | |
+| pageSize | string | 非必须 | | 最多40条每页（不指定默认40条） |
 
 ### 返回数据
 
-| <span style="color: #262626;">**名称**</span> | <span style="color: #262626;">**类型**</span> | <span style="color: #262626;">**备注**</span> |
+| **名称** | **类型** | **备注** |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">code</span> | <span style="color: #262626;">number</span> |  |
-| <span style="color: #262626;">msg</span> | <span style="color: #262626;">string</span> |  |
-| <span style="color: #262626;">data</span> | <span style="color: #262626;">object\[\]</span> |  |
-| <span style="color: #262626;">\- objectiveId</span> | string | 目标id |
+| code | number | |
+| msg | string | |
+| data | object\[\] | |
+| \- objectiveId | string | 目标id |
 | \- name | string | 目标名称 |
 | \- pageNo | number | 页数 |
 | \- pageSize | number | 单页大小 |
@@ -1391,8 +1396,8 @@ POST
 | - content | string | 日志内容 |
 | - createdAt | number | 创建时间 |
 | - creator | string | 创建者 |
-| <span style="color: #262626;">errorData</span> | <span style="color: #262626;">null</span> |  |
-| <span style="color: #262626;">traceId</span> | <span style="color: #262626;">string</span> |  |
+| errorData | null | |
+| traceId | string | |
 
 
 ---
@@ -1400,11 +1405,10 @@ POST
 <!-- 原文定位：绩效互通能力&开发文档/获取项目列表.md -->
 # 获取项目列表
 
-原文链接：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGe0P0RJKMEvZBY?utm_scene=team_space
+原文链接：https://oapi.dingteam.com
 
 # 获取项目列表
 
-> 来源：https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3Epg7HaGe0P0RJKMEvZBY?utm_scene=team_space
 > 知识库路径：绩效互通能力&开发文档
 
 ### 请求地址
@@ -1412,7 +1416,7 @@ POST
 https://oapi.dingteam.com /openapi/perf-okr/project/listPage
 ```
 
-### 请求方法 
+### 请求方法
 
 POST
 
@@ -1420,40 +1424,40 @@ POST
 
 #### Headers
 
-| <span style="color: #262626;">**参数名称**</span> | <span style="color: #262626;">**参数值**</span> | <span style="color: #262626;">**是否必须**</span> | <span style="color: #262626;">**示例**</span> | <span style="color: #262626;">**备注**</span> |
+| **参数名称** | **参数值** | **是否必须** | **示例** | **备注** |
 |-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">x-dingteam-access-token</span> | <span style="color: #262626;">企业凭证token</span> | <span style="color: #262626;">是</span> |  |  |
+| x-dingteam-access-token | 企业凭证token | 是 | | |
 
 #### Body
 
 | **名称** | **类型** | **是否必须** | **默认值** | **备注** |
 |----------|----------|----------------|-------------|----------|
 | pageNo | number | 是 | 1 | 页数 |
-| pageSize | number |  | 10 | 一页的大小 |
-| spaceId | string | 是 |  | 空间id，绩效不支持多空间，请设置为：1 |
-| name | string |  |  | 项目名称（搜索时使用） |
+| pageSize | number | | 10 | 一页的大小 |
+| spaceId | string | 是 | | 空间id，绩效不支持多空间，请设置为：1 |
+| name | string | | | 项目名称（搜索时使用） |
 
 ### 返回数据
 
-| <span style="color: #262626;">**名称**</span> | <span style="color: #262626;">**类型**</span> | <span style="color: #262626;">**备注**</span> |
+| **名称** | **类型** | **备注** |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <span style="color: #262626;">code</span> | <span style="color: #262626;">number</span> |  |
-| <span style="color: #262626;">msg</span> | <span style="color: #262626;">string</span> |  |
-| <span style="color: #262626;">data</span> | <span style="color: #262626;">object\[\]</span> |  |
+| code | number | |
+| msg | string | |
+| data | object\[\] | |
 | \- pageNo | number | 页数 |
 | \- pageSize | number | 单页大小 |
-| \- <span style="background-color: rgb(255, 255, 254);">totalPages</span> | number | 总页数 |
-| \- <span style="background-color: rgb(255, 255, 254);">totalCount</span> | number | 总数量 |
+| \- totalPages | number | 总页数 |
+| \- totalCount | number | 总数量 |
 | \- list | object\[\] | 项目信息列表 |
-| - <span style="background-color: rgb(255, 255, 254);">okrProjectId</span> | string | 项目id |
-| -  <span style="background-color: rgb(255, 255, 254);">name</span> | string | 项目名称 |
+| - okrProjectId | string | 项目id |
+| - name | string | 项目名称 |
 | - creator | object\[\] | 创建人信息 |
 | - id | string | 人员id |
-| -  <span style="background-color: rgb(255, 255, 254);">name</span> | string | 姓名 |
-| -  <span style="background-color: rgb(255, 255, 254);">avatar</span> | string | 头像 |
-|    \-  <span style="background-color: rgb(255, 255, 254);">owner</span> | object\[\] | 负责人信息 |
+| - name | string | 姓名 |
+| - avatar | string | 头像 |
+| \- owner | object\[\] | 负责人信息 |
 | - id | string | 人员id |
-| -  <span style="background-color: rgb(255, 255, 254);">name</span> | string | 姓名 |
-| -  <span style="background-color: rgb(255, 255, 254);">avatar</span> | string | 头像 |
-| <span style="color: #262626;">errorData</span> | <span style="color: #262626;">null</span> |  |
-| <span style="color: #262626;">traceId</span> | <span style="color: #262626;">string</span> |  |
+| - name | string | 姓名 |
+| - avatar | string | 头像 |
+| errorData | null | |
+| traceId | string | |
