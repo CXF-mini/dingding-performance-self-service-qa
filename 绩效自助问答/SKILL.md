@@ -1,10 +1,10 @@
 ---
-name: dingding-performance-self-service-qa
+name: 绩效自助问答
 description: This skill should be used when answering questions about DingTalk Smart Performance, including administrator, department manager, employee operations, indicators, appraisal forms, assessments, goals, action plans, FAQs, add-on features, update logs, and integration documents. It answers only from the verified source pages and registered image evidence in this skill; it preserves source titles, links, paths, buttons, roles, limitations, errors, solutions, and evidence levels, and marks unsupported or environment-dependent content as "无法确认".
 agent_created: true
 ---
 
-# 智能绩效自助答疑知识库
+# 绩效自助问答
 
 ## 目的
 
